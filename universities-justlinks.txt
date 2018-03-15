@@ -1203,6 +1203,7 @@ http://www.ensic.u-nancy.fr/
 http://www.ensitm.fr/
 http://www.ensm-ales.fr/
 http://www.ensm-douai.fr/
+http://evangeluniversity.edu.ng
 http://www.mines.u-nancy.fr/
 http://www.ensmp.fr/
 http://www.emse.fr/

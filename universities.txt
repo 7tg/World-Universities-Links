@@ -1,7 +1,7 @@
 1 December University of Alba Iulia,http://www.uab.ro/
 2nd Military Medical University,http://www.smmu.edu.cn/
 3rd Military Medical University,http://www.tmmu.edu.cn/
-4th Military Medical University,http://www.fmmu.edu.cn/
+4th Military Medical University,https://www.fmmu.edu.cn/
 AAB College,http://aab-edu.net/
 Aalborg Business College,http://www.ah.dk/
 Aalborg University,http://www.aau.dk/
@@ -36,7 +36,6 @@ Academy of Economics in Cracow,http://www.ae.krakow.pl/
 Academy of Economics in Katowice,http://www.ae.katowice.pl/
 Academy of Economics in Poznan,http://www.ae.poznan.pl/
 Academy of Economics in Wroclaw,http://www.ae.wroc.pl/
-Academy of Economic Studies of Moldova,http://www.ase.md/
 Academy of Engineering Sciences,http://www.aes.edu.sd/
 Academy of Fine Arts,http://www.kuva.fi/
 Academy of Fine Arts and Design in Bratislava,http://www.vsvu.sk/
@@ -84,8 +83,8 @@ African Virtual University,http://www.avu.org/
 Africa University,http://www.africau.edu/
 Afriford University,http://www.afriford.com/
 Afyon Kocatepe University,http://aku.edu.tr/
-Aga Khan University,https://www.aku.edu/
 Aga Khan University,http://www.aku.edu/
+Aga Khan University,https://www.aku.edu/
 Aga Khan University,https://www.aku.edu/
 Aga Khan University,https://www.aku.edu/
 Aga Khan University,http://www.aku.edu/
@@ -109,7 +108,8 @@ Ahfad University for Women,http://www.ahfad.edu.sd/
 Ahi Evran University,https://www.ahievran.edu.tr/
 Ahlulbait International University,http://www.ahlulbaitonline.com/
 Ahmadu Bello University,https://www.abu.edu.ng/
-Ahmedabad University,http://www.ahduni.edu.in/
+Ahmedabad University,https://ahduni.edu.in/
+Ahram Canadian University,http://www.acu.edu.eg/
 Ahsanullah University of Science & Technology,http://www.aust.edu/
 Ahvaz University of Medical Sciences,http://www.aums.ac.ir/
 Ahwaz Jondishapour University of Medical Sciences,http://www.ajums.ac.ir/
@@ -159,8 +159,8 @@ Al-Aqsa University,http://www.alaqsa.edu.ps/
 Al-Asmarya University for Islamic Studies,http://www.asmarya.edu.ly/
 Al Azhar University,http://www.azhar.edu.eg/
 Al-Azhar University of Gaza,http://www.alazhar.edu.ps/
-Al-Baath University,http://www.albaath-univ.edu.sy/
-Al-baha University,http://www.bu.edu.sa/
+Al-Baath University,http://albaath-univ.edu.sy/
+Al-Baha University,https://bu.edu.sa/
 Al-Balqa Applied University,http://www.bau.edu.jo/
 Al-Batterjee Medical College,http://www.bmcmedcollege.com/
 Albert-Ludwigs-Universität Freiburg,http://www.uni-freiburg.de/
@@ -170,14 +170,13 @@ Al-Buraimi University College,http://www.buc.edu.om/
 Aleksander Gieysztor School of Humanities in Pultusk,http://www.wsh.edu.pl/
 Aleksander Zelwerowicz State Theatre Academy,http://www.at.edu.pl/
 Aleksandras Stulginskis university,https://asu.lt/
-Al-Eman University,http://www.jameataleman.org/
 Aletheia University,http://www.au.edu.tw/
 Alexandria University,http://www.alexu.edu.eg/
 Alfaisal University,http://www.alfaisal.edu/
 Al Falah University,https://afu.ac.ae/
 Al-Farabi Kazakh National University,http://www.kaznu.kz/
 Al Fashir University,http://www.fashir.edu.sd/
-Alfred Nobel University of Economics and Law ,http://www.duep.edu/
+Alfred Nobel University of Economics and Law ,http://duan.edu.ua/
 Al Ghurair University,https://www.agu.ae/
 Algonquin College,http://www.algonquincollege.com/
 Alhamd Islamic University,http://www.aiu.edu.pk/
@@ -192,8 +191,8 @@ Al-Islah University,http://www.islahonline.org/
 Al-Isra University,http://www.iu.edu.jo/
 Al-Jabal Al-Gharbi University,http://www.jgu.edu.ly/
 Aljouf University,http://www.ju.edu.sa/
+Alkafeel University College,http://uch.edu.iq/
 Al-Khair University,http://alkhair.edu.pk/
-Alkharj University,http://www.ku.edu.sa/
 Al Khawarizmi International College,http://www.khawarizmi.com/
 Allahabad Agricultural Institute, Deemed University,http://www.aaidu.org/
 Allahabad University,http://www.alldunivpio.org/
@@ -208,23 +207,24 @@ Al Madinah International University,http://www.mediu.edu.my/
 Al Mamon University College,http://www.almamonuc.org/
 Al-Manar University,http://www.mut.edu.lb/
 Al Mansour University College,http://www.muc.edu.iq/
+Almaty Management University ,https://www.almau.edu.kz/
 Almustafa Open University,http://www.almustafaou.ir/
-Al Muthanna University,http://www.uoalmuthana.edu.iq/
-Al Nahrain University,http://www.nahrainuniv.edu.iq/
+Al Muthanna University,http://mu.edu.iq/
+Al Nahrain University,http://nahrainuniv.edu.iq/
 Al-Nasser University,http://www.al-edu.com/
+Al-Nisour University Collge,http://nuc.edu.iq/
 Alpen-Adria-Universität Klagenfurt,https://www.aau.at/
 Al-Qalam University, Katsina,http://www.auk.edu.ng/
 Al-Quds Open University,http://www.qou.edu/
 Al-Quds University - The Arab University in Jerusalem,http://www.alquds.edu/
-Al Rafidain University College,http://www.coalrafidain.edu.iq/
+Al Rafidain University College,http://raf.coalrafidain.edu.iq/
 Al Rasheed University College,http://www.alrasheed-uc.com/
-Alsadrain University,http://www.alsadrain.org/
 Altai State Medical University,http://www.asmu.ru/
 Altai State Technical University,http://www.astu.secna.ru/
 Altai State University,http://www.asu.ru/
 Al Turath University College,http://www.turathun.com/
 Al-Wataniya Private University,http://www.wpu.edu.sy/
-Al-Yamamah College,http://www.alyamamah.edu.sa/
+Al-Yamamah University,https://yu.edu.sa/
 Al Yarmouk University College,http://www.yu.edu.jo/
 Al-Zaiem Al-Azhari University,http://www.aau.edu.sd/
 Al-Zaytoonah University,http://www.zuj.edu.jo/
@@ -254,8 +254,9 @@ American University of Barbados,http://www.aubmed.org/
 American University of Beirut,http://www.aub.edu.lb/
 American University of Central Asia,http://www.auca.kg/
 American University of Culture and Education ,http://www.auce.edu.lb/
-American University of Iraq, Sulaimani (Kurdistan Region),http://www.auis.edu.iq/
+American University of Iraq, Sulaimani (Kurdistan Region),https://auis.edu.krd/
 American University of Kuwait ,http://www.auk.edu.kw/
+American University of Madaba,https://aum.edu.jo/
 American University of Middle East,http://www.aum.edu.kw/
 American University of Paris,http://www.aup.fr/
 American University of Science and Technology,https://www.aust.edu.lb/
@@ -270,7 +271,7 @@ Amity University,http://www.amity.edu/
 Amman Arab University for Higher Studies,http://www.aau.edu.jo/
 Amoud University,http://www.amouduniversity.org/
 Amravati University,http://www.amtuni.com/
-Amrita Vishwa Vidyapeetham (Deemed University),http://www.amrita.edu/
+Amrita Vishwa Vidyapeetham (Deemed University),https://www.amrita.edu/
 Amur State University,http://www.amursu.ru/
 Anadolu University,http://www.anadolu.edu.tr/
 Anambra State University of Science and Technology,http://www.ansu.edu.ng/
@@ -291,8 +292,8 @@ Anhui University of Traditional Chinese Medicine,http://www.ahtcm.edu.cn/
 Ankara University,http://www.ankara.edu.tr/
 An-Najah National University,http://www.najah.edu/
 Annamalai University,http://www.annamalaiuniversity.ac.in/
-Anna University,http://www.annauniv.edu/
-Anna University of Technology, Tirunelveli,http://www.annauniv.edu.in/
+Anna University,https://www.annauniv.edu/
+Anna University of Technology, Tirunelveli,http://www.auttvl.ac.in/
 Anton Bruckner Privatuniversität ,http://www.bruckneruni.at/
 Anton de Kom University,http://www.uvs.edu/
 Aomori Chuoh Gakuin University,http://www.aomoricgu.ac.jp/
@@ -300,8 +301,8 @@ Aomori Public College,http://www.nebuta.ac.jp/
 Aomori University,http://www.aomori-u.ac.jp/
 Aomori University of Health and Welfare,http://www.auhw.ac.jp/
 Aoyama Gakuin University,http://www.aoyama.ac.jp/
-Applied Science University,http://www.asu.edu.bh/
 Applied Science University,http://www.asu.edu.jo/
+Applied Science University,http://www.asu.edu.bh/
 AP University College,https://www.ap.be/
 Aquinas University,http://www.aquinas-university.edu/
 Arab Academy for Banking and Financial Sciences,http://www.aabfs.org/
@@ -309,12 +310,12 @@ Arab Academy for Science & Technology,http://www.aast.edu/
 Arab American University - Jenin,http://www.aauj.edu/
 Arab European University,http://www.aiu.edu.sy/
 Arabian Gulf University,http://www.agu.edu.bh/
-Arab Open University,http://www.aou.edu.eg/
 Arab Open University,http://web.aou.edu.lb/
-Arab Open University,http://www.aou.org.bh/
-Arab Open University,http://www.aou.edu.jo/
-Arab Open University,http://www.arabou.org.sa/
+Arab Open University,http://www.aou.edu.eg/
 Arab Open University,http://www.aou.edu.om/
+Arab Open University,http://www.arabou.org.sa/
+Arab Open University,http://www.aou.edu.jo/
+Arab Open University,http://www.aou.org.bh/
 Arab Open University, Kuwait Branch,http://www.aou.edu.kw/
 Arak University,http://www.araku.ac.ir/
 Arak University of Medical Sciences,http://www.arakmu.ac.ir/
@@ -347,7 +348,8 @@ Ashkelon Academic College,http://www.ash-college.ac.il/
 Ashton College,http://www.ashtoncollege.ca/
 Asia E University,http://www.aeu.edu.my/
 Asia Europe University,http://www.aeu.edu.kh/
-Asian Business School,http://www.abs.edu.in/
+Asian Business School,http://abs.edu.in/
+Asian Institute of Hospitality and Tourism,http://aiht.edu.in/
 Asian Institute of Technology,http://www.ait.ac.th/
 Asian Medical Institute,http://www.asmi.edu.kg/
 Asian University,http://www.asianu.ac.th/
@@ -355,7 +357,7 @@ Asian University of Bangladesh,http://www.aub-bd.org/
 Asia Pacific Institute of Information Technology (APIIT),http://www.apiit.edu.my/
 Asia University,http://www.asia-u.ac.jp/
 Assam Agricultural University,http://www.aau.ac.in/
-Assam University,http://www.assamuniversity.nic.in/
+Assam University,http://www.aus.ac.in/
 Assiut University,http://www.aun.edu.eg/
 Assosa University,http://www.asu.edu.et/
 Assumption University,http://www.assumptionu.ca/
@@ -369,8 +371,8 @@ Ateneo de Davao University,http://www.addu.edu.ph/
 Ateneo de Manila University,http://www.admu.edu.ph/
 Ateneo de Naga University,http://www.adnu.edu.ph/
 Ateneo de Zamboanga University,http://www.adzu.edu.ph/
+Ateneo Pontificio Regina Apostolorum,https://www.upra.org/
 Athabasca University,http://www.athabascau.ca/
-Athenaeum Pontificium Regina Apostolorum,http://www.upra.org/
 Athens Graduate School of Management (AGSM),http://www.agsm.gr/
 Athens Laboratory of Business Administration (ALBA),http://www.alba.edu.gr/
 Athens School of Fine Arts,http://www.asfa.gr/
@@ -392,11 +394,11 @@ Australian Maritime College,http://www.amc.edu.au/
 Australian National University,http://www.anu.edu.au/
 Australlian College of Kuwait ,http://www.ackonline.com/
 Avans Hogeschool,http://www.avans.nl/
-Aventis School of Management,http://www.aventis.edu.sg/
+Aventis School of Management,http://asm.edu.sg/
 Avicenna International College,http://www.avicenna.hu/
 Avinashilingam University for Women,http://avinuty.ac.in/
 Avondale College,http://www.avondale.edu.au/
-Awadhesh Pratap Singh University,http://www.apsurewa.nic.in/
+Awadhesh Pratap Singh University,http://apsurewa.ac.in/
 Azabu University,http://www.azabu-u.ac.jp/
 Azad Jammu and Kashmir University,http://www.ajku.edu.pk/
 Azarbaijan Shahid Madani University,http://www.azaruniv.ac.ir/
@@ -412,7 +414,7 @@ Azerbaijan Toursim Institute,http://www.tourism.edu.az/
 Azerbaijan University,http://www.au.edu.az/
 Azerbaijan University ol Languages,http://www.adu.edu.az/
 Azzahra University,http://www.azzahra.ac.ir/
-Babasaheb Bhimrao Ambedkar University,http://www.bbauindia.org/
+Babasaheb Bhimrao Ambedkar University,http://www.bbau.ac.in/
 Babcock University,http://www.babcock.edu.ng/
 Babes-Bolyai University of Cluj-Napoca,http://www.ubbcluj.ro/
 Babol Noshirvani University of Technology,http://www.nit.ac.ir/
@@ -446,7 +448,7 @@ Balochistan University of Information Technology & Management Sciences ,http://w
 Balqa Applied University,http://www.bau.edu.jo/
 Baltic International Academy,http://www.bsa.edu.lv/
 Baltic State Technical University,http://www.voenmeh.ru/
-Balti State University "Alecu Russo",http://www.usb.md/
+Balti State University "Alecu Russo",http://www.usarb.md/
 Bamenda University of Science & Technology,http://www.bamendauniversity.com/
 Bamiyan University,http://www.bu.edu.af/
 Banaras Hindu University,http://www.bhu.ac.in/
@@ -464,7 +466,7 @@ Bangladesh University of Engineering and Technology,http://www.buet.ac.bd/
 Bangladesh University of Professionals,http://www.bup.edu.bd/
 Bangladesh University of Textiles,http://www.butex.edu.bd/
 Banking University of Ho Chi Minh City,http://buh.edu.vn/
-Bankura University,http://www.bankurauniv.com/
+Bankura University,http://www.bankurauniv.ac.in/
 Baqai Medical University,http://baqai.edu.pk/
 Barcelona Graduate School of Economics,http://www.barcelonagse.eu/
 Bar-Ilan University,http://www.biu.ac.il/
@@ -473,7 +475,6 @@ Bashkir State Agrarian University,http://www.bashedu.ru/vuz/bgau_e.htm
 Bashkir State Medical University,http://www.bashedu.ru/vuz/bgmu_e.htm
 Bashkir State Pedagogical University named After M. Akmullah,http://www.bspu.ru/
 Bashkir State University,http://www.bashedu.ru/
-Basilicata University Potenza,http://www.unibas.it/
 Baskent University,http://www.baskent.edu.tr/
 Batchelor Institute of Indigenous Tertiary Education,http://www.nt.gov.au/batc/
 Batterjee Medical College,http://www.bmc.edu.sa/
@@ -488,23 +489,22 @@ Beder University,http://www.beder.edu.al/
 Begum Rokeya University, Rangpur,http://www.brur.ac.bd/
 Beijing Foreign Studies University,http://www.bfsu.edu.cn/
 Beijing Forestry University,http://www.bjfu.edu.cn/
-Beijing Information Science and Technology University,http://www.biti.edu.cn/
+Beijing Information Science and Technology University,http://www.bistu.edu.cn/
 Beijing Institute of Technology,http://www.bit.edu.cn/
 Beijing International Studies University,http://www.bisu.edu.cn/
 Beijing Language and Culture University,http://www.blcu.edu.cn/
 Beijing Medical University,http://www.bjmu.edu.cn/
 Beijing New Asia University,http://www.newasia.bj.edu.cn/
 Beijing Normal University,http://www.bnu.edu.cn/
-Beijing Petroleum University,http://www.bjpeu.edu.cn/
-Beijing Polytechnic University,http://www.bjpu.edu.cn/
 Beijing Sport University,http://www.bsu.edu.cn/
-Beijing Union University,http://www.ipdbuu.com.cn/
+Beijing Union University,http://www.buu.edu.cn/
 Beijing University of Aeronautics and Astronautics,http://www.buaa.edu.cn/
 Beijing University of Agriculture,http://www.bac.edu.cn/
 Beijing University of Chemical Technology,http://www.buct.edu.cn/
-Beijing University of Chinese Medicine and Pharmacology,http://www.bjucmp.edu.cn/
+Beijing University of Chinese Medicine,http://www.bucm.edu.cn/
 Beijing University of Posts and Telecommunications,http://www.bupt.edu.cn/
 Beijing University of Science and Technology,http://www.ustb.edu.cn/
+Beijing University of Technology,http://www.bjut.edu.cn/
 Beirut Arab University,http://www.bau.edu.lb/
 Belarusian-Russian University,http://www.bru.mogilev.by/
 Belarussian National Technical University,http://www.bntu.by/
@@ -543,18 +543,18 @@ Beuth Hochschule für Technik Berlin,https://www.beuth-hochschule.de/
 Beykent University,http://www.beykent.edu.tr/
 Bezalel Academy of Art and Design,http://www.bezalel.ac.il/
 BGC Trust University, Bangladesh,http://www.bgctub-edu.net/
-Bhagwant University,http://www.bhagwantuniversity.com/
-Bharathiar University,http://www.bharathi.ernet.in/
-Bharathidasan University,http://www.bdu.ernet.in/
-Bharath Institue Of Higher Education & Research,http://www.bharathuniv.com/
-Bharati Vidyapeeth University,http://www.bharatividyapeeth.edu/
-Bhavnagar University,http://www.bhavuni.edu/
+Bhagwant University,http://bhagwantuniversity.ac.in/
+Bharathiar University,http://www.b-u.ac.in/
+Bharathidasan University,http://www.bdu.ac.in/
+Bharath Institue Of Higher Education & Research,https://www.bharathuniv.ac.in/
+Bharati Vidyapeeth University,http://bharatividyapeeth.edu/
 Bhupendra Narayan Mandal University,http://www.bnmu.in/
 Bicol University,http://www.bicol-u.edu.ph/
 Bidhan Chandra Agricultural University,http://www.bckv.edu.in/
 Bifrost School of Business,http://www.bifrost.is/
 Biju Pattnaik University of Technology,http://www.bput.org/
-Bila Cerkva State Agrarian University,http://www.btsau.kiev.ua/
+Bila Cerkva State Agrarian University,http://btsau.edu.ua/
+Bilad Al Sham University ,http://www.shamkuftaro.org/
 Bilecik University,http://www.bilecik.edu.tr/
 Bilkent University,http://w3.bilkent.edu.tr/
 Binary University College of Managemant & Entrepreneurship,http://www.binary.edu.my/
@@ -571,7 +571,7 @@ Birla Institute of Management Technology,http://www.bimtech.ac.in/
 Birla Institute of Technology and Science,http://www.bits-pilani.ac.in/
 Birla Institute of Technology, Ranchi,https://www.bitmesra.ac.in/
 Birmingham City University,http://www.bcu.ac.uk/
-Birsa Agricultural University,http://www.bau.nic.in/
+Birsa Agricultural University,http://www.bauranchi.org/
 Birsk State Pedagogical Institute,http://www.bashedu.ru/vuz/birskgpi_e.htm
 Birzeit University,http://www.birzeit.edu/
 Bishkek Humanities University,http://www.bhu.kg/
@@ -616,7 +616,6 @@ British College of Osteopathic Medicine,http://www.bcom.ac.uk/
 British Columbia Institute of Technology,http://www.bcit.ca/
 British Institute in Paris, University of London,http://www.bip.lon.ac.uk/
 British Malaysian Institute,http://www.bmi.edu.my/
-British Royal University,http://broyalu.net/
 British University in Dubai,http://www.buid.ac.ae/
 Brjansk State Technical University,http://www.tu-bryansk.ru/
 Brno University of Technology,http://www.vutbr.cz/
@@ -639,7 +638,7 @@ Build Bright University,http://www.bbu.edu.kh/
 Bukkyo University,http://www.bukkyo-u.ac.jp/
 Bulacan State University,http://www.bulsu.edu.ph/
 Bülent Ecevit University,http://beun.edu.tr/
-Bundelkhand University,http://www.bundelkhanduniversity.org/
+Bundelkhand University,https://www.bujhansi.ac.in/
 Bunka Women's University,http://www.bunka-wu.ac.jp/
 Bunkyo University,http://www.bunkyo.ac.jp/
 Burapha University,http://www.buu.ac.th/
@@ -677,7 +676,7 @@ Cape Peninsula University of Technology,http://www.cput.ac.za/
 Capilano University,https://www.capilanou.ca/
 Capital Normal University,http://www.cnu.edu.cn/
 Capital University of Economics and Business,http://www.cueb.edu.cn/
-Capital University of Medical Sciences,http://www.cpums.edu.cn/
+Capital University of Medical Sciences,http://www.ccmu.edu.cn/
 Capitol University,http://www.cu-cdo.edu.ph/
 Cardiff Metropolitan University,http://www.cardiffmet.ac.uk/
 Cardiff University,http://www.cardiff.ac.uk/
@@ -695,7 +694,6 @@ Catholic University of Lublin,http://www.kul.lublin.pl/
 Catholic University of Malawi,http://www.cunima.ac.mw/
 Catholic University of Pusan,http://www.cup.ac.kr/
 Catholic University of Taegu-Hyosung,http://www.cataegu.ac.kr/
-Catholic University of the Sacred Heart,http://www.unicatt.it/
 Caucasus University,http://www.cu.edu.ge/
 Cavendish University,http://www.cavendishza.org/
 CCS Haryana Agricultural University,http://hau.ernet.in/
@@ -711,7 +709,7 @@ CentraleSupélec,http://www.ecp.fr/
 Central European University,http://www.ceu.hu/
 Central Institute of English and Foreign Languages,http://www.ciefl.org/
 Central Institute of Fisheries Education,http://www.cife.edu.in/
-Central Institute of Higher Tibetan Studies,http://www.cihts.ac.in/
+Central Institute of Higher Tibetan Studies,http://www.cuts.ac.in/
 Central Luzon State University,http://www2.mozcom.com/~clsu/
 Central Mindanao University,http://www.cmu.edu.ph/
 Central Ostrobothnia University of Applied Sciences,http://www.cou.fi/
@@ -720,10 +718,10 @@ Central Police University,http://www.cpu.edu.tw/
 Central Queensland University,http://www.cqu.edu.au/
 Central Radio and TV University,http://www.crtvu.edu.cn/
 Central Saint Martins College of Art & Design,http://www.csm.linst.ac.uk/
-Central South Forestry University,http://www.csfu.edu.cn/
 Central South University,http://www.csu.edu.cn/
+Central South University,http://www.csu.edu.cn/
+Central South University of Forestry and Technology,http://www.csuft.edu.cn/
 Central University College,http://www.central.edu.gh/
-Central University for Nationalities,http://www.cun.edu.cn/
 Central University of Finance and Economics,http://www.cufe.edu.cn/
 Central University of Technology, Free State,http://www.cut.ac.za/
 Centre de Formation et de Perfectionnement des Journalistes,http://www.cfpj.com/
@@ -748,6 +746,7 @@ Centro Universitário Claretiano,https://claretiano.edu.br/
 Centro Universitário de Araraquara,http://www.uniara.com.br/
 Centro Universitário de João Pessoa,http://unipe.br/
 Centro Universitario de Occidente,http://www.cunoc.edu.gt/
+Centro Universitário Fieo,http://www.unifieo.br/
 Centro Universitário Monte Serrat,http://www.unimonte.br/capa/
 Centro Universitário Newton Paiva,https://www.newtonpaiva.br/
 Centro Universitário Senac,http://www.sp.senac.br/
@@ -760,11 +759,10 @@ Chalmers University of Technology,http://www.chalmers.se/
 Chamreun University of Poly Technology,http://www.cup.edu.kh/
 Chanakya National Law University,http://cnlu.ac.in/
 Chandra Shekhar Azad University of Agriculture and Technology,http://www.csauk.ac.in/
-Changchun Teachers College,http://www.cncnc.edu.cn/
+Changchun Normal University,http://www.cncnc.edu.cn/
 Changchun University of Technology,http://www.ccut.edu.cn/
 Chang Gung University,http://www.cgu.edu.tw/
 Chang Jung University,http://www.cju.edu.tw/
-Changsha Railway University,http://www.csru.edu.cn/
 Changsha University of Electric Power,http://www.csuep.edu.cn/
 Changwon National University,http://www.changwon.ac.kr/
 Chaopraya University ,http://www.cpu.ac.th/
@@ -797,9 +795,9 @@ Chiba Keizai University,http://www.cku.ac.jp/
 Chiba University,http://www.chiba-u.ac.jp/
 Chiba University of Commerce,http://www.cuc.ac.jp/
 Chikushi Jogakuen University,http://www.chikushi.ac.jp/
-China Academy of Art,http://www.chinaacademyofart.com/
+China Academy of Art,http://www.caa.edu.cn/
 China Agricultural University,http://www.cau.edu.cn/
-China Agriculture University East,http://www.bjaeu.edu.cn/
+China Agriculture University,https://www.cau.edu.cn/
 China Foreign Affairs University,http://www.cfau.edu.cn/
 China Medical College,http://www.cmc.edu.tw/
 China Medical University Shenyang,http://www.cmu.edu.cn/
@@ -809,9 +807,10 @@ China University of Geoscience Beijing,http://www.cugb.edu.cn/
 China University of Geosciences Wuhan,http://www.cug.edu.cn/
 China University of Mining Technology - Beijing,http://www.cumtb.edu.cn/
 China University of Mining Technology - Xuzhou,http://www.cumt.edu.cn/
+China University of Petroleum,http://www.cup.edu.cn/
 China University of Political Science and Law,http://www.cupl.edu.cn/
 China USA Business University,http://www.cubu.edu/
-China youth college for political science,http://www.cyc.edu.cn/
+China Youth University for Political Science,http://www.cyu.edu.cn/
 Chinese Culture University,http://www.pccu.edu.tw/
 Chinese People's Public Security University,http://www.cppsu.edu.cn/
 Chinese University of Hong Kong,http://www.cuhk.hk/
@@ -834,9 +833,9 @@ Chongqing Technology and Business University,http://www.ctbu.edu.cn/
 Chongqing Telecommunication College,http://www.cqtcedu.com/
 Chongqing Three Gorges University,http://www.sanxiau.edu.cn/
 Chongqing University,http://www.cqu.edu.cn/
-Chongqing University of Communications,http://www.cquc.edu.cn/
 Chongqing University of Post and Telecommunications,http://www.cqupt.edu.cn/
-Chongqing University of Science and Technology ,http://www.cqust.cn/
+Chongqing University of Posts and Telecommunications,http://www.cqupt.edu.cn/
+Chongqing University of Science and Technology ,http://www.cqust.edu.cn/
 Chongqing University of Technology,http://www.cqut.edu.cn/
 Chongqing Vocational College of Public Transportation,http://www.cqgyzy.com/
 Chongqing Wenli University,http://www.cqwu.net/
@@ -847,7 +846,7 @@ Christchurch Polytechnic Institute of Technology,http://www.cpit.ac.nz/
 Christelijke Hogeschool Windesheim,https://www.windesheim.nl/
 Christian-Albrechts-Universität Kiel,http://www.uni-kiel.de/
 Christian Theological Academy in Warszaw,http://www.qdnet.pl/ChAT/
-Christ University,http://www.christuniversity.in/
+Christ University,https://christuniversity.in/
 Chubu Gakuin University & Chubu Women's College,http://www.chubu-gu.ac.jp/
 Chubu University,http://www.chubu.ac.jp/
 Chu Hai College,http://www.chuhai.edu.hk/
@@ -874,8 +873,8 @@ City University Athens,http://www.cityu.gr/
 City University College of Science and Technology,http://www.city.edu.my/
 City University of Hong Kong,http://www.cityu.edu.hk/
 City University Programs in Bulgaria ,http://www.cityu.bg/
-Civil Aviation University of China,http://www.cauc.edu/
-CMJ University,http://www.cmjuniversity.edu.in/
+Civil Aviation University of China,http://www.cauc.edu.cn/
+CMJ University,http://cmju.net.in/
 Cochin University of Science and Technology,http://www.cusat.ac.in/
 Colegio de Estudios Superiores de Administración (CESA),http://www.cesa.edu.co/
 Colegio de San Juan de Letran,http://www.letran.edu/
@@ -900,7 +899,7 @@ College of Telecommunication & Information ,http://www.cti.edu.sa/
 College of the Holy Spirit,http://www.holyspirit.edu.ph/
 College of the Rockies,http://www.cotr.bc.ca/
 Collegium Civitas,http://www.collegium.edu.pl/
-Cologne Business School,http://www.cbs.de/
+Cologne Business School,https://cbs.de/
 Columbia College,https://www.columbiacollege.ca/
 Columbia Commonwealth University of Malawi,http://www.ccwum.org/
 Columbus University,http://www.columbus.edu/
@@ -918,7 +917,7 @@ Concordia University,http://www.concordia.ca/
 Concordia University College of Alberta,http://concordia.ab.ca/
 Conestoga College,http://www.conestogac.on.ca/
 Conservatoire National des Arts et Métiers,http://www.cnam.fr/
-Conservatorio del Tolima,http://www.bundenet.com/umusical/
+Conservatorio del Tolima,http://www.conservatoriodeltolima.edu.co/
 Constantin Brancoveanu University Pitesti,http://www.univcb.ro/
 Continental Theological Seminary,http://www.ctsem.edu/
 Copenhagen Business Academy,https://www.cphbusiness.dk/
@@ -927,15 +926,13 @@ Copenhagen University,http://www.ku.dk/
 Copperbelt University,https://www.cbu.edu.zm/
 Cork Institute of Technology,http://www.cit.ie/
 Corporación Educativa Mayor del Desarrollo "Simón Bolivar",http://www.unisimonbolivar.edu.co/
-Corporación Universitaria de Ibagué (CORUNIVERSITARIA),http://www.cui.edu.co/
-Corporación Universitaria de la Costa (UNICOSTA),http://www.cuc.edu.co/
-Corporación Universitaria de Santander (UDES),http://www.udes.edu.co/
-Corporación Universitaria Tecnológica de Bolivar,http://www.cutb.edu.co/
+Corporación Universitaria de la Costa (UNICOSTA),https://www.cuc.edu.co/
 Courtauld Institute of Art, University of London,http://www.courtauld.ac.uk/
 Covenant University,http://covenantuniversity.edu.ng/
 Coventry University,http://www.coventry.ac.uk/
 Cranfield University,http://www.cranfield.ac.uk/
 Crawford University ,http://www.crawforduniversity.edu.ng/
+Crescendo International College,http://www.crescendo.edu.my/
 Crescent University,http://crescent-university.edu.ng/
 Crimea State Medical University,http://www.crsmu.com/
 Cross River University of Science and Technology,https://www.crutech.edu.ng/
@@ -984,7 +981,7 @@ Dániel Berzsenyi Teacher Training College,http://www.bdtf.hu/
 Danish University of Education,http://www.dpu.dk/
 Dankook University,http://www.dankook.ac.kr/
 Dar al Hekma College,http://www.daralhekma.edu.sa/
-Dar Al-Uloom Colleges,http://www.dau.edu.sa/
+Dar Al-Uloom Colleges,https://dau.edu.sa/
 Dares Salaam Institute of Technology,http://www.dit.ac.tz/
 Darul Hikmah Islamic College,http://www.hikmah.edu.my/
 Darul Huda Islamic University,http://dhiu.in/
@@ -999,7 +996,7 @@ DAV PG College Dehradun,http://davpgcollege.in/
 Dav University,http://www.davuniversity.org/
 Dawat University,http://www.dawat.edu.af/
 Dawood University of Engineering and Technology,http://duet.edu.pk/
-Dayalbagh Educational Institute,http://www.dei.ac.in/
+Dayalbagh Educational Institute,https://www.dei.ac.in/
 Da-Yeh University,http://www.dyu.edu.tw/
 Daystar University,http://www.daystar.ac.ke/
 Deakin University,http://www.deakin.edu.au/
@@ -1009,7 +1006,7 @@ Debre Markos University,http://www.dmu.edu.et/
 Debretabor University,http://www.dtu.edu.et/
 Deccan College Postgraduate and Research Institute,http://www.deccancollegepune.ac.in/
  Dedan Kimathi University of Technology,http://www.dkut.ac.ke/
-Deen Dayal Upadhyay Gorakhpur University,http://www.ddugu.edu.in/
+Deen Dayal Upadhyay Gorakhpur University,http://ddugorakhpuruniversity.in/
 Defence Engineering College,http://www.dec.edu.et/
 De Haagse Hogeschool,https://www.dehaagsehogeschool.nl/
 DEI Bachelor & Master Degrees,http://www.dei.edu.gr/
@@ -1026,7 +1023,7 @@ Deutsche Sporthochschule Köln,http://www.dshs-koeln.de/
 Deutsche Telekom Fachhochschule Leipzig,http://www.fh-telekom-leipzig.de/
 Deutsche Universität für Verwaltungswissenschaften Speyer,http://www.uni-speyer.de/
 Deutsch-Ordens Fachhochschule Riedlingen, Hochschule für Wirtschaft,http://www.fh-riedlingen.de/
-Devi Ahilya University of Indore,http://www.davv.ac.in/
+Devi Ahilya University of Indore,http://www.dauniv.ac.in/
 DeVry Institute of Technology,https://www.devry.edu/
 Deylaman Institute of Higher Education,http://www.deylaman.ac.ir/
 Dhaka International University,http://www.diu.net.bd/
@@ -1035,7 +1032,7 @@ Dhirubhai Ambani Institute of Information and Communication Technology,http://ww
 Dhofar University,http://www.du.edu.om/
 Dhurakijpundit University,http://www.dpu.ac.th/
 Diaconia University of Applied Sciences,http://www.diak.fi/
-Dibrugarh University,http://www.dibru.ernet.in/
+Dibrugarh University,https://www.dibru.ac.in/
 Dicle (Tirgris) University,http://www.dicle.edu.tr/
 Dijlah University College,http://www.duc.edu.iq/
 Dilla University,http://www.dillauniversity.edu.et/
@@ -1049,6 +1046,7 @@ DMI - St. John the Baptist University,http://dmisjbu.edu.mw/
 Dneprodzerzhinsk State Technical University,http://www.dstu.dp.ua/
 Dnepropetrovsk National University,http://www.dnu.dp.ua/
 Dnepropetrovsk National University of Railway Transport,http://www.diit.edu.ua/
+Dnepropetrovsk State Agrarian Economic University,https://www.dsau.dp.ua/
 Dogus University,https://www.dogus.edu.tr/
 Doho University,http://www.doho.ac.jp/
 Dohto University,http://www.dohto.ac.jp/
@@ -1058,9 +1056,9 @@ Dokuz Eylül University,http://www.deu.edu.tr/
 Dominican University College,http://www.dominicanu.ca/
 Dominica State College,http://www.dsc.dm/
 Donau-Universität Krems,http://www.donau-uni.ac.at/
-Donetsk National Technical University,http://www.donntu.edu.ua/
+Donetsk National Medical University,https://dnmu.com.ua/
+Donetsk National Technical University,http://donntu.edu.ua/
 Donetsk National University,http://www.donnu.edu.ua/
-Donetsk State Medical University,http://www.donmeduni.com/
 Dong-A University,http://www.donga.ac.kr/
 Dongbei University of Finance And Economics,http://www.dufe.edu.cn/
 Dongduk Women's University,http://www.dongduk.ac.kr/
@@ -1079,16 +1077,16 @@ Douglas College,https://www.douglascollege.ca/
 Dow University of Health Sciences,http://www.duhs.edu.pk/
 Dravidian University,http://www.dravidianuniversity.ac.in/
 Dr. Babasaheb Ambedkar Marathwada Universtiy,http://www.bamu.net/
-Dr. Babasaheb Ambedkar Technological University,http://www.dbatechuni.org/
-Dr. Bhim Rao Abdekar University,http://www.brauagra.com/
+Dr. Babasaheb Ambedkar Technological University,https://dbatu.ac.in/
+Dr. Bhim Rao Abdekar University,https://www.dbrau.org.in/
 Dr. B.R. Ambedkar Open University,http://www.braou.ac.in/
 Dr. B.R. Ambedkar University, Srikakulam,http://www.brau.edu.in/
 Dr. C.V. Raman University,http://www.cvru.ac.in/
 Dr. D.Y. Patil University,http://www.dypatiluniversity.org/
-Dr. Hari Singh Gour University, formerly University of Sagar,http://www.sagaruniversity.nic.in/
+Dr. Hari Singh Gour University, formerly University of Sagar,http://www.dhsgsu.ac.in/
 Dr. John Garang Memorial University of Science & Technology,http://www.jgmust-edu.org/
 Dr.NTR University of Health Sciences,http://ntruhs.ap.nic.in/
-Dr. Panjabrao Deshmukh Krishi Vidyapeeth,http://www.pdkv.ac.in/
+Dr. Panjabrao Deshmukh Krishi Vidyapeeth,https://www.pdkv.ac.in/
 Dr. Ram Manohar Lohia Avadh University,http://www.rmlau.ac.in/
 Dr. YS Parmar University of Horticulture and Forestry,http://www.ysparmaruniversity.org/
 Drzavni Univerzitet u Novom Pazaru,http://www.np.ac.rs/
@@ -1102,9 +1100,9 @@ Dubna International University for Nature, Society and Man,http://www.uni-dubna.
 Duksung Women's University,http://www.duksung.ac.kr/
 Dumlupinar University,http://www.dumlupinar.edu.tr/
 Dunya Institute of Higher Education,http://www.dunya.edu.af/
-Durban Institute of Technology,http://www.dit.ac.za/
+Durban University of Technology,http://www.dut.ac.za/
 Durham College,http://www.durhamc.on.ca/
-Dutch University Institute for Art History (DUIA),http://www.iuoart.org/
+Dutch Institute for Art History, Florence,http://www.iuoart.org/
 E.A.P. Europäische Wirtschaftshochschule Berlin,http://www.eap.net/
 East Africa Star University, Rugombo, Cibitoke,http://www.easu-burundi.com/
 East Africa University Bosaso,http://eastafricauniversity.net/
@@ -1122,7 +1120,7 @@ East Kazakstan State Technical University,http://www.ektu.kz/
 East-Siberian State Institute of Culture,http://www.vsgaki.burnet.ru/
 East-Siberian State University,http://www.vsgtu.eastsib.ru/
 East-Siberian State University of Technology,http://www.esstu.ru/
-East Ukrainian National University,http://www.snu.edu.ua/
+East Ukrainian Volodymyr Dahl National University,http://snu.edu.ua/
 East West University,http://www.ewubd.edu/
 East-West University, Mohakhali,http://www.ewubd.edu/
 East Yangon University,http://www.eyu.edu.mm/
@@ -1139,7 +1137,7 @@ Ecole de l'Air,http://www.aea.asso.fr/
 Ecole des Hautes Etudes Commerciales,http://www.hec.fr/
 École des Hautes Études Commerciales,http://www.hec.ca/
 Ecole des Hautes Etudes Commerciales du Nord,http://edu.edhec.com/
-Ecole des Hautes Etudes Commerciales MAROC,http://www.hec.ac.ma/
+Ecole des Hautes Etudes Commerciales MAROC,https://www.hec.ac.ma/
 Ecole des Hautes Etudes en Gestion Informatique et Communication,http://www.edhec.ac.ma/
 Ecole des Hautes Etudes Industrielles de Lille,http://www.hei.fr/
 Ecole des Ingénieurs de la Ville de Paris,http://www.eivp-paris.fr/
@@ -1274,13 +1272,13 @@ Ecole Universitaire d'Ingénieurs de Lille,http://www.eudil.fr/
 Edith Cowan University,http://www.ecu.edu.au/
 Edogawa University,http://www.edogawa-u.ac.jp/
 Eelo University,http://www.eelouniversity.org/
-Effat College,http://www.effatcollege.edu.sa/
+Effat University,https://www.effatuniversity.edu.sa
 Egerton University,http://www.egerton.ac.ke/
 Ege University,http://www.ege.edu.tr/
 Ehime University,http://www.ehime-u.ac.jp/
 EHSAL - Europese Hogeschool Brussel,http://www.ehsal.be/
 Eichi University,http://www.eichi-u.ac.jp/
-Eiilm University,http://www.eiilmuniversity.ac.in/
+Eiilm University,http://www.eiilmuniversity.co.in/
 Eindhoven University of Technology,https://www.tue.nl/
 Ekiti State University,http://www.eksu.edu.ng/
 El Colegio de México,http://www.colmex.mx/
@@ -1317,10 +1315,9 @@ Escuela Agricola Panamericana Zamorano,https://www.zamorano.edu/
 Escuela Bancaria y Comercial,http://www.ebc.mx/
 Escuela Colombiana de Carreras Industriales,http://www.ecci.edu.co/
 Escuela Colombiana de Ingeniería Julio Garavito,http://www.escuelaing.edu.co/
-Escuela de Administración de Negocios,http://www.ean.edu.co/
 Escuela de Arquitectura y Diseño,http://www.arquitecturaucv.cl/
 Escuela de Ingeniería de Antioquia,http://www.eia.edu.co/
-Escuela de Policia "General Santander",http://www.escueladepolicia.edu.co/
+Escuela de Policia "General Santander",https://www.policia.gov.co/escuelas/general-santander
 Escuela Militar de Ingeniería,http://www.emi.edu.bo/
 Escuela Nacional de Estudios Superiores Unidad León,http://enes.unam.mx/
 Escuela Politécnica de Chimborazo,http://www.espoch.edu/
@@ -1337,7 +1334,6 @@ Estonian Business School,http://www.ebs.ee/
 Estonian University of Life Sciences,http://www.emu.ee/
 Esztergom Theological College,http://www.ehf.hu/
 Ethiopian Civil Service University,http://www.ecsu.edu.et/
-Etisalat University College,http://www.ece.ac.ae/
 EUCLID University,http://www.euclid.int/
 Eurasia International University,http://www.eiu.am/
 Eurasian Institute of market,http://www.eurazir.kz/
@@ -1354,21 +1350,21 @@ European College of Kosovo,http://eck-edu.org/
 European College of Liberal Arts,http://www.ecla.de/
 European Graduate School, Media & Communications,http://www.egs.edu/
 European Humanities University,http://www.data.minsk.by/ehu/
-European Institute of Education,http://www.eieonline.com/
 European International University,http://www.europeaniu.org/
 European Management Center Paris,http://www.emc-campus.com/
 European Management School,http://www.ems-mainz.de/
 European Open University,http://www.europeanopenuniversity.com/
 European Regional Educational Academy of Armenia,http://www.eriicta.am/
 European School of Economics,http://www.eselondon.ac.uk/
-European School of Economics,http://www.uniese.it/
+European School of Economics Italy,http://www.uniese.it/
 European School of Law and Governance,http://www.eukos.org/
 European University,http://www.eu.ac.rs/
 European University,https://www.euruni.edu/
 European University, Athens Campus,http://www.euruni.edu/
 European University at St.Petersburg,http://www.eu.spb.ru/
+European University College,http://www.euc.ac.ae/
 European University Cyprus,http://www.euc.ac.cy/
-European University Institute,http://www.iue.it/
+European University Institute,https://www.eui.eu/
 European University of Lefke,http://www.lefke.edu.tr/
 European University Portugal,http://www.europeanuniversity.pt/
 Evangelische Fachhochschule Berlin, Fachhochschule für Sozialarbeit und Sozialpädagogik,http://www.evfh-berlin.de/
@@ -1458,7 +1454,7 @@ Fachhochschule Regensburg,http://www.fh-regensburg.de/
 Fachhochschule Reutlingen, Hochschule für Technik und Wirtschaft,http://www.fh-reutlingen.de/
 Fachhochschule Rosenheim, Hochschule für Technik und Wirtschaft,http://www.fh-rosenheim.de/
 Fachhochschule Rottenburg, Hochschule für Forstwirtschaft,http://www.fh-rottenburg.de/
-Fachhochschule Salzburg,http://www.fh-salzburg.ac.at/
+Fachhochschule Salzburg,https://www.fh-salzburg.ac.at/
 Fachhochschule Schmalkalden,http://www.fh-schmalkalden.de/
 Fachhochschule Schwäbisch Gmünd, Hochschule für Gestaltung,http://www.hfg-gmuend.de/
 Fachhochschule Schwäbisch Hall, Hochschule für Gestaltung,http://www.fh-schwaebischhall.de/
@@ -1504,7 +1500,7 @@ Far-Western University,http://fwu.edu.np/
 Faryab Higher Education Institute,http://www.faryab.edu.af/
 Fasa Faculty of Medical Sciences,http://www.fums.ac.ir/
 FAST - National University of Computer and Emerging Sciences (NUCES),http://www.nu.edu.pk/
-Fatima mata national college kollam kerala,http://www.fatimacollege.net/
+Fatima mata national college kollam kerala,http://fatimamatanationalcollege.ac.in/
 Fayoum University,http://www.fayoum.edu.eg/
 FEAD - Centro de Gestao Empreendedora,http://www.fead.br/
 Feati University,http://www.featiu.edu.ph/
@@ -1528,6 +1524,7 @@ FH Oberösterreich, Campus Wels,https://www.fh-ooe.at/campus-wels/
 FH Wien der WKW,http://www.fh-wien.ac.at/
 Fiji National University ,http://www.fnu.ac.fj/
 Fiji School of Medicine,http://www.fsm.ac.fj/
+Film Academy Delhi,http://aaft.com/
 Finance Academy,http://www.fa.ru/
 Fine Arts Academy in Gdansk,http://www.asp.gda.pl/
 Fine Arts Academy in Katowice,http://www.aspkat.edu.pl/
@@ -1538,6 +1535,7 @@ Fine Arts Academy "Jan Matejko" in Cracow,http://149.156.19.10/
 Firat (Euphrates) University,http://www.firat.edu.tr/
 First Global University to teaching Jainism,http://www.jainuniversity.org/
 First Nations University of Canada,https://fnuniv.ca/
+Fisheries and Marine Institute of Memorial University of Newfoundland,https://www.mi.mun.ca/
 Flinders University of South Australia,http://www.flinders.edu.au/
 Floret Global University,http://www.floret.edu.pa/
 Fomic Polytechnic,http://www.fomicgroup.cm/
@@ -1548,8 +1546,8 @@ FON University,http://www.fon.edu.mk/
 Foreign Trade University,http://www.ftu.edu.vn/
 Forest Research Institute Dehradun,http://fri.icfre.gov.in/
 Foshan University,http://www.fosu.edu.cn/
-Foundation University,http://www.foundationu.com/
 Foundation University,http://www.foundationuniversity.com/
+Foundation University,http://www.foundationu.com/
 Fountain University,http://www.fountainuniversity.edu.ng/
 Fourah Bay College, University of Sierra Leone,http://fbcusl.8k.com/
 FPT University,http://fpt.edu.vn/
@@ -1557,11 +1555,8 @@ Frankfurt School of Finance & Management,http://www.frankfurt-school.de/
 Franklin University Switzerland,https://www.fus.edu/
 Frederick University,http://www.frederick.ac.cy/
 Free International University of Moldova,http://www.ulim.md/
-Free International University of Social Studies,http://www.luiss.it/
 Free University Amsterdam,https://www.vu.nl/
-Free University Institute "Carlo Cattaneo",http://www.liuc.it/
-Free University "Maria Santissima Assunta",http://www.lumsa.it/
-Free University of Bozen,http://www.unibz.it/
+Free University of Bozen,https://www.unibz.it/
 Free University of Tbilisi,http://www.freeuni.ge/
 Free University Stockholm,http://www.stockholm-fu.com/
 Freie Kunst-Studienstätte Ottersberg,http://www.fh-ottersberg.de/
@@ -1598,11 +1593,10 @@ Fukuyama University,http://www.fukuyama-u.ac.jp/
 Fundação Educacional de Ituverava,http://www.feituverava.com.br/
 Fundacion Escuela Colombiana de Rehabiliación,http://www.ecr.edu.co/
 Fundación Universitaria de Boyacá,http://www.uniboyaca.edu.co/
-Fundación Universitaria del Area Andina. Sede Pereira,http://www.funandi.edu.co/
+Fundación Universitaria del Área Andina,https://www.areandina.edu.co/
 Fundación Universitaria Luis Amigó,http://www.funlam.edu.co/
 Fundación Universitaria Manuela Beltrán,http://www.umb.edu.co/
 Fundación Universitaria San Martín,http://www.sanmartin.edu.co/
-Fushun Petroleum University,http://www.fspu.edu.cn/
 Future University,http://www.fue.edu.eg/
 Fuzhou University,http://www.fzu.edu.cn/
 Gaborone Universal College of Law,http://www.guc.co.bw/
@@ -1617,7 +1611,7 @@ Gangdara Institute Of Science & Technology,http://www.gist.edu.pk/
 Ganja State University ,http://www.gsu.az/
 Gansu Agricultural University,http://www.gsau.edu.cn/
 Gansu University of Technology,http://www.gsut.edu.cn/
-Gauhati University,http://www.gu.nic.in/
+Gauhati University,https://www.gauhati.ac.in/
 Gaziantep University,http://www.gantep.edu.tr/
 Gaziosmanpasa University,http://www.gop.edu.tr/
 Gazi University Ankara,http://gazi.edu.tr/
@@ -1653,10 +1647,10 @@ Global Business School Barcelona,http://www.global-business-school.org/
 Global Open University , Nagaland,https://nagaland.net.in/
 Global University,http://www.gu.edu.lb/
 Gnesins Russian Academy of Music,http://www.gnesin-academy.ru/
-Goa University,http://www.unigoa.ac.in/
+Goa University,https://www.unigoa.ac.in/
 Godfrey Okoye University,http://www.gouni.edu.ng/
 Godfrey Okoye University ,http://www.gouni.edu.ng/
-Gokhale Institute of Politics and Economics,http://www.gipe.ernet.in/
+Gokhale Institute of Politics and Economics,http://www.gipe.ac.in/
 Goldsmiths College, University of London,http://www.gold.ac.uk/
 Golestan University of Medical Sciences,http://www.goums.ac.ir/
 Gollis University,http://www.gollisuniversity.com/
@@ -1683,7 +1677,7 @@ Green University of Bangladesh,http://www.green.edu.bd/
 Greenwich University,http://www.greenwich.edu.pk/
 Grenoble Ecole de Management,http://www.grenoble-em.com/
 Gretsa Universtiy,http://www.gretsauniversity.ac.ke/
-GRG School of Management Studies,http://www.grgsms.com/
+GRG School of Management Studies,http://www.grgsms.ac.in/
 Griffith College,http://www.gcd.ie/
 Griffith University,http://www.gu.edu.au/
 Grodno State Agrarian University,http://www.uni-agro.grodno.by/
@@ -1691,9 +1685,9 @@ Grodno State Medical University,http://www.grsmu.by/
 Grodno State University Yanka Kupaly,http://www.grsu.by/
 Groupe Sup de Co Amiens Picardie,http://www.supco-amiens.fr/
 Groupe Sup de Co Montpellier,http://www.supco-montpellier.fr/
-GSFC University,http://www.gsfcuni.edu.in/
+GSFC University,https://www.gsfcuni.edu.in/
 Guam Community College,http://www.guamcc.edu/
-Guangdong Peizheng College ,http://www.peizheng.com.cn/
+Guangdong Ocean University,http://www.gdou.edu.cn/
 Guangdong Polytechnic Normal University,http://www.gdin.edu.cn/
 Guangdong Radio & TV University,http://www.gdrtvu.edu.cn/
 Guangdong University of Foreign Studies,http://www.gdufs.edu.cn/
@@ -1704,7 +1698,6 @@ Guangxi Traditional Chinese Medical University,http://www.gxtcmu.edu.cn/
 Guangxi University,http://www.gxu.edu.cn/
 Guangxi University for Nationalities,http://www.gxun.edu.cn/
 Guangzhou Academy of Fine Art,http://www.gzarts.edu.cn/
-Guangzhou Normal University,http://www.guangztc.edu.cn/
 Guangzhou University,http://www.gzhu.edu.cn/
 Guangzhou University of Traditional Chinese Medicine,http://www.gzhtcm.edu.cn/
 Gubkin Russian State University of Oil and Gas,http://www.gubkin.ru/
@@ -1714,7 +1707,7 @@ Guizhou Normal University,http://www.gznu.edu.cn/
 Guizhou University,http://www.gzu.edu.cn/
 Gujarat Ayurved University,http://www.ayurveduniversity.com/
 Gujarat Technological University Ahmedabad,http://www.gtu.ac.in/
-Gujarat University Ahmedabad,http://www.gujaratuniversity.org.in/
+Gujarat University Ahmedabad,http://www.gujaratuniversity.ac.in/
 Gulbarga University,http://www.gulbargauniversity.kar.nic.in/
 Gulf Medical University,http://www.gmu.ac.ae/
 Gulf University College,http://www.gulfuniversity.net/
@@ -1723,9 +1716,10 @@ Gulu University,http://www.gu.ac.ug/
 Gumi University,http://www.gumi.ac.kr/
 Gunma Prefectural Women's University,http://www.gpwu.ac.jp/
 Gunma University,http://www.gunma-u.ac.jp/
+Gurgaon Institute of Technology and Management,http://gitm.ac.in/
 Guru Ghasidas University,http://www.ggu.ac.in/
 Guru Gobind Singh Indraprastha University,http://www.ipu.ac.in/
-Guru Jambeshwar University,http://www.gju.ernet.in/
+Guru Jambeshwar University,http://www.gjust.ac.in/
 Gurukula Kangri University,http://www.gkvharidwar.org/
 Gurukul University,http://www.gurukuluniversity.org/
 Guru Nanak Dev University,http://www.gnduonline.org/
@@ -1779,7 +1773,7 @@ Hanyang University,http://www.hanyang.ac.kr/
 Hanzehogeschool Groningen,https://www.hanze.nl/
 Haramaya University,http://www.haramaya.edu.et/
 Harare Institute of Technology,http://www.hit.ac.zw/
-Harbin Engineering University,http://www.hrbeu.edu.cn/
+Harbin Institute of Technology,http://www.hit.edu.cn/
 Harbin Institute of Technology,http://www.hit.edu.cn/
 Harbin Medical University,http://www.hrbmu.edu.cn/
 Harbin Normal University,http://www.hrbnu.edu.cn/
@@ -1793,6 +1787,7 @@ Hasselt University,http://www.uhasselt.be/
 Hatyai University,http://www.hu.ac.th/
 Hawassa University,http://www.hu.edu.et/
 Hawler Medical University,http://www.hawlermu.org/
+Hayek International Business School,https://www.hibs.at/
 Haynal Imre University of Health Sciences Budapest,http://www.hiete.hu/
 Hazara University,http://www.hu.edu.pk/
 Health sciences University of Mongolia,http://www.hsum-ac.mn/
@@ -1800,7 +1795,6 @@ Hebei Academy of Fine Art,http://www.hbafa.com/
 Hebei Agricultural University,http://www.hebau.edu.cn/
 Hebei Medical University,http://www.hebmu.edu.cn/
 Hebei Normal University,http://www.hebnu.edu.cn/
-Hebei United University,http://www.hebeiuniteduniversity.com/
 Hebei University,http://www.hbu.edu.cn/
 Hebei University of Economics and Trade,http://www.heuet.edu.cn/
 Hebei University of Science and Technology,http://www.hebust.edu.cn/
@@ -1831,7 +1825,7 @@ Heriot-Watt University,http://www.hw.ac.uk/
 Hertie School of Governance,http://www.hertie-school.org/
 Herzen State Pedagogical University of Russia,http://www.herzen.spb.ru/
 Heythrop College, University of London,http://www.heythrop.ac.uk/
-Hidayatullah National Law University, Raipur,http://www.hnluraipur.com/
+Hidayatullah National Law University, Raipur,https://www.hnlu.ac.in/
 Higashi Nippon International University,http://www.tonichi-kokusai-u.ac.jp/
 Higer College of Technology,http://www.hct.edu.om/
 Higher Colleges of Technology,http://www.hct.ac.ae/
@@ -1841,12 +1835,11 @@ Higher School o Business in Tarnow,http://wsb.toi.tarnow.pl/
 Higher School o Business/National Louis University(WSB/NLU) in Nowy Sacz,http://www.wsb-nlu.edu.pl/
 Higher School of Economics,http://www.hse.ru/
 Higher School of Psychology,http://www.psy.lv/
-Higher School of University and Advanced Studies Pisa,http://www.sssup.it/
 Higher Technological Institute,http://www.hti.edu.eg/
 High Institute for Banking & Financial Studies,http://www.hibfs.edu.sd/
 Hiiraan University,http://www.hiiraanuniversity.info/
 Hijiyama University,http://www.hijiyama-u.ac.jp/
-Himachal Pradesh Agricultural University,http://hillagric.ernet.in/
+Himachal Pradesh Agricultural University,http://www.hillagric.ac.in/
 Himachal Pradesh University,http://hpuniv.nic.in/
 Himeji Dokkyo University,http://www.himeji-du.ac.jp/
 Himeji Institute of Technology,http://www.himeji-tech.ac.jp/
@@ -1909,7 +1902,6 @@ Hochschule RheinMain,http://www.hs-rm.de/
 Hochschule Vechta,http://www.uni-vechta.de/
 Hochschule Wismar, Fachhochschule für Technik, Wirtschaft und Gestaltung,https://www.hs-wismar.de/
 Hochschule Zittau/Görlitz (FH),http://www.hs-zigr.de/
-Hodeidah University,http://www.hoduniv.net.ye/
 Hogere Zeevaartschool - Maritime Academy,http://www.hzs.be/
 Hogeschool Antwerpen,http://www.ha.be/
 Hogeschool Inholland,https://www.inholland.nl/
@@ -1978,12 +1970,11 @@ Humber College,http://humber.ca/
 Humboldt Universität Berlin,https://www.hu-berlin.de/
 Hunan Agricultural University,http://www.hunau.net/
 Hunan Normal University,http://www.hunnu.edu.cn/
-Hunan University,http://www.hunu.edu.cn/
+Hunan University,http://www.hnu.edu.cn/
 Hungarian Academy of Craft and Design,http://www.mif.hu/
 Hungarian Academy of Fine Arts Budapest,http://www.arts7.hu/
 Hungarian University of Physical Education,http://www.hupe.hu/
 Huron University College,http://www.huronuc.on.ca/
-Huron University USA in London,http://www.huron.ac.uk/
 Hvanneyri Agricultural University,http://www.hvanneyri.is/
 Hyogo College of Medicine,http://www.hyo-med.ac.jp/
 Hyogo University,http://www.hyogo-dai.ac.jp/
@@ -1997,6 +1988,7 @@ IBAIS University,http://www.ibaisuniv.edu.bd/
 Ibaraki Christian College,http://www.icc.ac.jp/
 Ibaraki Prefectural University of Health Sciences,http://www.ipu.ac.jp/
 Ibaraki University,http://www.ibaraki.ac.jp/
+IBB University,http://ibbuniv.edu.ye/
 Ibn Sina National College for Medical Studies ,http://www.ibnsina.edu.sa/
 Ibn Sina University,http://www.ibnesina.edu.af/
 Ibra College of Technology,http://www.ict.edu.om/
@@ -2013,6 +2005,7 @@ Ilam University of Medical Sciences,http://www.medilam.hbi.ir/
 Ilia Chavchavadze State University,http://www.iliauni.edu.ge/
 ILIRIA College,http://www.uiliria.org/
 ILMA University,http://ibt.edu.pk/
+Imam Abdulrahman Bin Faisal University,https://www.iau.edu.sa/
 Imam Khomeini International University,http://www.ikiu.ac.ir/
 Imam Reza University,http://www.imamreza.ac.ir/
 Imam Sadiq University,http://www.isu.ac.ir/
@@ -2022,10 +2015,11 @@ Imo State University,http://www.imsu.edu.ng/
 Imperial College London,http://www.ic.ac.uk/
 Imperial College School of Medicine,http://www.med.ic.ac.uk/
 I.M. Sechenov Moscow Medical Academy,http://www.mma.ru/
+IMT School for Advanced Studies Lucca,http://www.imtlucca.it/
 Incheon National University,https://www.inu.ac.kr/
 Inchon National University of Education,http://www.inchon-e.ac.kr/
 Independent University, Bangladesh,http://www.iub.edu.bd/
-Indian Agricultural Research Institute,http://www.iari.ernet.in/
+Indian Agricultural Research Institute,http://www.iari.res.in/
 Indian Board of Alternative Medicine,http://www.altmedworld.net/
 Indian Institute of Craft & Design,http://www.iicd.ac.in/
 Indian Institute of Information Technology,http://www.iiita.com/
@@ -2038,21 +2032,22 @@ Indian Institute of Technology, Guwahati,http://www.iitg.ernet.in/
 Indian Institute of Technology, Hyderabad,http://www.iith.ac.in/
 Indian Institute of Technology, Kanpur,http://www.iitk.ac.in/
 Indian Institute of Technology, Kharagpur,http://www.iitkgp.ernet.in/
-Indian Institute of Technology, Madras,http://www.iitm.ac.in/
+Indian Institute of Technology, Madras,https://www.iitm.ac.in/
 Indian Institute of Technology, Roorkee,http://www.iitr.ernet.in/
 Indian Institute of Technology, Roorkee,http://www.iitr.ac.in/
 Indian Law Institue,http://www.ilidelhi.org/
-Indian School of Business Management and Administration,http://isbm.org.in/
+Indian School of Business Management and Administration,https://isbm.org.in/
 Indian School of Mines (ISM),http://www.ismdhanbad.ac.in/
 Indian Statistical Institute,http://www.isical.ac.in/
-Indian University,http://www.iur.ac.in/
 Indian Veterinary Research Institute,http://www.ivri.nic.in/
 Indira Gandhi Agricultural University,http://www.igau.edu.in/
 Indira Gandhi Institute of Development and Research,http://www.igidr.ac.in/
 Indira Gandhi Institute of Medical Sciences,http://www.igims.org/
 Indira Gandhi National Open University,http://www.ignou.ac.in/
 Indore Indira Business School,http://www.indoreindira.com/
+Indrashil University,http://indrashiluniversity.edu.in/
 Indus Institute of Higher Education,http://www.indus.edu.pk/
+Industrial University of Ho Chi Minh City,http://www.hui.edu.vn/
 Information and Communications Technology Academy,http://www.iacademy.ph/
 Information and Communications University,http://www.icu.ac.kr/
 Inha University,http://www.inha.ac.kr/
@@ -2060,8 +2055,8 @@ Iniciativa Universidad del Atlantico,http://www.universidadatlantico.org/
 Inje University,http://www.inje.ac.kr/
 Inner Mongolia Agricultural University,http://www.imau.edu.cn/
 Inner Mongolia Normal University,http://www.imnu.edu.cn/
-Inner Mongolia Polytechnic University,http://www.impu.edu.cn/
 Inner Mongolia University,http://www.imu.edu.cn/
+Inner Mongolia University of Technology,http://www.imut.edu.cn/
 Innovative University of Eurasia,http://www.ineu.edu.kz/
 Inönü University,http://inonu.edu.tr/
 Inoorero University,http://www.iu.ac.ke/
@@ -2077,14 +2072,13 @@ Institut Catholique de Paris,http://www.icp.fr/
 Institut Catholique de Toulouse,http://www.ict-toulouse.asso.fr/
 Institut Commercial de Nancy,http://www.icn-nancy.com/
 Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique,http://www.ireste.fr/
-Institut des Hautes Etudes de Management,http://www.hem.ac.ma/
+Institut des Hautes Etudes de Management,https://hem.ac.ma/
 Institut des hautes études économiques et commerciales,http://www.inseec.fr/
 Institut des Sciences de la Matière et du Rayonnement,http://www.ismra.fr/
 Institut des Sciences de l'Ingénieur de Clermont-Ferrand,http://cust.univ-bpclermont.fr/
 Institut des Sciences de l'Ingénieur de Montpellier,http://www.isim.univ-montp2.fr/
 Institut d'Etudes Politiques de Bordeaux,http://www.iep.u-bordeaux.fr/
 Institut d'Etudes Politiques de Paris (Sciences Po),http://www.sciences-po.fr/
-Institute for Advanced Studies Lucca,http://www.imtlucca.it/
 Institute for Command Engineers of The Ministry for Emergency Situations,http://www.kii.gov.by/
 Institute for the Economy in Transition,http://www.iet.ru/
 Institute of Accountancy Arusha,http://www.iaa.ac.tz/
@@ -2107,7 +2101,7 @@ Institute of Information Technology,http://www.iit.com.na/
 Institute of Latin American Studies, University of London,http://www.sas.ac.uk/ilas/
 Institute of Management and Business Technology,http://www.imbt.ma/
 Institute of Management and Economy,http://www.ime.ru/
-Institute of Management and Technical Studies ,http://www.imtsinstitute.com/
+Institute of Management and Technical Studies ,https://www.imtsinstitute.com/
 Institute of Management Development - Ohrid,http://www.imd.edu.gr/
 Institute of Management & Enteurpreneurship of South East Europe,http://www.imese.gr/
 Institute of Management Sciences, Peshawar,http://www.imsciences.edu.pk/
@@ -2140,10 +2134,11 @@ Institute of Teachers Education, Temenggong Ibrahim,http://www.ipgkti.edu.my/
 Institute of Teachers Education, Tengku Ampuan Afzan,http://www.iptaa.edu.my/
 Institute of Teachers Education, Tuanku Bainun,http://www.iptb.edu.my/
 Institute of Teachers Education, Tun Hussein Onn,http://www.iptho.edu.my/
-Institute of Technology and Management,http://www.itmindia.edu/
 Institute Of Technology, Australia,http://www.iota.edu.au/
 Institute of Technology of Cambodia,http://www.itc.edu.kh/
 Institut Européen des Sciences Humaines de Paris,http://ieshdeparis.fr/
+Institution of Engineers (India),https://www.ieindia.org/
+Institut National de la Recherche Scientifique (INRS),http://www.inrs.ca/
 Institut National de la Recherche Scientifique, Université du Québec,http://www.inrs.ca/
 Institut National des Postes et Télécommunications,http://www.inpt.ac.ma/
 Institut National des Sciences Appliquées de Lyon,http://www.insa-lyon.fr/
@@ -2240,9 +2235,10 @@ Institut Supérieur Agricole de Beauvais,http://www.isab.fr/
 Institut Supérieur d'Agriculture Lille,http://www.isa.fupl.asso.fr/
 Institut Supérieur d'Agriculture Rhone-Alpes,http://www.isara.fr/
 Institut Supérieur de Commerce et d'Administration des Entreprises,http://www.groupeiscae.ma/
+Institut Supérieur de Gestion,https://www.isg.fr/
 Institut Supérieur de Gestion de Tunis,http://www.isg.rnu.tn/
 Institut Supérieur de l'Aéronautique et de l'Espace,https://www.isae-supaero.fr/
-Institut Supérieur de Management et de Technologie (MATCI),http://www.matci.ac.ma/
+Institut Supérieur de Management et de Technologie (MATCI),https://www.matci.ac.ma/
 Institut Supérieure d'Electronique de Paris,http://www.isep.fr/
 Institut Supérieure d'Electronique du Nord,http://www.isen.fr/
 Institut Teknologi Adhi Tama Surabaya,http://www.itats.ac.id/
@@ -2261,7 +2257,6 @@ International Budo University,http://www.budo-u.ac.jp/
 International Burch University,http://www.ibu.edu.ba/
 International Business School Kelajak ILMI,http://www.ibs.uz/
 International Business School of Scandinavia,http://www.ibss.eu/
-International Business University of Beijing,http://www.ibub.edu.cn/
 International Centre for Isclamic Science,http://www.kolieh.com/
 International Christian University,http://www.icu.ac.jp/
 International College of Hotel Management,https://www.ichm.edu.au/
@@ -2272,11 +2267,10 @@ International Culture University ,http://www.icu-edu.org/
 International East-European University,http://www.ieeu.udm.ru/
 Internationales Hochschulinstitut Zittau,https://tu-dresden.de/ihi-zittau/
 International Hellenic University,http://www.ihu.edu.gr/
-International Higher School for Advanced Studies Trieste,http://www.sissa.it/
 International Hotel Management Institute,https://imi-luzern.com/
 International Institute for Geo - Information Science and Earth Observation,https://www.itc.nl/
 International Institute for Higher Education,http://www.iihem.ac.ma/
-International Institute for Population Sciences,http://www.iipsindia.org/
+International Institute for Population Sciences,http://iipsindia.org/
 International Islamic College,http://www.iic.edu.my/
 International Islamic College of Penang,http://www.kitab.edu.my/
 International Islamic University,http://www.iiu.edu.my/
@@ -2288,11 +2282,12 @@ International Medical University,http://www.imu.edu.my/
 International People's College,http://www.ipc.dk/
 International Sakharov Environmental University,http://www.iseu.by/
 International School of Business Management,https://www.isbm-school.com/
-International School of Management,http://www.ism.de/
 International School of Management,http://www.ism.lt/
+International School of Management,http://www.ism.de/
 International School of Management in Prešov,http://www.ismpo.sk/
 International School of Management ISM Dortmund,https://www.ism.de/
 International School of New Media, University of Lübeck,http://www.isnm.de/
+International Scientific and Technical University,https://istu.edu.ua/
 International Theravada Buddhist Missionary University,http://www.itbmu.org.mm/
 International Tourism Institute,http://www.itismalta.com/
 International Turkmen Turkish University,http://www.ittu.edu.tm/
@@ -2301,7 +2296,7 @@ International University College,http://www.vumk.eu/
 International University College of Nursing (IUCN),http://www.iucn.edu.my/
 International University College of Technology Twintech (IUCTT),http://www.iuctt.edu.my/
 International University for Graduate Studies,http://www.iugrad.edu.kn/
-International University for Science & Technology ,http://www.iust.edu.sy/
+International University for Science & Technology ,http://iust.edu.sy/
 International University in Geneva,http://www.iun.ch/
 International University in Germany,http://www.i-u.de/
 International University Institute of Luxembourg,http://www.iuil.lu/
@@ -2327,7 +2322,7 @@ IQRA University,http://www.iqra.edu.pk/
 Iranian Academy of Persian Language and Literature,http://www.persianacademy.ir/
 Iran University of Medical Sciences,http://www.iums.ac.ir/
 Iran University of Science and Technology Tehran,http://www.iust.ac.ir/
-Iraq University College,http://www.iraquniversity.net/
+Iraq University College,http://www.iraqiuniversity.net/
 Irbid National University,http://www.inu.edu.jo/
 Irish International University (Distance Education),http://www.iiuedu.ie/
 Irish University Business School, Cebu,http://www.iubs.co.uk/
@@ -2339,7 +2334,7 @@ Isfahan University,http://www.ui.ac.ir/
 Isfahan University of Medical Sciences,http://www.mui.ac.ir/
 Isfahan University of Technology,http://www.iut.ac.ir/
 ISFORT - Institut de Formation en Technologie Alimentaire,http://www.isfort.ac.ma/
-Ishik University,http://www.iu.edu.iq/
+Ishik University,http://www.ishik.edu.iq/
 Ishinomaki Senshu University,http://www.isenshu-u.ac.jp/
 I-Shou University,http://www.isu.edu.tw/
 Isik University,http://www.isikun.edu.tr/
@@ -2348,6 +2343,7 @@ Islamic Azad University, Ahar,http://www.iau-ahar.ac.ir/
 Islamic Azad University, Aliabad ,http://www.aliabadiau.ac.ir/
 Islamic Azad University, Arak,http://www.iau-arak.ac.ir/
 Islamic Azad University, Ardabil,http://www.iauardabil.ac.ir/
+Islamic Azad University, Babol,http://baboliau.ac.ir/
 Islamic Azad University, Bandar Abbas,http://www.iauba.ac.ir/
 Islamic Azad University, Bojnourd,http://www.bojnourdiau.ac.ir/
 Islamic Azad University, Bostanabad,http://www.iaubos.ac.ir/
@@ -2368,7 +2364,6 @@ Islamic Azad University, Lahijan,http://www.iau-lahijan.ac.ir/
 Islamic Azad University, Mahshar,http://www.mahshahriau.ac.ir/
 Islamic Azad University, Majlesi,http://www.iaumajlesi.ac.ir/
 Islamic Azad University, Mashhad,http://www.mshdiau.ac.ir/
-Islamic Azad University, Maybod,http://www.maybod.ac.ir/
 Islamic Azad University, Mehriz,http://www.iaumehriz.com/
 Islamic Azad University, Mobarakeh,http://www.mau.ac.ir/
 Islamic Azad University, Najaf Abad,http://www.iaun.ac.ir/
@@ -2398,6 +2393,7 @@ Islamic Azad University, Varamin,http://www.iauvaramin.ac.ir/
 Islamic Azad University, Yazd,http://www.iauyazd.ac.ir/
 Islamic College for Sciences and Technologies,http://www.kist.edu.my/
 Islamic University College,http://www.iug.edu.gh/
+Islamic University College,http://iunajaf.edu.iq/
 Islamic University in Uganda,http://www.iuiu.ac.ug/
 Islamic University Kushtia,http://www.iu.ac.bd/
 Islamic University of Gaza,http://www.iugaza.edu.ps/
@@ -2412,12 +2408,11 @@ Istanbul Kultur University,http://www.iku.edu.tr/
 Istanbul Technical University,http://www.itu.edu.tr/
 Istanbul Ticaret University,http://www.iticu.edu.tr/
 Istanbul University,http://www.istanbul.edu.tr/
-Istituto Universitario di Studi Superiori,http://www.iusspavia.it/
 Ittihad Private University,http://www.ipu.edu.sy/
 Ittihad University,http://www.ittihad.ac.ae/
 IT University of Copenhagen,http://www.itu.dk/
 IUBH Internationale Hochschule,http://www.iubh.de/
-Ivano-Frankivsk National University of Oli and Gas,http://www.ifdtung.if.ua/
+Ivano-Frankivsk National University of Oli and Gas,http://ifdtung.if.ua/
 Ivanovo State Academy of Medicine,http://isma.indi.ru/
 Ivanovo State Power University,http://www.ispu.ru/
 Ivanovo State Textile Academy,http://education.ivanovo.ru:8101/IGTA/
@@ -2432,11 +2427,11 @@ Izmir Economic University,http://www.ieu.edu.tr/
 Izmir Institute of Technology,http://www.iyte.edu.tr/
 Jacobs University Bremen,http://www.jacobs-university.de/
 Jadara University,http://www.jadara.edu.jo/
-Jadavpur University,http://www.jadavpur.edu/
+Jadavpur University,http://www.jaduniv.edu.in/
 Jade Hochschule,https://www.jade-hs.de/
 Jagannath University,http://www.jnu.ac.bd/
 Jagiellonian University Cracow,http://www.uj.edu.pl/
-Jagran Lakecity University,http://www.jlu.edu.in/
+Jagran Lakecity University,https://www.jlu.edu.in/
 Jahangirnagar University,http://www.juniv.edu/
 Jahrom University of Medical Sciences,http://www.jums.ac.ir/
 Jai Narayan Vyas University,http://www.jnvu.edu.in/
@@ -2446,8 +2441,9 @@ Jai Prakash University,http://jpv.bih.nic.in/
 Jaipur National University,http://www.jnujaipur.ac.in/
 Jalalabad State University Kyrgyzstan,http://www.jasu.edu.kg/
 James Cook University of North Queensland,http://www.jcu.edu.au/
-Jamia Hamdard University,http://www.jamiahamdard.edu/
-Jamia Millia Islamia University,http://jmi.nic.in/
+James Cook University Singapore,https://www.jcu.edu.sg/
+Jamia Hamdard University,http://jamiahamdard.edu/
+Jamia Millia Islamia University,http://jmi.ac.in/
 Jami Institute of Technology,http://www.jami.ac.ir/
 Janos Selye University,http://www.selyeuni.sk/
 Janus Pannonius University,http://www.jpte.hu/
@@ -2457,9 +2453,9 @@ Japanese Red Cross College of Nursing,http://www.redcross.ac.jp/
 Japan Women's University,http://www.jwu.ac.jp/
 Jaramogi Oginga Odinga University of Science and Technology,http://www.jooust.ac.ke/
 Jatiya Kabi Kazi Nazrul Islam University,http://www.jkkniu.edu.bd/
-Jawaharlal Nehru Agricultural University,http://www.jnkvv.nic.in/
+Jawaharlal Nehru Agricultural University,http://jnkvv.org/
 Jawaharlal Nehru Centre for Advanced  Scientific Research,http://www.jncasr.ac.in/
-Jawaharlal Nehru Technological University,http://www.jntu.ac.in/
+Jawaharlal Nehru Technological University,http://jntuh.ac.in/
 Jawaharlal Nehru University,http://www.jnu.ac.in/
 Jawzjan University,http://www.ju.edu.af/
 Jaypee Institute of Information Technology,http://www.jiit.ac.in/
@@ -2468,7 +2464,8 @@ Jeonju University,http://www.jeonju.ac.kr/
 Jerash Private University,http://www.jpu.edu.jo/
 Jerusalem University College,http://www.juc.edu/
 Jewish University in Moscow,http://www.jum.ru/
-Jiangsu University of Science and Technology,http://www.jsust.edu.cn/
+Jiangnan University,http://www.jiangnan.edu.cn/
+Jiangsu University of Science and Technology,http://www.just.edu.cn/
 Jiangxi Agricultural University,http://www.jxau.edu.cn/
 Jiangxi Normal University,http://www.jxnu.edu.cn/
 Jiangxi University of Finance and Economics,http://www.jxufe.edu.cn/
@@ -2479,23 +2476,23 @@ Jigjiga University,http://www.jju.edu.et/
 Jikei University School of Medicine,http://www.jikei.ac.jp/
 Jilin Agricultural University,http://www.jlau.edu.cn/
 Jilin University,http://www.jlu.edu.cn/
-Jilin University of Technology,http://www.jut.edu.cn/
+Jilin University of Technology,http://www.jlu.edu.cn/
 Jimei University,http://www.jmu.edu.cn/
 Jimma University,http://www.ju.edu.et/
-Jinan University,http://www.jinan.edu.lb/
 Jinan University,http://www.jnu.edu.cn/
-Jingdezhen China Institute,http://www.jci.edu.cn/
+Jinan University,http://www.jinan.edu.lb/
+Jingdezhen Ceramic Institute,http://www.jci.edu.cn/
 Jinnah University for Women,http://www.juw.edu.pk/
 Jishou University,http://www.jsu.edu.cn/
 Jissen Women's University,http://www.jissen.ac.jp/
 Jiwaji University,http://www.jiwaji.edu/
 Jobu University,http://www.jobu.ac.jp/
-Jodhpur National University,http://www.jodhpurnationaluniversity.com/
+Jodhpur National University,http://jodhpurnationaluniversity.com/
 Joetsu University of Education,http://www.juen.ac.jp/
 Johannes-Gutenberg Universität Mainz,http://www.uni-mainz.de/
 Johann Wolfgang Goethe Universität Frankfurt am Main,http://www.goethe-university-frankfurt.de/
 John Cabot University,http://www.johncabot.edu/
-Johns Hopkins University, SAIS Bologna Center,http://www.jhubc.it/
+Johns Hopkins University, SAIS Bologna Center,https://www.sais-jhu.edu/graduate-studies/campuses/bologna-italy
 Johore Bharu Primeir Polytechnic,http://www.polijb.edu.my/
 Jomo Kenyatta University of Agriculture and Technology,http://www.jkuat.ac.ke/
 Jönköping University College,http://www.hj.se/
@@ -2534,7 +2531,7 @@ Kakatiya University,http://www.kuwarangal.com/
 Kalaidos Fachhochschule,https://www.kalaidos-fh.ch/
 Kalasin University,http://www.ksu.ac.th/
 Kalinga Institute of Industrial Technology,http://www.kiit.ac.in/
-Kalinga University,http://www.kalingauniversity.com/
+Kalinga University,http://kalingauniversity.ac.in/
 Kaliningrad State Technical University,http://www.klgtu.ru/
 Kalmar University College,http://www.hik.se/
 Kalmyk State University,http://www.kalmsu.ru/
@@ -2545,7 +2542,7 @@ Kamchatka State University Vitus Bering,http://www.kamgu.ru/
 Kameshwar Singh Darbhanga Sanskrit University,http://www.ksdsu.edu.in/
 Kampala International University,http://kiu.ac.ug/
 Kampala University,http://www.ku.ac.ug/
-Kamrah International Institute of Technology (KIIT),http://www.kiit.in/
+Kamrah International Institute of Technology (KIIT),http://kiit.in/
 Kanagawa Dental College,http://www.kdcnet.ac.jp/
 Kanagawa Institute of Technology,http://www.kanagawa-it.ac.jp/
 Kanagawa University,http://www.kanagawa-u.ac.jp/
@@ -2586,11 +2583,11 @@ Karatina University,http://www.karatinauniversity.ac.ke/
 Kardan University,http://www.kardan.edu.af/
 Karel De Grote Hogeschool,http://www.kdg.be/
 Karelian State Pedagogical University,http://kspu.ptz.ru/
-Karlshochschule International University,http://www.karlshochschule.de/
 Karlshochschule International University,https://karlshochschule.de/
+Karlshochschule International University,http://www.karlshochschule.de/
 Karlstad University,http://www.kau.se/
 Karnataka State Law University,http://www.kslu.ac.in/
-Karnataka State Open University,http://www.karnatakastateopenuniversity.in/
+Karnataka State Open University,https://ksoumysore.edu.in/
 Karnatak University,http://www.kud.ac.in/
 Károl Gáspár University of the Reformed Church,http://www.kgre.hu/
 Karolinska Institute Stockholm,http://www.ki.se/
@@ -2603,6 +2600,7 @@ Kasetsart University,http://www.ku.ac.th/
 Kashan University,http://www.kashanu.ac.ir/
 Kashan University of Medical Sciences,http://www.kaums.ac.ir/
 Kassala University,http://www.kassalauni.edu.sd/
+Katanov State University of Khakassia,http://www.khsu.ru/
 Kateb Institute of Higher Education,http://www.kateb.edu.af/
 Kathmandu University,http://www.ku.edu.np/
 Katholieke Hogeschool Kempen,http://www.khk.be/
@@ -2654,9 +2652,9 @@ Kenya College of Accountancy,http://www.kca.ac.ke/
 Kenya Medical Training College,http://www.kmtc.ac.ke/
 Kenya Methodist University,http://www.kemu.ac.ke/
 Kenyatta University,http://www.ku.ac.ke/
-Kerala Agricultural University,http://www.kau.edu/
+Kerala Agricultural University,http://www.kau.in/
 Kerala University of Fisheries and Ocean Sciences,http://www.kufos.ac.in/
-Kerbala University,http://www.uokerbala.edu.iq/
+Kerbala University,http://uokerbala.edu.iq/
 Kerman Graduate University of Technology,http://www.kgut.ac.ir/
 Kermanshah University of Medical Sciences,http://www.kums.ac.ir/
 Kermanshah University of Technology,http://www.kut.ac.ir/
@@ -2666,28 +2664,26 @@ Khabarovsk State University of Technology,http://www.khstu.ru/
 Khalifa University,http://www.kustar.ac.ae/
 Khalifa University of Science, Technology and Research,http://www.ku.ac.ae/
 Khana-e-Noor Institute of Higher Education,http://www.ken.edu.af/
+Kharkiv National Technical University of Agriculture,http://khntusg.com.ua/
 Kharkiv National University,http://www.univer.kharkov.ua/
 Kharkiv National University of Air Force,http://www.hups.mil.gov.ua/
 Kharkiv National University of Economics,http://www.hneu.edu.ua/
-Kharkiv National University of Radio Electronics,http://www.kture.kharkov.ua/
+Kharkiv National University of Radio Electronics,http://nure.ua/
 Kharkiv State Medical University,http://www.ksmu.kharkov.ua/
 Kharkiv State Technical University of Construction and Architecture,http://www.kstuca.kharkov.ua/
 Kharkiv State Transport Technical University,http://www.khadi.kharkov.ua/
 Khazar University,http://www.khazar.org/
 Khemarak University,http://www.khemarak.edu.kh/
-Kherson State University,http://www.university.kherson.ua/
+Kherson State University,http://www.kspu.edu/
 Khesar Gyalpo University of Medical Sciences of Bhutan,http://www.kgumsb.edu.bt/
-Khmelnitsky National University,http://www.tup.km.ua/
+Khmelnitsky National University,https://www.khnu.km.ua/
+Khmelnytskyi National University,https://www.khnu.km.ua/
 Khomeinishahr Payame Noor University,http://km.isfpnu.ac.ir/
 Khon Kaen University,https://www.kku.ac.th/
 Khulna University,http://www.ku.ac.bd/
 Khulna University of Engineering And Technology,http://www.kuet.ac.bd/
 Khurasan University,http://www.kumsa.net/
 Kibi International University,http://www.kiui.ac.jp/
-Kiev National Economic University Named after Vadym Hetman,http://www.kneu.edu.ua/
-Kiev National University of Construction and Architecture,http://www.knuba.edu.ua/
-Kiev School Of Economics,http://www.kse.org.ua/
-Kiev Slavonic University,http://www.ksu.edu.ua/
 Kigali Health Institute,http://www.khi.ac.rw/
 Kigali Independent University,http://www.ulk.ac.rw/
 Kigali Institute of Education,http://www.kie.ac.rw/
@@ -2748,7 +2744,7 @@ Kogakuin University,http://www.kogakuin.ac.jp/
 Kogi State University,http://www.ksu.edu.ng/
 Kohat University of Science and Technology  (KUST),http://kust.edu.pk/
 Kohinoor School of Hospitality Management,http://kimi.kohinoor.ac.in/
-Kokand State Pedagogical Institute,http://www.qdpi.uz/
+Kokand State Pedagogical Institute,http://kspi.uz/
 Koka Women's College,http://www.koka.ac.jp/
 Kokugakuin University,http://www.kokugakuin.ac.jp/
 Kokushikan University,http://www.kokushikan.ac.jp/
@@ -2788,6 +2784,7 @@ Krasnoyarsk State Technical University,http://www.kgtu.runnet.ru/
 Krirk University,http://www.krirk.ac.th/
 Krishna University,http://www.krishnauniversity.ac.in/
 KROK Economics and Law University,http://www.krok.edu.ua/
+Kryvyi Rih National University,http://knu.edu.ua/
 Kuala Lumpur Infrastructure University College,http://www.kliuc.edu.my/
 Kuala Lumpur Metropolitan University,http://www.klmu.edu.my/
 Kuala Terengganu City Polytechnic,http://www.pkkt.edu.my/
@@ -2839,6 +2836,11 @@ Kwara State Polytecnic,http://kwarastatepolytechnic.edu.ng/
 Kwara State University ,http://www.kwasu.edu.ng/
 Kwassui Women's College,http://www.kwassui.ac.jp/
 Kyambogo University,http://www.kyu.ac.ug/
+Kyiv National Economic University Named after Vadym Hetman,https://kneu.edu.ua/
+Kyiv National University of Construction and Architecture,http://www.knuba.edu.ua/
+Kyiv National University of Trade and Economics,https://www.knteu.kiev.ua/
+Kyiv School of Economics,http://www.kse.org.ua/
+Kyiv Slavonic University,http://ksu.edu.ua/
 Kyonggi University,http://www.kyonggi.ac.kr/
 Kyongju University,http://www.kyongju.ac.kr/
 Kyorin University,http://www.kyorin-u.ac.jp/
@@ -2892,8 +2894,8 @@ Lahore University of Management Sciences,https://lums.edu.pk/
 Lahti Polytechnic,http://www.lamk.fi/
 Laikipia University,http://www.laikipia.ac.ke/
 Lakehead University,https://www.lakeheadu.ca/
-Lakshmibai National Institute of Physical Education,http://www.lnipe.edu/
-Lalit Narayan Mithila University,http://lnmu.bih.nic.in/
+Lakshmibai National Institute of Physical Education,http://www.lnipe.edu.in/
+Lalit Narayan Mithila University,http://lnmu.ac.in/
 Lampang College of Commerce and Technology,http://www.lcct.ac.th/
 Lampang Rajabhat University,http://www.lpru.ac.th/
 Lampang Vocational College   ,http://www.lampangvc.ac.th/
@@ -2912,16 +2914,18 @@ Latvian Academy of Music,http://www.lmuza.lv/academy/
 Latvian Academy of Sports Education,http://lspa.lanet.lv/
 Latvian Maritime Academy,http://www.lama.lv/
 Latvian University of Agriculture,http://www.llu.lv/
+Lauder Business School,https://lbs.ac.at/
 Laurentian University of Sudbury,https://laurentian.ca/
 Lausanne Hotel School (EHL),http://www.ehl.edu/
 Law University of Bratislava,http://www.uninova.sk/
 Lazarski School of Commerce and Law,http://www.lazarski.pl/
- L.D.College of Engineering,http://www.ldceahd.org/
+ L.D.College of Engineering,http://ldce.ac.in/
 Lead City University of Ibadan,http://www.lcu.edu.ng/
 Leading University,http://www.lus.ac.bd/
 Lebanese American University,http://www.lau.edu.lb/
 Lebanese French University (Kurdistan Region),http://lfu.edu.krd/
 Lebanese International University,http://www.liu.edu.lb/
+Lebanese International University,http://www.liuyemen.com/
 Lebanese University,http://www.ul.edu.lb/
 Leeds Metropolitan University,http://www.lmu.ac.uk/
 Leiden University,https://www.universiteitleiden.nl/
@@ -2929,14 +2933,17 @@ Leon Kozminski Academy of Entrepreneurship and Mangement,http://www.wspiz.edu.pl
 Leon Kozminski Academy of Entrepreneurship and Mangement in Warsaw,http://www.wspiz.edu.pl/
 Les Roches Gruyère University of Applied Sciences,http://www.lrguas.ch/
 Les Roches International School of Hotel Management,http://www.lesroches.edu/
+Lesya Ukrainka Eastern European National University,http://eenu.edu.ua/
 Leyte Normal University,http://lnu.evis.net.ph/
 Leyte State University ,http://www.lsu-visca.edu.ph/
-Liaocheng Teachers University,http://www.lctu.edu.cn/
+Liaocheng University,http://www.lcu.edu.cn/
 Liaoning Normal University,http://www.lnnu.edu.cn/
 Liaoning Technical University,http://www.lntu.edu.cn/
 Liaoning University,http://www.lnu.edu.cn/
+Liaoning University of Petroleum and Chemical Technology,http://www.lnpu.edu.cn/
 Liaquat University of Medical & Health Sciences Jamshoro,http://www.lumhs.edu.pk/
 Libera Università degli Studi di Scienze Umane e Tecnologiche,http://www.uniludes.ch/
+Libera Università Internazionale degli Studi Sociali,http://www.luiss.it/
 Libyan International Medical University (LIMU),http://www.limu.edu.ly/
 Libya Open University,http://www.libyaou.ly/
 Liceo de Cagayan University,http://www.ldcu.edu.ph/
@@ -2948,7 +2955,6 @@ Lincoln University,http://www.lincoln.ac.nz/
 Lingnan University,http://www.ln.edu.hk/
 Ling Tung University,http://www.ltc.edu.tw/
 Linguistic University of Nizhny Novgorod,http://www.lunn.sci-nnov.ru/
-Link Campus University of Malta,http://www.unilink.it/
 Linköping University,http://www.liu.se/
 Linton University College,http://www.linton.edu.my/
 Lipeck State Technical University,http://www.stu.lipetsk.ru/
@@ -2957,12 +2963,12 @@ Lithuania Christian College,http://www.lcc.lt/
 Lithunian Academy of Music and Theatre,http://www.lmta.lt/
 Lithunian Institute of Physical Education,http://www.lkka.lt/
 Lithunian Veterinary Academy,http://www.lva.lt/
+LIUC Università Cattaneo,http://www.liuc.it/
 Liverpool Hope University College,http://www.hope.ac.uk/
 Liverpool John Moores University,http://www.livjm.ac.uk/
 L.N. Gumilyov Eurasian National University,http://www.enu.kz/
 Logistics Engineering University of PLA,http://www.hqgc.net/
 London Business School,https://www.london.edu/
-London College of Science & Technology,http://www.lcst.ac/
 London Guildhall University,http://www.lgu.ac.uk/
 London Institute of Management and Technology,http://www.limt.co.uk/
 London Metropolitan University,http://www.londonmet.ac.uk/
@@ -2970,6 +2976,8 @@ London School of Business & Finance,http://www.lsbf.org.uk/
 London School of Economics and Political Science, University of London,http://www.lse.ac.uk/
 London School of Hygiene & Tropical Medicine, University of London,http://www.lshtm.ac.uk/
 London School of Jewish Studies,http://www.lsjs.ac.uk/
+London School of Science & Technology,http://www.lsst.ac/
+London South Bank University,https://www.lsbu.ac.uk/
 Lorestan University,http://www.lu.ac.ir/
 Lorestan University of Medical Sciences,http://www.lums.ac.ir/
 Loughborough University,http://www.lboro.ac.uk/
@@ -2979,7 +2987,7 @@ Ludong University,http://www.ytnc.edu.cn/
 Ludwig-Maximilians-Universität München,http://www.uni-muenchen.de/
 Ludwik Solski State Academy of Theatre in Cracow,http://www.pwst.krakow.pl/
 Luhansk State Medical University,http://www.lsmu.com/
-Luhansk Taras Shevchenko National Pedagogical University,http://www.lgpu.lg.ua/
+Luhansk Taras Shevchenko National Pedagogical University,http://lightsup.ru/
 Lulea University of Technology,http://www.luth.se/
 Lumbini Buddhist University,http://www.lbu.edu.np/
 Lund University,http://www.lu.se/
@@ -3003,19 +3011,22 @@ Macau University of Science and Technology,http://www.must.edu.mo/
 MacEwan University,http://www.macewan.ca/
 Macquarie University,http://www.mq.edu.au/
 Madawalabu University,http://www.mwu.edu.et/
-Madenat Alelem University College,http://www.madenatalelem.com/
-Madhya Pradesh Bhoj (Open) University,http://www.mpbou.org/
+Madenat Alelem University College,http://mauc.edu.iq/
+Madhya Pradesh Bhoj (Open) University,http://www.bhojvirtualuniversity.com/
+Madina Higher Institute for Management and Technology,http://www.madinagroups.edu.eg/
 Madonna University,http://www.madonnauniversity.edu.ng/
 Madurai Kamaraj University,http://mkuniversity.org/
 Mae Fah Luang University ,http://www.mfu.ac.th/
 Maejo University,http://www.mju.ac.th/
-Magadh University,http://www.magadhuniversity.org/
+Magadh University,https://www.magadhuniversity.ac.in/
 Magnitogorsk State University,http://www.masu.ru/
 Mahachulalongkorn Buddhist University,http://www.mcu.ac.th/
 Mahamakut Buddhist University,http://www.mbu.ac.th/
 Mahanakorn University of Technology,http://www.mut.ac.th/
-Maharaja Ganga Singh University, Bikaner,http://www.mgsubikaner.ac.in/
+Maharaja Ganga Singh University, Bikaner,http://mgsubikaner.ac.in/
+ Maharaja Krishnakumarsinhji Bhavnagar University,https://www.mkbhavuni.edu.in/
 Maharaja Sayajirao University of Baroda,http://www.msubaroda.ac.in/
+Maharashtra Animal and Fishery Sciences University,http://www.mafsu.in/
 Maharishi Dayanand University, Rohtak (Haryana ),http://www.mdurohtak.com/
 Maharshi Dayanand Sarswati University Ajmer,http://www.mdsuajmer.ac.in/
 Mahasarakham University,http://www.msu.ac.th/
@@ -3024,7 +3035,7 @@ Mahatma Gandhi Kashi Vidyapith ,http://www.mgkvp.ac.in/
 Mahatma Gandhi University, Kerala,http://www.mgu.ac.in/
 Mahatma Gandhi University Meghalaya ,http://www.mgu.edu.in/
 Mahatma Jyotiba Phule Rohilkhand University Bareilly ,http://www.mjpru.ac.in/
-Mahatma Phule Agricultural University,http://mpkv.mah.nic.in/
+Mahatma Phule Agricultural University,http://mpkv.ac.in/
 Mahidol University,https://www.mahidol.ac.th/
 Mahidol University International College,http://www.muic.mahidol.ac.th/
 Mahsa University College for Health and Medical Science,http://www.mahsa.edu.my/
@@ -3050,10 +3061,10 @@ Management Development Institute of Singapore, Tashkent,http://www.mdis.uz/
 Manarat International University,http://www.manarat.ac.bd/
 Mandalay University of Distance Education,http://www.mude.edu.mm/
 Mandhu College,http://www.mandhu.com/edu/
-Mangalayatan University,http://www.mangalayatan.in/
+Mangalayatan University,http://mangalayatan.in/
 Mangalore University,http://www.mangaloreuniversity.ac.in/
 Manila Central University,http://www.mcu.edu.ph/
-Manipal University,http://www.manipal.edu/
+Manipal University,https://www.manipal.edu/
 Manipur University,http://manipuruniv.ac.in/
 Manonmaniam Sundaranar University,http://www.msuniv.ac.in/
 Mansoura University,http://www.mans.edu.eg/
@@ -3136,10 +3147,11 @@ Merlimau Polytechnic,http://www.pmm.edu.my/
 Mersin University,http://www.mersin.edu.tr/
 Meru University of Science and Technology,http://www.must.ac.ke/
 Merz Akademie, Hochschule für Gestaltung Stuttgart,http://www.merz-akademie.de/
-Methodist Engineering College,http://www.methodist.edu.in/
+Methodist College Engineering and Technology,http://methodist.edu.in/
 Metro College of Health Science and Research,http://metrocollege.in/
-Metropolitan University,http://www.metropolitan.edu.rs/
 Metropolitan University,http://www.metrouni.edu.bd/
+Metropolitan University,http://www.metropolitan.edu.rs/
+Meybod University,http://meybod.ac.ir/
 Michael Okpara University of Agriculture,http://www.mouau.edu.ng/
 Middle East Technical University,http://www.metu.edu.tr/
 Middle East University,http://meu.edu.jo/
@@ -3164,6 +3176,7 @@ Minhaj University Lahore,http://www.mul.edu.pk/
 Minia University,http://www.minia.edu.eg/
 Minsk Institute of Management,http://www.miu.by/
 Minsk State Linguistic University,http://www.mslu.by/
+Minzu University of China,http://www.muc.edu.cn/
 Miryang National University,http://www.miryang.ac.kr/
 Misamis University,http://www.mu.fapenet.org/
 Misan University,http://www.uomisan.edu.iq/
@@ -3191,7 +3204,7 @@ Mogadishu University,http://mu.edu.so/
 Mogilev State University A.A. Kuleshov,http://msu.mogilev.by/
 Mohammad Ali Jinnah University,http://www.jinnah.edu.pk/
 Mohammad Ali Jinnah University, Karachi,https://www.jinnah.edu/
-Mohan Lal Sukhadia University,http://www.mlsu.ac.in/
+Mohan Lal Sukhadia University,https://www.mlsu.ac.in/
 Mohi-ud-Din Islamic University,http://miu.edu.pk/
 Moi University,http://www.mu.ac.ke/
 Mokpo National Maritime University,http://www.mmu.ac.kr/
@@ -3200,9 +3213,11 @@ Mokwon University Taejon,http://www.mokwon.ac.kr/
 Molde University College,http://www.himolde.no/
 Moldova Cooperative Trade University,http://www.uccm.md/
 Moldova State Agricultural University,http://www.uasm.md/
-Moldova State University,http://www.usm.md/
-Moldova State University of Medicine and Pharmacy "N. Testemitsanu",http://www.usmf.md/
+Moldova State University,http://usm.md/
+Moldova State University of Medicine and Pharmacy "N. Testemitsanu",http://usmf.md/
 Moldova Technical University,http://utm.md/
+Monad University,http://www.monad.edu.in/
+Monash South Africa,https://www.msa.ac.za/
 Monash University,http://www.monash.edu.au/
 Monash University, Malaysia Campus,http://www.monash.edu.my/
 Mondragon Univertsitatea,http://www.muni.es/
@@ -3310,7 +3325,7 @@ Nagoya University of Arts,http://www.nua.ac.jp/
 Nagoya University of Commerce and Business Administration,http://www.nucba.ac.jp/
 Nagoya University of Foreign Studies,http://www.nufs.nakanishi.ac.jp/
 Nagoya Women's University,http://www.nagoya-wu.ac.jp/
-Nagpur University,http://www.nagpur-university.com/
+Nagpur University,http://www.nagpuruniversity.org/
 Nahda University,http://www.nub.edu.eg/
 Naif Arab University for Security Sciences,http://www.nauss.edu.sa/
 Nairobi Institute of Business Studies ,http://www.nibs.ac.ke/
@@ -3329,18 +3344,17 @@ Nangarhar University,http://www.nu.edu.af/
 Nanhua University,http://www.nhu.edu.tw/
 Nanjing Agricultural University,http://www.njau.edu.cn/
 Nanjing Forestry University,http://www.njfu.edu.cn/
-Nanjing Institute of Meteorology,http://www.njim.edu.cn/
 Nanjing Medical University,http://www.njmu.edu.cn/
 Nanjing Normal University,http://www.njnu.edu.cn/
+Nanjing Tech University,http://www.njtech.edu.cn/
 Nanjing Union Theological Seminary,http://www.njuts.cn/
 Nanjing University,http://www.nju.edu.cn/
 Nanjing University of Aeronautics and Astronautics,http://www.nuaa.edu.cn/
-Nanjing University of Chemical Technology,http://www.njuct.edu.cn/
 Nanjing University of Economics,http://www.njue.edu.cn/
 Nanjing University of Posts and Telecommunications,http://www.njupt.edu.cn/
 Nanjing University of Science and Technology,http://www.njust.edu.cn/
 Nanjing University of Traditional Chinese Medicine,http://www.njutcm.edu.cn/
-Nankai University,http://nku.nankai.edu.cn/
+Nankai University,http://www.nankai.edu.cn/
 Nanyang Technological University,http://www.ntu.edu.sg/
 Nanzan University,http://www.nanzan-u.ac.jp/
 Napier University,http://www.napier.ac.uk/
@@ -3350,7 +3364,7 @@ Nara University,http://www.nara-u.ac.jp/
 Nara University of Commerce,http://www.narauc.ac.jp/
 Nara University of Education,http://www.nara-edu.ac.jp/
 Nara Women's University,http://www.nara-wu.ac.jp/
-Narendra Deva University of Agriculture and Technology,http://www.nduat.nic.in/
+Narendra Deva University of Agriculture and Technology,http://www.nduat.org/
 Naresuan University,http://www.nu.ac.th/
 Narsee Monjee Institute of Management Studies,http://www.nmims.edu/
 Naruto University of Education,http://www.naruto-u.ac.jp/
@@ -3360,9 +3374,8 @@ National Academy for Theatre and Film Arts "Krustju Sarafov",http://www.natfiz.b
 National Academy of Arts,http://nha.bg/
 National Academy of Music "Pantcho Vladigerov",http://www.nma.bg/
 National Aerospace University Kharkov Aviation Institute,http://www.khai.edu/
-National Agricultural University,http://www.nauu.kiev.ua/
 National Aviation Academy,http://www.naa.edu.az/
-National Aviation Univesity,http://www.nau.edu.ua/
+National Aviation Univesity,http://nau.edu.ua/
 National Central University,http://www.ncu.edu.tw/
 National Changhua University of Education,http://www.ncue.edu.tw/
 National Chengchi University,http://www.nccu.edu.tw/
@@ -3377,7 +3390,7 @@ National College for Medical and Technical Studies,http://www.nc.edu.sd/
 National College of Arts,http://www.nca.edu.pk/
 National College of Ireland,http://www.ncirl.ie/
 National College of Physical Education and Sports,http://www.ncpes.edu.tw/
-National Dairy Research Institute,http://ndri.nic.in/
+National Dairy Research Institute,http://www.ndri.res.in/
 National Defence Academy of Latvia,http://www.mil.lv/
 National Defence Medical College,http://www.ndmc.ac.jp/
 National Dong Hwa University,http://www.ndhu.edu.tw/
@@ -3389,7 +3402,7 @@ National Ilan University,http://www.niu.edu.tw/
 National Institute of Development Administration,http://www.nida.ac.th/
 National Institute of Education,http://www.nie.edu.kh/
 National Institute of Fitness and Sports Kanoya,http://www.nifs-k.ac.jp/
-National Institute of Industrial Engineering,http://www.nitie.edu/
+National Institute of Industrial Engineering,https://www.nitie.edu/
 National Institute of Mental Health and Neuro Sciences,http://www.nimhans.kar.nic.in/
 National Institute of Technology, Calicut,http://www.nitc.ac.in/
 National Institute of Technology, Durgapur,http://www.nitdgp.ac.in/
@@ -3397,14 +3410,14 @@ National Institute of Technology, Jamshedpur,http://www.nitjsr.ac.in/
 National Institute of Technology Kurukshetra,http://www.nitkkr.net/
 National Institute of Technology, Rourkela,http://www.nitrkl.ac.in/
 National Institute of Technology, Trichy,http://www.nitt.edu/
-National Institute of Technology, Warangal,http://www.nitw.ernet.in/
+National Institute of Technology, Warangal,https://www.nitw.ac.in/
 National Institute of the Arts,http://www.nia.edu.tw/
 National Kaohsiung First University of Science and Technology,http://www.nkfu.edu.tw/
 National Kaohsiung Normal University,http://www.nknu.edu.tw/
 National Kaohsiung University of Applied Sciences,http://www.kuas.edu.tw/
-National Law School of India University,http://www.nls.ac.in/
-National Medical University O.O. Bogomolets,http://www.nmu.edu.ua/
-National Metallurgical Academy of Ukraine,http://www.nmetau.edu.ua/
+National Law School of India University,https://www.nls.ac.in/
+National Medical University O.O. Bogomolets,http://nmu.ua/
+National Metallurgical Academy of Ukraine,http://nmetau.edu.ua/
 National Military Academy of Afghanistan,http://www.nmaa.edu.af/
 National Mining University,http://www.nmu.org.ua/
 National Museum Institute of History of Art, Conservation and Museology,http://www.nationalmuseumindia.org/nmi/index.htm
@@ -3434,37 +3447,39 @@ National Taiwan Normal University,http://www.ntnu.edu.tw/
 National Taiwan Ocean University,http://www.ntou.edu.tw/
 National Taiwan University,http://www.ntu.edu.tw/
 National Taiwan University of Science and Technology,http://www.ntust.edu.tw/
-National Taras Shevchenko University of Kiev,http://www.univ.kiev.ua/
+National Taras Shevchenko University of Kyiv,http://www.univ.kiev.ua/
 National Technical University (Kharkiv Polytechnical Institute),http://www.kpi.kharkov.ua/
-National Technical University (Kiev Politechnical Institute),http://www.kpi.ua/
+National Technical University (Kyiv Politechnical Institute),http://kpi.ua/
 National Technical University of Athens,http://www.ntua.gr/
 National Textile University Faisalabad,http://www.ntu.edu.pk/
-National Transport University,http://www.ntu.kar.net/
+National Transport University,http://www.ntu.edu.ua/
 National Tsinghua University,http://www.nthu.edu.tw/
 National United University,http://www.nuu.edu.tw/
-National University,http://www.nu.edu.bd/
+National University,http://www.nu.edu.ph/
 National University,http://www.nu.edu.bd/
 National University of Arts,http://www.unarte.ro/
 National University of Computer & Emerging Sciences,http://www.nu.edu.pk/
 National University of Defense Technology,http://www.nudt.edu.cn/
-National University of Food Technologies,http://www.usuft.kiev.ua/
+National University of Food Technologies,http://www.nuft.in.ua/
 National University of Internal Affairs,http://www.univd.edu.ua/
 National University of Ireland,http://www.nui.ie/
 National University of Ireland, Galway,http://www.ucg.ie/
 National University of Ireland, Maynooth,http://www.may.ie/
 National University of Kaohsiung,http://www.nuk.edu.tw/
-National University of Kiev-Mohyla Academy,http://www.ukma.kiev.ua/
+National University of Kyiv-Mohyla Academy,http://www.ukma.edu.ua/
 National University of Laos,http://www.nuol.edu.la/
 National University of Lesotho,http://www.nul.ls/
+National University of Life and Environmental Sciences,http://nubip.edu.ua/
 National University of Management,http://num.edu.kh/
 National University of Modern Languages,http://www.numl.edu.pk/
 National University of Music,http://www.unmb.ro/
-National University of Ostroh Academy,http://www.uosa.uar.net/
+National University of Ostroh Academy,https://www.oa.edu.ua/
+National University of Pharmacy,http://nuph.edu.ua/
 National University of Rwanda,http://www.nur.ac.rw/
 National University of Samoa,http://www.nus.edu.ws/
 National University of Science and Technology,http://www.nust.edu.pk/
 National University of Science and Technology Bulawayo,http://www.nust.ac.zw/
-National University of Shipbuilding,http://www.usmtu.edu.ua/
+National University of Shipbuilding,http://www.nuos.edu.ua/
 National University of Singapore,http://www.nus.edu.sg/
 National University of Theater and Film Arts,http://www.unatc.ro/
 National University of Uzbekistan,http://www.nuu.uz/
@@ -3481,7 +3496,7 @@ Necmettin Erbakan University,https://www.konya.edu.tr/
 NED University of Engineering and Technology Karachi,http://www.neduet.edu.pk/
 Neelain University,http://www.neelain.edu.sd/
 Neijiang Teacher University,http://www.neijtc.edu.cn/
-Nelson Mandela Metropolitan University,http://www.nmmu.ac.za/
+Nelson Mandela University,http://www.mandela.ac.za/
 Nepal Open University,http://www.nou.edu.np/
 Nepal Sanskrit University,http://www.nsu.edu.np/
 Netaji Subhas Inst of Technology,http://www.nsit.ac.in/
@@ -3518,7 +3533,7 @@ Nile University,http://nu.edu.eg/
 Nile Valley University,http://www.nilevalley.edu.sd/
 Ningbo University,http://www.nbu.edu.cn/
 Ningbo University of Technology,http://www.nbut.edu.cn/
-Ningxia Medical College,http://www.nxmc.edu.cn/
+Ningxia Medical University,http://www.nxmu.edu.cn/
 Ningxia University,http://www.nxu.edu.cn/
 Nipissing University,http://www.nipissingu.ca/
 Nippon Bunri University,http://www.nbu.ac.jp/
@@ -3545,7 +3560,7 @@ Nopany Institute of Healthcare Studies,http://www.nihs.ac.in/
 Nordakademie, Staatlich anerkannte private Fachhochschule mit dualen Studiengängen,http://www.nordakademie.de/
 Nordic School of Public Health,http://www.nhv.se/
 North Bengal University,http://www.nbu.ac.in/
-North China Electric Power University,http://www.ncepubj.edu.cn/
+North China Electric Power University,http://www.ncepu.edu.cn/
 North China University of Technology,http://www.ncut.edu.cn/
 Northeast Agricultural University,http://www.neau.edu.cn/
 North Eastern Hill University,http://www.nehu.ac.in/
@@ -3571,10 +3586,11 @@ North Ossetian State University,http://www.nosu.ru/
 Northrise University,https://northrise.org/
 North South University,http://www.northsouth.edu/
 North University of Baia Mare,http://www.ubm.ro/
-Northwest A&F University,http://www.nwau.edu.cn/
+Northwest A&F University,http://www.nwsuaf.edu.cn/
 Northwestern University In Qatar,http://www.qatar.northwestern.edu/
 Northwestern University of the Philippines,http://www.nulaoag.com/
 North West Frontier Province Agricultural University,http://www.aup.edu.pk/
+Northwest Minzu University,http://www.xbmu.edu.cn/
 Northwest Normal University Lanzhou,http://www.nwnu.edu.cn/
 Northwest Polytechnical University Xi'an,http://www.nwpu.edu.cn/
 North-West State Technical University,http://www.nwpi.ru/
@@ -3609,6 +3625,7 @@ NTI University,https://www.nti.nl/
 Nuclear Institute for Agriculture and Biology (NIAB),http://www.niab.org.pk/
 Nugaal University,http://www.nugaaluniversity.com/
 Nukus State Teachers Training Institute,http://www.ndpi.uz/
+NYU Shanghai,https://shanghai.nyu.edu/
 Obafemi Awolowo University Ile-Ife,http://www.oauife.edu.ng/
 Obihiro University of Agriculture and Veterinary Medicine,http://www.obihiro.ac.jp/
 Obirin University,http://www.obirin.ac.jp/
@@ -3619,12 +3636,12 @@ Ocean University of China,http://www.ouc.edu.cn/
 Ochanomizu Women's University,http://www.ocha.ac.jp/
 October 6 university,http://www.o6u.edu.eg/
 Odense University,http://www.ou.dk/
-Odessa National Academy of Food Technologies,http://www.osaft.odessa.ua/
-Odessa National I.I. Mecnikov University,http://www.onu.edu.ua/
+Odessa National Academy of Food Technologies,https://www.onaft.edu.ua/
+Odessa National I.I. Mecnikov University,http://onu.edu.ua/
 Odessa National Marine University,http://www.osmu.odessa.ua/
 Odessa National Maritime Academy,http://www.ma.odessa.ua/
-Odessa National Polytechnic University,http://www.opu.odessa.ua/
-Odessa State Academy of Construction and Architecture,http://www.ogasa.odessa.ua/
+Odessa National Polytechnic University,http://opu.ua/
+Odessa State Academy of Construction and Architecture,http://www.ogasa.org.ua/
 Odessa State Medical University,http://www.arosmu.org/
 Odlar Yurdu University,http://www.oyu.edu.az/
 Oduduwa University,http://www.oduduwauniversity.edu.ng/
@@ -3673,7 +3690,8 @@ Oradea University,http://www.oradeauniversity.com
 Örebro University,http://www.oru.se/
 Orenburg State University,http://www.osu.ru/
 Oriental University,http://www.orun.ru/
-Orissa University of Agriculture and Technology,http://bhub.ori.nic.in/ouat/
+Oriental University Indore,https://oui.edu.in/
+Orissa University of Agriculture and Technology,http://www.ouat.nic.in/
 Orkhon University,http://www.orkhon.edu.mn/
 Osaka City University,http://www.osaka-cu.ac.jp/
 Osaka College of Music,http://www.daion.ac.jp/
@@ -3726,6 +3744,7 @@ Pädagogische Hochschule Weingarten,http://www.ph-weingarten.de/
 Pädagogische Hochschule Zürich (Zurich School of Education),https://phzh.ch/
 Paichai University,http://www.paichai.ac.kr/
 Pak-AIMS (Institute of Management Sciences),http://pakaims.edu.pk/
+Pakistan Institute of Development Economics,http://www.pide.org.pk/
 Pakistan Institute of Engineering and Applied Sciences (PIEAS),http://www.pieas.edu.pk/
 Pakistan Virtual University,http://www.vu.edu.pk/
 Paktia University,http://www.pu.edu.af/
@@ -3739,9 +3758,9 @@ Pamukkale University,http://www.pau.edu.tr/
 Pan Africa Christian University,http://www.pacuniversity.ac.ke/
 Pan African Christian University College,http://www.pacuc.edu.gh/
 Pan-African University,http://www.pau.edu.ng/
-Pandit Ravi Shankar Shukla University,http://www.rsuniversity.com/
+Pandit Ravi Shankar Shukla University,http://www.prsu.ac.in/
 Pangasinan State University,http://www.psu.edu.ph/
-Panjab University,http://www.puchd.ac.in/
+Panjab University,http://puchd.ac.in/
 Pannnasatra University of Cambodia,http://www.puc.edu.kh/
 Panteios University of Economics and Political Sciences Athens,http://www.panteion.gr/
 Panzhihua University,http://www.pzhu.edu.cn/
@@ -3760,7 +3779,7 @@ Payame Noor University,http://www.pnu.ac.ir/
 Payame Noor University, Tafresh,http://www.pnut.ac.ir/
 Payap University Chaiang Mai,http://www.payap.ac.th/
 Pázmány Péter Catholic University,http://www.ppke.hu/
-Pedagogical State University "Ion Creanga",http://upm.moldnet.md/
+Pedagogical State University "Ion Creanga",https://www.upsc.md/
 Pedagogical University of Bydgoszcz,http://www.wsp.bydgoszcz.pl/
 Pedagogical University of Czestochowa,http://www.wsp.czest.pl/
 Pedagogical University of Kielce,http://www.pu.kielce.pl/
@@ -3777,7 +3796,7 @@ People' s Friendship University of Russia,http://www.pfu.edu.ru/
 People's University of Bangladesh,http://www.pub.ac.bd/
 Perak Islamic College,http://www.kiperak.edu.my/
 Perdana University,http://www.perdanauniversity.edu.my/
-Periyar University,http://www.spuniv.org/
+Periyar University,http://www.periyaruniversity.ac.in/
 Perlis Islamic Higher Learning Institute,http://www.iptips.edu.my/
 Perm State Academy of Agriculture,http://www.pstu.ac.ru/
 Perm State Medical Academy,http://www.psma.ru/
@@ -3786,9 +3805,9 @@ Perm State Pharmaceutical Academy,http://www.psfa.ru/
 Perm State Technical University,http://www.pstu.ac.ru/
 Perm State University,http://www.psu.ru/
 Persian Gulf University,http://www.pgu.ac.ir/
-Pes University,http://www.pes.edu/
+Pes University,http://pes.edu/
 Petroleum University of Technology,http://www.put.ac.ir/
-Petro Mohyla Black Sea State University,http://www.kma.mk.ua/
+Petro Mohyla Black Sea State University,https://chmnu.edu.ua/
 Petronas Technology University,http://www.utp.edu.my/
 Petrozavodsk State University,http://www.karelia.ru/psu/
 Petru Maior University of Targu Mures,http://www.upm.ro/
@@ -3823,9 +3842,12 @@ Police Academy in Bratislava,http://www.akademiapz.sk/
 Police Academy of Latvia,http://www.polak.edu.lv/
 Polish-Japanese Institute of Information Technology in Warsaw,http://www.pjwstk.edu.pl/
 Polish Open University in Warsaw (WSZ/POU),http://www.wsz-pou.edu.pl/
-Politécnico Columbiano "Jaime Isaza Cadavid",http://www.politecjic.edu.co/
+Politécnico Columbiano Jaime Isaza Cadavid,http://www.politecnicojic.edu.co/
 Politécnico de Guanajuato,http://www.poligto.edu.mx/
-Politécnico Grancolombiano - Institución Universitaria,http://www.poligran.edu.co/
+Politecnico di Bari,http://www.poliba.it/
+Politecnico di Milano,http://www.polimi.it/
+Politecnico di Torino,http://www.polito.it/
+Politécnico Grancolombiano - Institución Universitaria,https://www.poli.edu.co/
 Politeknik Negeri Bandung,http://www.polban.ac.id/
 Politeknik Negeri Jakarta,http://www.pnj.ac.id/
 Politeknik Negeri Lhokseumawe,http://www.pnl.ac.id/
@@ -3841,9 +3863,6 @@ Poltava National Technical University,http://www.pntu.edu.ua/
 Poltava University of Consumer Cooperatives in Ukraine,http://www.puet.edu.ua/
 Polytechnical University of Kabul,http://www.polytechnic-kabul.org/
 Polytechnic Ibadan,http://www.polyibadan.edu.ng/
-Polytechnic Institute of Bari,http://www.poliba.it/
-Polytechnic Institute of Milan,http://www.polimi.it/
-Polytechnic Institute of Turin,http://www.polito.it/
 Polytechnic University,http://www.uitec.ac.jp/
 Polytechnic University of the Philippines,http://www.pup.edu.ph/
 Polytechnic University of Tirane,http://www.upt.al/
@@ -3851,11 +3870,9 @@ Pomeranian Academy of Medicine in Szczecin,http://www.pam.szczecin.pl/
 Pomorsk State University,http://www.pomorsu.ru/
 Pomor State University,http://www.pomorsu.ru/
 Pondicherry University,http://www.pondiuni.org/
-Pontifcia Università Gregoriana,http://www.unigre.urbe.it/
-Pontifcia Universitas a S.Thomas Aquinate in Urbe,http://www.pust.urbe.it/
+Pontifcia Università Gregoriana,https://www.unigre.it/
 Pontifcia Universitas Lateranensis,http://www.pul.it/
 Pontifcia Università Urbaniana,http://www.urbaniana.edu/
-Pontifica Università Gregoriana,http://www.unigre.it/
 Pontificia Universidad Catolica de Chile,http://www.puc.cl/
 Pontificia Universidad Católica del Ecuador,http://www.puce.edu.ec/
 Pontificia Universidad Católica del Perú,http://www.pucp.edu.pe/
@@ -3868,10 +3885,12 @@ Pontificia Universidade Católica do Paraná,http://www.pucpr.br/
 Pontifícia Universidade Católica do Rio de Janeiro,http://www.puc-rio.br/
 Pontifícia Universidade Católica do Rio Grande do Sul,http://www.pucrs.br/
 Pontificia Universidad Javeriana,http://www.javeriana.edu.co/
+Pontificia Università Antonianum,http://www.antonianum.eu/
 Pontificia Università della Santa Croce,http://www.pusc.it/
+Pontificia Università Gregoriana,http://www.unigre.it/
 Pontificia Università Lateranense,https://www.pul.it/
-Pontificia Università S. Tommaso,http://www.angelicum.org/
-Pontificio Ateneo Antonianum,http://www.antonianum.ofm.org/
+Pontificia Università "San Tommaso d'Aquino",http://www.pust.it/
+Pontificia Università San Tommaso d'Aquino,http://www.pust.it/
 Pontificio Istituto Orientale,http://www.pio.urbe.it/
 Poole Gakuin University,http://www.poole.ac.jp/
 Popakademie Baden-Württemberg,http://www.popakademie.de/
@@ -3882,7 +3901,7 @@ Postgraduate Institute of Agriculture (PGIA),http://www.pgia.ac.lk/
 Postgraduate Institute of Pali & Buddhist Studies (University of Kelaniya),http://www.kln.ac.lk/institutes/pgipbs/
 Postgraduate lnstitute of Medical Education and Research,http://www.pgimer.nic.in/
 Posts & Telecommunications Institute of Technology,http://www.ptit.edu.vn/
-Potti Sreeramulu Telugu University,http://www.teluguuniversity.ac.in/
+Potti Sreeramulu Telugu University,http://teluguuniversity.ac.in/
 Power and Water Institute of Technology,http://www.pwit.ac.ir/
 Poznan School of Banking,http://www.wsb.poznan.pl/
 Poznan University of Life Sciences,http://www.puls.edu.pl/
@@ -3902,11 +3921,11 @@ Preston University, Pakistan Campus,http://www.preston.edu.pk/
 Primier International University Perak,http://www.piup.edu.my/
 Prince Mohammad Bin Fahd University,http://www.pmu.edu.sa/
 Prince of Songkla University,http://www.psu.ac.th/
+Prince Sattam bin Abdulaziz University,https://psau.edu.sa/
 Princess Nora Bint Abdulrahman University,http://www.rug.edu.sa/
 Princess Sumaya University for Technology,http://www.psut.edu.jo/
-Prince Sultan College for Tourism and Hotel Scinces,http://www.pscabha.edu.sa/
+	Prince Sultan College of Business,http://www.pscj.edu.sa/
 Prince Sultan University,http://www.psu.edu.sa/
-Private College of Dentistry and Pharmacy,http://www.pcdp.edu.sa/
 Private Fachhochschule für Wirtschaft und Technik Vechta/Diepholz,http://www.fhwt.de/
 Private Fachhochschule Göttingen,http://www.pfh-goettingen.de/
 Private FernFachhochschule Darmstadt,http://www.privatfh-da.de/
@@ -3941,15 +3960,13 @@ Qazvin University of Medical Sciences,http://www.qums.ac.ir/
 Qingdao University,http://www.qdu.edu.cn/
 Qingdao University of Science and Technology,http://www.qust.edu.cn/
 Qinghai Normal University,http://www.qhnu.edu.cn/
-Qinghai Radio & Television University,http://www.qhrtvu.edu.cn/
 Qinghai University,http://www.qhu.edu.cn/
 Qiongzhou University,http://www.qzu.edu.cn/
 Qom University,http://www.qom.ac.ir/
 Qom University of Medical Sciences,http://www.muq.ac.ir/
 Qom University of Technology,http://www.qut.ac.ir/
 Quaid-i-Azam University,https://qau.edu.pk/
-Quba University,https://www.qubauniversity.com/
-Queen Arwa University,http://www.arwauniversity.org/
+Queen Arwa University,http://www.qau.ye/
 Queen Mary and Westfield College, University of London,http://www.qmw.ac.uk/
 Queensland University of Technology,http://www.qut.edu.au/
 Queen's University,http://www.queensu.ca/
@@ -3957,7 +3974,7 @@ Queens University,http://www.queensuniversity.edu.bd/
 Quest University,https://questu.ca/
 Qufu Normal University,http://www.qfnu.edu.cn/
 Qurtuba University of Science and Infromation Technology,http://www.qurtuba.edu.pk/
-Rabindra Bharati University,http://www.rabindrabharatiuniversity.net/
+Rabindra Bharati University,http://rbu.ac.in/
 Radboud University of Nijmegen,http://www.ru.nl/
 Raffles University,http://www.raffles-university.edu.my/
 Rafsanjan University of Medical Sciences,http://www.rums.ac.ir/
@@ -3967,12 +3984,12 @@ Rajamangala University of Technology, Lanna Nan,http://www.nan.rmutl.ac.th/
 Rajamangala University of Technology, Phra Nakhon,http://www.rmutp.ac.th/
 Rajamangala University of Technology, Thanyaburi,https://www.rmutt.ac.th/
 Rajarata University of Sri Lanka,http://www.rjt.ac.lk/
-Rajasthan Agricultural University, Bikaner,http://www.raubikaner.org/
+Rajasthan Agricultural University, Bikaner,http://raubikaner.org/
 Rajasthan Technical University,http://www.rtu.ac.in/
 Rajasthan Vidyapeeth University,http://www.jrnrvu.org/
 Rajendra Agricultural University,http://www.pusavarsity.org.in/
-Rajitlal Institute of Technology & Health Sciences (RITHS),http://www.riths.ac.in/
-Rajiv Gandhi Technical University (University of Technology of Madhya Pradesh),http://www.rgtu.net/
+Rajitlal Institute of Technology & Health Sciences (RITHS),http://www.riths.com/
+Rajiv Gandhi Technical University (University of Technology of Madhya Pradesh),https://www.rgpv.ac.in/
 Rajiv Gandhi University,http://www.rgu.ac.in/
 Rajshahi University of Engineering and Technology,http://www.ruet.ac.bd/
 Rak Medical & Health Sciences University,http://www.rakmhsu.com/
@@ -3993,7 +4010,7 @@ Reformed Theological Academy of Debrecen,http://www.drk.hu/
 Regent College,http://www.regent-college.edu/
 Regent University College of Science and Technology  ,http://regent.edu.gh/
 Reitaku University,http://www.reitaku-u.ac.jp/
-Renaissance Law College ,http://www.renaissancelawcollege.com/
+Renaissance Law College ,http://renaissancelawcollege.com/
 Renaissance University,http://www.rnu.edu.ng/
 Renmin University of China,http://www.ruc.edu.cn/
 REVA University,http://reva.edu.in/
@@ -4017,6 +4034,7 @@ Ritsumeikan University,http://www.ritsumei.ac.jp/
 Rivers State University of Science and Technology,http://www.ust.edu.ng/
 Riverton University,http://rivertonmw.com/
 Riyadh College of Dentistry and Pharmacy,http://www.riyadh.edu.sa/
+Riyadh Elm University,http://www.riyadh.edu.sa/
 Rizal Technological University,http://www.rtu.edu.ph/
 RKDF University,http://www.rkdf.ac.in/
 RMIT International University Vietnam,http://www.rmit.edu.vn/
@@ -4038,12 +4056,13 @@ Royal College of Art,http://www.rca.ac.uk/
 Royal College of Music, University of London,http://www.rcm.ac.uk/
 Royal College of Physicians of Ireland,http://www.rcpi.ie/
 Royal College of Surgeons,http://www.rcsi.ie/
+Royal Commission Yanbu Colleges & Institutes,http://www.rcyci.edu.sa/
 Royal Danish Academy of Fine Arts, School of Architecture,http://www.karch.dk/
 Royal Danish Academy of Fine Arts, School of Visual Art,http://www.kunstakademiet.dk/
 Royal Danish Academy of Music,http://www.dkdm.dk/
 Royal Danish School of Educational Sciences,http://www.dlh.dk/
 Royal Danish School of Pharmacy,http://www.dfh.dk/
-Royal Free Hospital School of Medicine, University of London,http://www.rfhsm.ac.uk/
+Royal Free London NHS,https://www.royalfree.nhs.uk/
 Royal Holloway and Bedford New College,http://www.rhbnc.ac.uk/
 Royal lnstitute of Technology,http://www.kth.se/
 Royal Melbourne Institute of Technology,http://www.rmit.edu.au/
@@ -4124,11 +4143,12 @@ Sambalpur University,http://www.sambalpuruniversitypgc.in/
 Samchok National University,http://www.samchok.ac.kr/
 Sami Shamoon College of Engineering,http://www.sce.ac.il/
 Sampoerna University,http://www.sampoernauniversity.ac.id/
-Sampurnanand Sanskrit University,http://ssvv.up.nic.in/
+Sampurnanand Sanskrit University,http://ssvvonline.in/
 Samuel Adegboyega University,http://www.sau.edu.ng/
 Sanaag University of Science and Technology,http://www.sanaaguniversity.com/
 Sana'a University,http://www.su.edu.ye/
 San Beda College,http://www.sanbeda.edu.ph/
+Sandip University,http://www.sandipuniversity.edu.in/
 Sang Ji University,http://www.sangji.ac.kr/
 Sang Myung University,http://www.sangmyung.ac.kr/
 Sanjay Gandhi Postgraduate lnstitute of Medical Sciences,http://www.sgpgi.ac.in/
@@ -4136,6 +4156,7 @@ San Juan Bautista School of Medicine,http://www.sanjuanbautista.edu/
 Sankei University,http://www.miyasankei-u.ac.jp/
 Sanno University,http://www.sanno.ac.jp/
 Sanyo Gakuen University,http://www.sguc.ac.jp/
+Sapienza Università di Roma,http://www.uniroma1.it/
 Sapporo Gakuin University,http://www.sgu.ac.jp/
 Sapporo International University,http://www.siu.ac.jp/
 Sapporo Medical University,http://www.sapmed.ac.jp/
@@ -4149,12 +4170,12 @@ Saratov State Technical University,http://www.sstu-edu.ru/
 Saratov State University,http://www.sgu.ru/
 Sardarkrushinagar Dantiwada Agricultural University,http://www.sdau.edu.in/
 Sardar Patel University,http://www.spuvvn.edu/
-Sardar Vallabhai Patel University of Agriculture Amd Technology,http://www.svbpuctm.org/
+Sardar Vallabhbhai Patel University of Agriculture,http://www.svbpmeerut.ac.in/
 Sarhad University of Science & Information Technology, Peshawar ,http://www.suit.edu.pk/
 Saskatchewan Indian Federated College,http://www.sicc.sk.ca/
 SASTRA Deemed University,http://www.sastra.edu/
 Satakunta University Of Applied Scinces,http://www.samk.fi/
-Sathyabama University,http://www.sathyabamauniv.ac.in/
+Sathyabama University,http://www.sathyabama.ac.in/
 Sauder School of Business,http://www.sauder.ubc.ca/
 Saudi Electronic University,http://www.seu.edu.sa/
 Saurashtra University,http://www.saurashtrauniversity.edu/
@@ -4163,7 +4184,6 @@ Saxion Universities ,https://www.saxion.edu/
 Scandinavian Art and Business Institute,http://www.sabi.eu.com/
 Schiller International University, American College of Switzerland,http://www.american-college.com/
 Schiller International University, Heidelberg,http://www.siu-heidelberg.de/
-Schiller International University, London,http://www.schillerlondon.ac.uk/
 Schiller International University, Madrid,http://www.schillermadrid.edu/
 Schiller International University, Paris,http://www.schillerparis.com/
 Schiller International University, Strasbourg,http://www.schillerstrasbourg.com/
@@ -4171,23 +4191,25 @@ School of Banking and Management in Cracow,http://www.wszib.krakow.pl/
 School of Business and Finance,http://www.ba.lv/
 School of Design and Crafts,http://www.hdk.gu.se/
 School of Economic Sciences,http://www.ses.ac.ir/
-School of Education Pisa,http://www.sns.it/
 School of Finance and Banking,http://www.sfb.ac.rw/
 School of Management,http://www.vsm.sk/
 School of Management Fribourg,http://www.heg-fr.ch/
 School of Oriental and African Studies, University of London,http://www.soas.ac.uk/
 School of Pharmacy, University of London,http://www.ucl.ac.uk/pharmacy
-School of Planning and Architecture,http://www.spa.ac.in/
+School of Planning and Architecture,http://spa.ac.in/
 School of Slavonic and East European Studies, University of London,http://www.ssees.ac.uk/
 Science University of Tokyo,http://www.sut.ac.jp/
 Science University of Tokyo in Yamaguchi,http://www.yama.sut.ac.jp/
 Scott Christian University,http://www.scott.ac.ke/
-Scuola Politecnica Di Design (SPD),http://www.scuoladesign.com/
+Scuola Internazionale Superiore di Studi Avanzati,http://www.sissa.it/
+Scuola Normale Superiore,http://www.sns.it/
+Scuola Politecnica di Design (SPD),http://www.scuoladesign.com/
+Scuola Superiore Sant'Anna,http://www.santannapisa.it/
+Scuola Universitaria Superiore IUSS,http://www.iusspavia.it/
 Sebatian Kolowa Memorial University,http://www.sekomu.ac.tz/
 Seberang Perai Polytechnic,http://www.psp.edu.my/
 Sebha University,http://www.sebhau.edu.ly/
 Séchenyi István University,http://www.sze.hu/
-Second University of Naples,http://www.unina2.it/
 Segi University College,http://www.segi.edu.my/
 Seian University of Art & Design,http://www.seian.ac.jp/
 Seigakuin University,http://www.seigakuin-univ.ac.jp/
@@ -4212,8 +4234,8 @@ Sendai University,http://www.sendaidaigaku.jp/
 Seneca College,http://www.senecacollege.ca/
 Senshu University,http://www.senshu-u.ac.jp/
 Senzoku Gakuen College,http://www.senzoku.ac.jp/
-Seokyeong University,https://www.skuniv.ac.kr/
 Seokyeong University,http://www.skuniv.ac.kr/
+Seokyeong University,https://www.skuniv.ac.kr/
 Seonam University,http://www.seonam.ac.kr/
 Seoul City University,http://www.uos.ac.kr/
 Seoul National University,http://www.snu.ac.kr/
@@ -4223,7 +4245,7 @@ Seoul Teological University,http://www.stu.ac.kr/
 Seoul Women's University,http://www.swu.ac.kr/
 Seowon University,http://www.seowon.ac.kr/
 Setsunan University,http://www.setsunan.ac.jp/
-Sevastopol National Technical University,http://sevntu.com.ua/
+Sevastopol National Technical University,http://sevsu.ru/
 Shaanxi Normal University,http://www.snnu.edu.cn/
 Shah Abdul Latif University Khairpur,http://www.salu.edu.pk/
 Shahed University,http://www.shahed.ac.ir/
@@ -4244,16 +4266,16 @@ Shahrood University of Technology,http://www.shahroodut.ac.ir/
 Shaikh Zayed University,http://www.szu.edu.af/
 Shamsipour Technical and Vocational College,http://shamsipour.tvu.ac.ir/
 Shandong Agricultural University,http://www.sdau.edu.cn/
-Shandong Economic University,http://www.sdie.edu.cn/
+Shandong Jianzhu University,http://www.sdjzu.edu.cn/
 Shandong Medical University,http://www.sdmu.edu.cn/
 Shandong Normal University,http://www.sdnu.edu.cn/
 Shandong University,http://www.sdu.edu.cn/
 Shandong University of Art and Design,http://www.sdada.edu.cn/
+Shandong University of Finance and Economics,http://www.sdufe.edu.cn/
 Shandong University of Science and Technology,http://www.sdust.edu.cn/
 Shandong University of Technology,http://www.sdut.edu.cn/
 Shandong University of Triaditional Chinese Medicine,http://www.sdutcm.edu.cn/
 Shanghai Business School,http://www.sbs.edu.cn/
-Shanghai City College,http://www.umcollege.com/
 Shanghai Customs College,http://shanghai_edu.customs.gov.cn/
 Shanghai Dian Ji University,http://www.sdju.edu.cn/
 Shanghai International Studies University,http://www.shisu.edu.cn/
@@ -4262,12 +4284,12 @@ Shanghai Lida Polytechnic Institute,http://www.lidapoly.com/
 Shanghai Lixin University of Commerce,http://www.lixin.edu.cn/
 Shanghai Maritime University,http://www.shmtu.edu.cn/
 Shanghai Medical University,http://www.shmu.edu.cn/
-Shanghai Normal University,http://www.shtu.edu.cn/
+Shanghai Normal University,http://www.shnu.edu.cn/
 Shanghai Ocean University,http://www.shou.edu.cn/
 Shanghai Ouhua Vocational Technical College,http://www.shouhua.net.cn/
+Shanghai Polytechnic University,http://www.sspu.edu.cn/
 Shanghai Sanda University,http://www.sandau.edu.cn/
 Shanghai Second Medical University,http://www.shsmu.edu.cn/
-Shanghai Second Polytechnic University,http://www.shspu.edu.cn/
 Shanghai Sipo Polytechnic,http://www.sh-sipopolytechnic.com/
 Shanghai Television University,http://www.shtvu.edu.cn/
 Shanghai TieDao University,http://www.shtdu.edu.cn/
@@ -4278,9 +4300,9 @@ Shanghai University of Finance and Economics,http://www.shufe.edu.cn/
 Shanghai University of International Business and Economics,http://www.suibe.edu.cn/
 Shanghai University of Science and Technology,http://www.usst.edu.cn/
 Shanghai University of Traditional Chinese Medicine and Pharmacology,http://www.shutcm.edu.cn/
-Shanmugha Arts Science Technology and Research Academy,http://www.sce.ac.in/
+Shanmugha Arts Science Technology and Research Academy,http://www.sastra.edu/
 Shannon College of Hotel Management,http://www.shannoncollege.com/
-Shantou University,http://www.stu.edu.cn/
+Shantou University,https://www.stu.edu.cn/
 Shanxi Agricultural University,http://www.sxau.edu.cn/
 Shanxi Normal University,http://www.snnu.edu.cn/
 Shanxi University,http://www.sxu.edu.cn/
@@ -4289,15 +4311,16 @@ Shaqra University,http://www.su.edu.sa/
 ShareWORLD Open University,http://shareworld.edu.mw/
 Sharif University of Technology,http://www.sharif.ac.ir/
 Sharif University of Technology, Kish Campus,http://www.kish.ac.ir/
+Shat Al Arab University College,http://www.sa-uc.edu.iq/
 Sheffield Hallam University,http://www.shu.ac.uk/
 Sheikhbahaee University,http://www.shbu.ac.ir/
 Shendi University,http://www.ush.sd/
 Shenkar School of Engineering & Design,http://www.shenkar.ac.il/
-Shenyang Institute of Chemical Technology,http://www.syict.edu.cn/
 Shenyang Jianzhu University,http://www.sjzu.edu.cn/
 Shenyang Pharmaceutical University,http://www.syphu.edu.cn/
-Shenyang Polytechnic University,http://www.sypu.edu.cn/
 Shenyang University,http://www.syu.edu.cn/
+Shenyang University of Chemical Technology,http://www.syuct.edu.cn/
+Shenyang University of Technology,http://english.sut.edu.cn/
 Shenzhen University,http://www.szu.edu.cn/
 Sher-E-Kashmir University of Agricultural Sciences and Technology,http://www.skuastkashmir.ac.in/
 Sheridan College,https://www.sheridancollege.ca/
@@ -4320,6 +4343,7 @@ Shiraz University,http://www.shirazu.ac.ir/
 Shiraz University of Medical Sciences,http://www.sums.ac.ir/
 Shiraz University of Technology,http://www.sutech.ac.ir/
 Shivaji University,http://www.unishivaji.ac.in/
+Shiv Nadar University,https://www.snu.edu.in/
 Shizuoka Prefectural University,http://www.u-shizuoka-ken.ac.jp/
 Shizuoka Sangyo University,http://www.ssu.ac.jp/
 Shizuoka University,http://www.shizuoka.ac.jp/
@@ -4331,11 +4355,11 @@ Shoumen University "Konstantin Preslavski",http://www.shu-bg.net/
 Showa College of Pharmaceutical Sciences,http://www.shoyaku.ac.jp/
 Showa University,http://www.showa-u.ac.jp/
 Showa Women's University,http://www.swu.ac.jp/
-Shreemati Nathibai Damodar Thackersey Women's University,http://www.sndt.edu/
+Shreemati Nathibai Damodar Thackersey Women's University,https://sndt.ac.in/
 Shridhar University,http://shridharuniversity.ac.in/
 Shri Jagannath Sanskrit University,http://www.sjsv.nic.in/
 Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha,http://www.slbsrsv.ac.in/
-Shri Mata Vaishno Devi University,http://www.smvdu.net.in/
+Shri Mata Vaishno Devi University,http://www.smvdu.ac.in/
 Shuchiin College,http://www.shuchiin.ac.jp/
 Shujitsu Women's University,http://www.shujitsu.ac.jp/
 Shukutoku University,http://www.shukutoku.ac.jp/
@@ -4345,20 +4369,21 @@ Siam University,http://www.siam.edu/
 Siauliai University,http://www.su.lt/
 Sibelius Academy,http://www.siba.fi/
 Siberian Academy of Public Services,http://www.sapanet.ru/
+Siberian Federal University,http://www.sfu-kras.ru/
 Siberian State Industrial University,http://sibsiu.kemerovo.su/
 Siberian State Medical University,http://www.ssmu.ru/
 Siberian State Transport University,http://www.stu.ru/
 Siberian State University of Telecommunications and Informatics,http://www.neic.nsk.su/
 Sichuan Agricultural University,http://www.sicau.edu.cn/
-Sichuan Fine Art Institute,http://zsb.scfai.edu.cn/
+Sichuan Fine Art Institute,http://www.scfai.edu.cn/
 Sichuan International Studies University,http://www.sisu.edu.cn/
 Sichuan Normal University,http://www.sicnu.edu.cn/
 Sichuan University,http://www.scu.edu.cn/
 Siddhartha University,http://siddharthauniversity.org.np/
-Sido Kanhu Murmu University,http://www.skmu.edu.in/
+Sido Kanhu Murmu University,http://skmu.org.in/
 Siebold University of Nagasaki,http://www.sun.ac.jp/
 Sikha 'O' Anushandhan University,http://www.soauniversity.ac.in/
-Sikkim Manipal University of Health, Medical and Technological Sciences,http://www.smu.edu.in/
+Sikkim Manipal University of Health, Medical and Technological Sciences,https://smu.edu.in/
 Silesian Academy of Medicine in Katowice,http://www.slam.katowice.pl/
 Silesian School of Economics and Languages,http://www.gallus.pl/
 Silesian Technical University of Gliwice,http://www.polsl.gliwice.pl/
@@ -4371,8 +4396,8 @@ Sinai University,http://www.su.edu.eg/
 Sindh Agricultural University,http://www.sau.edu.pk/
 Sindh Madressatul Islam University,http://www.smiu.edu.pk/
 Singapore Institute of Management (SIM),http://www.sim.edu.sg/
-Singapore Management University,http://www.smu.edu.sg/
-Singhania University Rajasthan,http://www.singhaniauniversity.co.in/
+Singapore Management University,https://www.smu.edu.sg/
+Singhania University Rajasthan,http://singhaniauniversity.co.in/
 Singidunum University,http://www.singidunum.edu.rs/
 Sinnar University,http://www.sinnaruniv.edu.sd/
 Sir Syed Institute of Technology Islamabad,http://ssuet.edu.pk/
@@ -4401,6 +4426,7 @@ Soka University,http://www.soka.ac.jp/
 Sokoine University of Agriculture,http://www.suanet.ac.tz/
 Sokoto State University ,http://www.ssu.edu.ng/
 Solapur University,http://su.digitaluniversity.ac/
+Sol Plaatje University,https://www.spu.ac.za/
 Solusi University,http://solusi.ac.zw/
 Somaliland University of Technology,http://www.somalilanduniversity.org/
 Sonoda Women's University,http://www.sonoda-u.ac.jp/
@@ -4414,11 +4440,11 @@ Sotheby´s Institute of Art - London,http://www.sothebysinstitutelondon.com/
 Souphanouvong University,http://www.su.edu.la/
 Southampton Solent University,http://www.solent.ac.uk/
 South Asian Institute of Technology And Medicine (SAITM) ,http://www.saitm.edu.lk/
-South Asian University,http://www.southasianuniversity.org/
-South Bank University,http://www.sbu.ac.uk/
+South Asian University,http://www.sau.int/
 South Carelian Polytechnic,http://www.scp.fi/
 South China Agricultural University,http://www.scau.edu.cn/
 South China Construction University,http://www.sccu.edu.cn/
+South China Normal University,http://www.scnu.edu.cn/
 South China Normal University,http://www.scnu.edu.cn/
 South China University,http://www.usc.edu.cn/
 South China University of Technology,http://www.scut.edu.cn/
@@ -4431,13 +4457,12 @@ Southeast University,http://www.seu.ac.bd/
 Southern Alberta Institute of Technology,http://www.sait.ca/
 Southern Cross University,http://www.scu.edu.au/
 Southern Denmark Business School,http://www.hhs.dk/
-Southern Medial University,http://www.fimmu.edu.cn/
+Southern Medial University,http://www.smu.edu.cn/
 Southern Taiwan University of Technology,http://www.stut.edu.tw/
 Southern University Bangladesh,http://www.southern.edu.bd/
 Southern University College,http://www.southern.edu.my/
 Southern Ural State University,http://www.tu-chel.ac.ru/
-Southern Yangtze University,http://www.sytu.edu.cn/
-South Gujarat University,http://www.sgu.ernet.in/
+South Gujarat University,https://www.vnsgu.ac.in/
 South University of Science and Technology of China ,http://www.sustc.edu.cn/
 South Valley University,http://www.svu.edu.eg/
 Southwest Agricultural University,http://www.swau.edu.cn/
@@ -4445,7 +4470,7 @@ Southwestern University,http://www.swu.edu.ph/
 Southwest Forestry University,http://www.swfc.edu.cn/
 Southwest Jiaotong University,http://www.swjtu.edu.cn/
 Southwest Petroleum University,http://www.swpu.edu.cn/
-Southwest University,http://www.swnu.edu.cn/
+Southwest University,http://www.swu.edu.cn/
 South-West University "Neofit Rilski",http://www.swu.bg/
 Southwest University of Finance and Economics,http://www.swufe.edu.cn/
 Southwest University of Nationalities,http://www.swun.edu.cn/
@@ -4461,7 +4486,7 @@ Sree Rama Krishna Degree College,http://www.srkdc.org/
 Sree Sankaracharya University of Sanskrit,http://www.ssus.ac.in/
 SRH University of Applied Sciences,http://www.srh-berlin.de/
 Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya,http://www.kanchiuniv.ac.in/
-Sri Krishnadevaraya University,http://skuniv.ap.nic.in/
+Sri Krishnadevaraya University,http://skuniversity.ac.in/
 Sri Lanka Institute of Advanced Technical Education,http://www.sliate.net/
 Sri Lanka Institute of Information Technology (SLIT),http://www.sliit.lk/
 Srinakharinwirot University,http://www.swu.ac.th/
@@ -4471,7 +4496,7 @@ Sri Ramachandra Medical College and Research Institute,http://www.sriramachandra
 Sri Sant Gajanan Maharaj College of Engineering,http://www.ssgmce.org/
 Sri Sathya Sai Institute of Higher Learning,http://www.sssihl.edu.in/
 Sri Venkateswara Institute of Medical Sciences,http://svimstpt.ap.nic.in/
-Sri Venkateswara University,http://svuni.ap.nic.in/
+Sri Venkateswara University,https://www.svuniversity.edu.in/
 Sri Venkateswara Veterinary University,http://www.svvu.edu.in/
 SRM Institute Of Science & Technology ( Deemed University),http://www.srmuniv.ac.in/
 Staatlich anerkannte Fachhochschule für Kunsttherapie,http://www.fhkt.de/
@@ -4484,16 +4509,17 @@ St. Anne University,https://www.usainteanne.ca/
 Staszic Pila College,http://www.pwsz.pila.pl/
 State Engineering University of Armenia,http://www.seua.am/
 State Maritine Academy,http://www.gma.ru/
-State Pedagogical University in Kryvyi Rih,http://www.kdpu.edu.ua/
+State Pedagogical University in Kryvyi Rih,https://kdpu.edu.ua/
 State University of Aerospace Technologies,http://www.intstudy.mai.ru/
 State University of Management,http://www.guu.ru/
 State University of Tetova,http://www.unite.edu.mk/
+St Augustine College of South Africa,http://www.staugustine.ac.za/
 St. Augustine International University,http://www.saiu.ac.ug/
 St. Augustine University of Tanzania,https://saut.ac.tz/
 Stavropol State Technical University,http://www.ncstu.ru/
 Stavropol State University,http://www.stavsu.ru/
 St. Clair College,http://www.stclaircollege.ca/
-St. Claret College,http://www.claretcollege.edu.in/
+St. Claret College,https://www.claretcollege.edu.in/
 St Clements University - Higher Education School,http://www.stclements.edu.nu/
 St.Cyril and Methodius University,http://www.ukim.edu.mk/
 Steinbeis-Hochschule-Berlin,http://www.stw.de/shb/
@@ -4557,7 +4583,7 @@ St. Petersburg State University of Information Technologies, Mechanics and Optic
 St. Petersburg State University of Technology and Design,http://www.sutd.ru/
 St. Petersburg State University of Telecommunication,http://www.sut.ru/
 St. Petersburg State University of Waterway Communications,http://www.spbuwc.ru/
-Stratford College London,http://www.sclondon.ac/
+Stratford College London,https://sclondon.ac.uk/
 Strathmore University,http://www.strathmore.edu/
 St Theresa's Medical University,http://www.stmu.org/
 St. Thomas University,http://www.stthomasu.ca/
@@ -4570,8 +4596,8 @@ Sugino Fashion College,http://www.sugino-fc.ac.jp/
 Sugiyama Jogakuen University,http://www.sugiyama-u.ac.jp/
 Sukhothai Thammathirat Open University,http://www.payap.ac.th/
 Sulaimani Polytechnic University,http://www.spu.edu.iq/
-Suleyman Demirel University,sdu.edu.tr/
 Suleyman Demirel University,http://www.sdu.edu.kz/
+Suleyman Demirel University,sdu.edu.tr/
 Sultan Abdul Halim Muadzam Shah Polytechnic,http://www.polimas.edu.my/
 Sultanah Bahiyah Polytechnic,http://www.ptsb.edu.my/
 Sultan Ahmad Shah Islamic College,http://www.kipsas.edu.my/
@@ -4593,7 +4619,7 @@ Sunmoon University,http://www.sunmoon.ac.kr/
 Sunrise University Alwar,http://www.sunriseuniversity.in/
 Sunway University,http://www.sunway.edu.my/
 Sunway University College,http://www.sunway.edu.my/
-Sun Yat-Sen University of Medical Sciences,http://www.gzsums.edu.cn/
+Sun-Yat-sen University,http://www.sysu.edu.cn/
 Suranaree University of Technology,http://www.sut.ac.th/
 Surgut State University,http://www.surgu.wsnet.ru/
 Surugadai University,http://www.surugadai.ac.jp/
@@ -4605,7 +4631,7 @@ Suzhou University,http://www.suda.edu.cn/
 Suzuka International University,http://www.suzuka-iu.ac.jp/
 Suzuka University of Medical Science,http://www.suzuka-u.ac.jp/
 Svey Reong University,http://www.sru.edu.kh/
-Swami Ramanand Teerth Marathwada University,http://www.srtmun.org/
+Swami Ramanand Teerth Marathwada University,http://www.srtmun.ac.in/
 Swansea Metropolitan University,http://www.smu.ac.uk/
 Swedish School of Economics and Business Administration, Finland,http://www.shh.fi/
 Swedish University of Agricultural Sciences,http://www.slu.se/
@@ -4622,8 +4648,7 @@ Sylhet Engineering College,http://www.sec.ac.bd/
 Sylhet International University,http://www.siu.edu.bd/
 Symbiosis International University,http://www.siu.edu.in/
 Synergy University, Dubai Campus,http://www.synergydubai.ae/
-Syrian International Private University for Science & Technology,http://www.siust.edu.sy/
-Syrian Virtual University,http://www.svuonline.org/
+Syrian Virtual University,https://www.svuonline.org/
 Szent István University,http://www.szie.hu/
 Tabari University of Babol,http://www.tabari.ac.ir/
 Tabriz College of Technology,http://www.tct.ac.ir/
@@ -4639,7 +4664,7 @@ Taganrog State Pedagogical Institute,http://www.tgpi.ttn.ru/
 Taganrog State University of Radioengineering,http://www.tsure.ru/
 Taibah University,http://www.taibahu.edu.sa/
 TaiChung Healthcare and Management University,http://www.thmu.edu.tw/
-Taif University,http://www.tu.edu.sa/
+Taif University,https://www.tu.edu.sa/
 Tainan National College of the Arts,http://www.tnca.edu.tw/
 Taipei Medical College,http://www.tmc.edu.tw/
 Taipei Municipal Teachers College,http://www.tmtc.edu.tw/
@@ -4671,7 +4696,7 @@ Tama Institute of Management and Information Sciences,http://www.timis.ac.jp/
 Tambov State Technical University,http://www.tstu.ru/
 Tamil Nadu Agricultural University,http://www.tnau.ac.in/
 Tamil Nadu Dr. Ambedkar Law University,http://www.tndalu.org/
-Tamil Nadu Dr. M.G.R. Medical University,http://www.tnmmu.ac.in/
+Tamil Nadu Dr. M.G.R. Medical University,https://www.tnmgrmu.ac.in/
 Tamil Nadu Veterinary and Animal Sciences University,http://www.tanuvas.com/
 Tamil University,http://www.tamiluniversity.ac.in/
 Tamkang University,http://www.tku.edu.tw/
@@ -4687,23 +4712,23 @@ Targu-Mures University of Theatre,http://www.uat.ro/
 Tarim University,http://www.taru.edu.cn/
 Tarlac State University,http://www2.mozcom.com/~tsu-ics/
 Tartu Health Care College,http://www.nooruse.ee/
-Tashkent Architectural Building Institute,http://www.taqi.uz/
+Tashkent Architectural Building Institute,http://taqi.uz/
 Tashkent Automobile and Roads Institute,http://www.tayi.uz/
 Tashkent Chemical Technological Institute,http://tkti.uz/
+Tashkent Financial Institute,http://www.tfi.uz/
 Tashkent Institute of Irrigation and Melioration,http://www.tiim.uz/
 Tashkent Islam University,http://www.tiu.uz/
 Tashkent Medical Academy,http://www.tma.uz/
 Tashkent Pharmaceutical Institute,http://www.pharmi.uz/
-Tashkent School of Finance,http://www.tfi.uz/
 Tashkent State Agrarian University,http://www.agrar.uz/
 Tashkent State Technical University,http://www.tdtu.uz/
 Tashkent State University of Economics,http://www.tdiu.uz/
-Tashkent State University of Oriental Studies ,http://www.tashgiv.uz/
+Tashkent State University of Oriental Studies ,http://tashgiv.uz/
 Tashkent University of Information Technologies,http://www.tuit.uz/
 Tata Institute of Social Sciences,http://www.tiss.edu/
 Tatung Institute of Technology,http://www.ttit.edu.tw/
 TaTung University ,http://www.ttu.edu.tw/
-Taurida National V.I.Vernadsky University,http://www.tnu.crimea.ua/
+Taurida National V.I.Vernadsky University,http://www.tnu.edu.ua/
 Taylor's University College,http://www.taylors.edu.my/
 Tay Nguyen University,http://taynguyenuni.edu.vn/
 Tbilisi State Medical University,http://www.tsmu.edu/
@@ -4786,8 +4811,8 @@ Technological University (Kyaukse),http://tukse.moe-st.gov.mm/
 Technological University (Lashio),http://tulso.moe-st.gov.mm/
 Technological University (Loikaw),http://tuloikaw.moe-st.gov.mm/
 Technological University (Magway),http://tumgy.moe-st.gov.mm/
-Technological University (Mandalay),http://tumdy.most.gov.mm/
 Technological University (Mandalay),http://mtu.moe-st.gov.mm/
+Technological University (Mandalay),http://tumdy.most.gov.mm/
 Technological University (Maubin),http://tumaubin.moe-st.gov.mm/
 Technological University (Mawlamyaing),http://tumlm.moe-st.gov.mm/
 Technological University (Meikhtila),http://tumtla.moe-st.gov.mm/
@@ -4795,7 +4820,6 @@ Technological University (Monywa),http://tumonywa.moe-st.gov.mm/
 Technological University (Myeik),http://tumyeik.moe-st.gov.mm/
 Technological University (Myitkyina) ,http://tumka.moe-st.gov.mm/
 Technological University of Iceland,http://www.iti.is/
-Technological University of Podillya,http://www.tup.km.ua/
 Technological University of the Philippines,http://www.tup.edu.ph/
 Technological University (Pakokku),http://tupku.moe-st.gov.mm/
 Technological University (Pathein),http://tupathein.moe-st.gov.mm/
@@ -4813,11 +4837,10 @@ Tehran University of Teacher Training,http://www.tmu.ac.ir/
 Teikyo Heisei University,http://www.teikyo-u.ac.jp/
 Teikyo University of Science and Technology,http://www.ntu.ac.jp/
 Tel Aviv University,http://www.tau.ac.il/
-Telugu University,http://teluguuniversity.ac.in/
 Temple University Japan,http://www.tuj.ac.jp/
 Tenri University,http://www.tenri-u.ac.jp/
-Ternopil Academy of National Economy,http://www.tane.edu.ua/
-Ternopil State Ivan Pul'uj Technical University,http://www.tu.edu.te.ua/
+Ternopil National Economic University,http://www.tneu.edu.ua/
+Ternopil State Ivan Pul'uj Technical University,http://tntu.edu.ua/
 Texila American University,http://www.tauedu.org/
 Textile Institute of Pakistan,http://tip.edu.pk/
 Tezpur University,http://www.tezu.ernet.in/
@@ -4828,11 +4851,12 @@ Thaksin University,http://www.tsu.ac.th/
 Thamar University,http://www.thuniv.net/
 Thames Valley University,http://www.tvu.ac.uk/
 Thammasat University,http://www.tu.ac.th/
-Thapar Institute of Engineering and Technology,http://www.tiet.ac.in/
+Thapar Institute of Engineering and Technology,http://www.thapar.edu/
 The Achievers University,http://www.achievers.edu.ng/
 The American University in London,http://www.aul.edu/
 Theatre Academy Finland,http://www.teak.fi/
 The Bahá'í Institute For Higher Education (BIHE),http://www.bihe.org/
+Thebes Academy,http://www.thebesacademy.org/
 The College of The Bahamas,http://www.cob.edu.bs/
 The CTL Eurocollege,http://www.ctleuro.ac.cy/
 The Department of European Studies Jean Monnet,http://jeanmonnet.ch/
@@ -4844,7 +4868,7 @@ The Government Sadiq College Women University Bahawalpur,http://www.gscwu.edu.pk
 The Interdisciplinary Center Herzliya,http://www.idc.ac.il/
 The Kingdom University,http://www.ku.edu.bh/
 The Manchester Metropolitan University,http://www.mmu.ac.uk/
-The New College,http://www.thenewcollege.org/
+The New College,http://www.thenewcollege.in/
 Theologische Fakultät Paderborn,http://www.paderborn.de/theofak/
 Theologische Fakultät Trier,https://www.uni-trier.de/index.php?id=41977
 Theologische Hochschule Friedensau,http://www.thh-friedensau.de/
@@ -4852,12 +4876,11 @@ The Petroleum Institute,http://www.pi.ac.ae/
 The Queen's University Belfast,http://www.qub.ac.uk/
 The Robert Gordon University,http://www.rgu.ac.uk/
 The Superior College ,http://superior.edu.pk/
-The University of Nottingham Ningbo China,http://www.nottingham.edu.cn/
+The University of Nottingham Ningbo China,https://www.nottingham.edu.cn/
 The World Islamic Sciences & Education University,http://www.wise.edu.jo/
 Thiagarajar College of Engineering,http://www.tce.edu/
 Thierry Graduate School of Leadership,http://www.thierryschool.org/
 Thi Qar University,http://www.thiqaruni.org/
-Third University of Rome,http://www.uniroma3.it/
 Thiruvalluvar University,http://www.tvuni.in/
 Thompson Rivers University,https://www.tru.ca/
 Thuongmai University,https://tmu.edu.vn/
@@ -4880,7 +4903,7 @@ Tiffin University Prague,http://www.tiffinprague.cz/
 Tikrit University,http://www.tu.edu.iq/
 Tilak Maharashtra Vidyapeeth,http://www.tmv.edu.in/
 Tilburg University,https://www.tilburguniversity.edu/
-Tilka Manjhi Bhagalpur University,http://www.tmbu.org/
+Tilka Manjhi Bhagalpur University,http://tmbuniv.ac.in/
 Timirjazev Moscow Academy of Agricultutre,http://www.timacad.ru/
 Tiraspol State University,http://www.ust.md/
 Tishreen University,http://www.tishreen.edu.sy/
@@ -4962,10 +4985,10 @@ TPM College,http://www.tpmcollege.edu.my/
 Trakia University Stara Zagora,http://www.uni-sz.bg/
 Trakya University,http://www.trakya.edu.tr/
 Transport and Telecommunication Institute,http://www.tsi.lv/
+Tra Vinh University,https://www.tvu.edu.vn/
 Trent University,https://www.trentu.ca/
 Tribhuvan University Kathmandu,http://tribhuvan-university.edu.np/
-Trinity College Carmarthen,http://www.trinity-cm.ac.uk/
-Trinity College of Music,http://www.tcm.ac.uk/
+Trinity Laban Conservatoire of Music and Dance,https://www.trinitylaban.ac.uk/
 Trinity Theological Seminary,trinity.edu.gh
 Trinity University School of Medicine,http://www.tusom.org/
 Trinity Western University,http://www.twu.ca/
@@ -5011,9 +5034,8 @@ Uganda Management Institute,http://www.umi.ac.ug/
 Uganda Martyr's University,http://www.umu.ac.ug/
 Uinversity of Babylon,http://www.uobabylon.edu.iq/
 Ukhta State Technical University,http://uii.sever.ru/
-Ukrainian Academy of Banking,http://www.uabs.edu.ua/
-Ukrainian Academy of Pharmacy,http://www.ukrfa.kharkov.ua/
-Ukrainian Medical Stomatological Academy,http://www.uamsa.net/
+Ukrainian Academy of Banking,http://uabs.edu.ua/
+Ukrainian Medical Stomatological Academy,http://unmsa.com/
 Ukrainian National Forestry University,http://www.forest.lviv.ua/
 Ulaanbaatar University,http://www.ulaanbaatar.edu.mn/
 Ulsan University,http://www.ulsan.ac.kr/
@@ -5060,8 +5082,8 @@ Universidad Albert Einstein,http://www.uae.edu.sv/
 Universidad Alberto Hurtado,http://www.uahurtado.cl/
 Universidad Alfonso X El Sabio,http://www.uax.es/
 Universidad Amazonica de Pando,http://www.uapnet.edu.bo/
-Universidad Americana,http://www.uam.edu.ni/
 Universidad Americana,http://www.uamericana.edu.py/
+Universidad Americana,http://www.uam.edu.ni/
 Universidad Anáhuac,http://www.anahuac.mx/
 Universidad Anáhuac del Sur,http://www.anahuac.mx/
 Universidad Anáhuac Mayab,http://anahuacmayab.mx/
@@ -5070,7 +5092,7 @@ Universidad Andina Nestor Caceares Velasquez,http://www.uancv.edu.pe/
 Universidad Andina Simón Bolivar,http://www.uasb.edu.bo/
 Universidad Andina Simón Bolívar,http://www.uasb.edu.ec/
 Universidad Antonio de Nebrija,http://www.unnet.es/
-Universidad Antonio Nariño,http://www.uanarino.edu.co/
+Universidad Antonio Nariño,http://www.uan.edu.co/
 Universidad APEC,http://www.unapec.edu.do/
 Universidad Arcis,http://www.universidadarcis.cl/
 Universidad Argentina de la Empresa,http://www.uade.edu.ar/
@@ -5104,7 +5126,7 @@ Universidad Autónoma de la Ciudad de México,http://www.uacm.edu.mx/
 Universidad Autónoma de la Laguna,http://www.ual.mx/
 Universidad Autónoma de Las Américas,http://www.uam.edu.co/
 Universidad Autónoma del Beni "José Ballivián",http://www.uabjb.edu.bo/
-Universidad Autónoma del Caribe,http://www.uac.edu.co/
+Universidad Autónoma del Caribe,https://www.uac.edu.co/
 Universidad Autónoma del Carmen,http://www.unacar.mx/
 Universidad Autónoma del Estado de Hidalgo,https://www.uaeh.edu.mx/
 Universidad Autónoma del Estado de México,http://www.uaemex.mx/
@@ -5116,7 +5138,7 @@ Universidad Autónoma de Madrid,http://www.uam.es/
 Universidad Autónoma de Manizales,http://www.autonoma.edu.co/
 Universidad Autónoma de Nayarit,http://www.uan.edu.mx/
 Universidad Autónoma de Nuevo León,http://www.uanl.mx/
-Universidad Autónoma de Occidente,http://www.cuao.edu.co/
+Universidad Autónoma de Occidente de Cali,http://www.uao.edu.co/
 Universidad Autónoma de Querétaro,http://www.uaq.mx/
 Universidad Autónoma de San Luis Potosí,http://www.uaslp.mx/
 Universidad Autónoma de Santa Ana,http://www.unasa.edu.sv/
@@ -5173,8 +5195,9 @@ Universidad Católica del Norte,http://www.ucn.edu.co/
 Universidad Católica del Oriente,http://www.uco.edu.co/
 Universidad Católica del Táchira,http://www.ucat.edu.ve/
 Universidad Católica del Uruguay,http://www.ucu.edu.uy/
-Universidad Católica de Manizales,http://www.ucatolicamz.edu.co/
+Universidad Católica de Manizales,http://www.ucm.edu.co/
 Universidad Católica de Occidente,http://www.catolica.edu.sv/
+Universidad Católica de Pereira,http://www.ucp.edu.co/
 Universidad Católica de Salta,http://www.ucasal.edu.ar/
 Universidad Católica de Santa Fé,http://www.ucsf.edu.ar/
 Universidad Católica de Santa María,http://www.ucsm.edu.pe/
@@ -5187,15 +5210,14 @@ Universidad Catolica de Valparaiso,http://www.ucv.cl/
 Universidad Católica Madre y Maestra,http://www.pucmm.edu.do/
 Universidad Católica Nordestana,http://www.ucne.edu.do/
 Universidad Católica Nuestra Senora de la Asunción,http://www.uc.edu.py/
-Universidad Católica Popular del Risaralda,http://www.ucpr.edu.co/
 Universidad Catolica "Redemptoris Mater",http://www.unica.edu.ni/
 Universidad Católica San Antonio,http://www.ucam.edu/
 Universidad Católica Santa María La Antigua,http://www.usma.ac.pa/
 Universidad Católica Santo Toribio de Mogrovejo,http://www.usat.edu.pe/
 Universidad Católica Tecnológica del Cibao,http://www.ucateci.edu.do/
 Universidad Central,http://www.universidadcentral.com/
-Universidad Central,http://www.ucentral.edu.co/
 Universidad Central,http://www.unicen.edu.bo/
+Universidad Central,http://www.ucentral.edu.co/
 Universidad Central,http://www.ucentral.cl/
 Universidad Central de Bayamón,http://www.ucb.edu.pr/
 Universidad Central de Las Villas,http://www.uclv.edu.cu/
@@ -5233,7 +5255,6 @@ Universidad de Alcalá de Henares,http://www.uah.es/
 Universidad de Alicante,http://www.ua.es/
 Universidad de Almería,http://www.ualm.es/
 Universidad de América Bogotá,http://www.uamerica.edu.co/
-Universidad de Antioquia,http://www.udea.edu.co/
 Universidad de Antioquía,http://www.udea.edu.co/
 Universidad de Antofagasta,http://www.uantof.cl/
 Universidad de Aquino Bolivia,http://www.udabol.edu.bo/
@@ -5290,6 +5311,7 @@ Universidad de Hermosillo,http://www.udeh.edu.mx/
 Universidad de Holguín,http://www.uho.edu.cu/
 Universidad de Huánuco,http://www.udh.edu.pe/
 Universidad de Huelva,http://www.uhu.es/
+Universidad de Ibagué,https://www.unibague.edu.co/
 Universidad de Iberoamérica,http://www.unibe.ac.cr/
 Universidad de Ixtlahuaca,http://uicui.edu.mx/
 Universidad de Jaén,http://www.ujaen.es/
@@ -5297,7 +5319,7 @@ Universidad de La Amazonia,http://www.uniamazonia.edu.co/
 Universidad del Aconcagua,http://www.uda.edu.ar/
 Universidad de La Coruña,http://www.udc.es/
 Universidad de la Cuenca del Plata,http://www.ucp.edu.ar/
-Universidad de la Empresa (UDE),http://www.ude.edu.uy/
+Universidad de la Empresa (UDE),https://ude.edu.uy/
 Universidad de la Fraternidad de Agrupaciones Santo Tomas de Aquino (FASTA),http://www.ufasta.edu.ar/
 Universidad de La Frontera,http://www.ufro.cl/
 Universidad de La Guajira,http://www.uniguajira.edu.co/
@@ -5321,12 +5343,12 @@ Universidad de la Sierra A.C.,http://www.usac.edu.mx/
 Universidad de Las Palmas de Gran Canaria,http://www.ulpgc.es/
 Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense,http://www.uraccan.edu.ni/
 Universidad de la Tercera Edad,http://www.ute.edu.do/
-Universidad del Atlántico,http://www.uniatlantico.edu.co/
+Universidad del Atlántico,https://www.uniatlantico.edu.co/
 Universidad del Azuay,http://www.uazuay.edu.ec/
 Universidad del Bajío,http://bajio.delasalle.edu.mx/
 Universidad del Bío-Bío,http://www.ubiobio.cl/
 Universidad del Caribe,http://www.unicaribe.edu.do/
-Universidad del Cauca,http://www.ucauca.edu.co/
+Universidad del Cauca,http://www.unicauca.edu.co/
 Universidad del Centro de México,http://www.ucem.edu.mx/
 Universidad del Centro Educativo Latinoamericano Rosario,http://www.ucel.edu.ar/
 Universidad del Cine - Buenos Aires,http://www.ucine.edu.ar/
@@ -5339,16 +5361,16 @@ Universidad de Lima,http://www.ulima.edu.pe/
 Universidad del Istmo,http://www.udi.edu/
 Universidad del Istmo,http://unis.edu.gt/
 Universidad del Magdalena,http://www.unimagdalena.edu.co/
-Universidad del Mar,http://www.umar.mx/
 Universidad del Mar,http://www.udelmar.cl/
+Universidad del Mar,http://www.umar.mx/
 Universidad del Museo Social Argentino,http://www.umsa.edu.ar/
 Universidad del Noreste,http://www.une.edu.mx/
 Universidad del Noroeste,http://www.une.edu.mx/
-Universidad del Norte,http://www.uninorte.edu.py/
 Universidad del Norte,http://www.uninorte.edu.co/
+Universidad del Norte,http://www.uninorte.edu.py/
 Universidad del Norte,http://www.un.edu.mx/
 Universidad del Norte "Santo Tomás de Aquino",http://www.unsta.edu.ar/
-Universidad de Los Andes,http://www.uniandes.edu.co/
+Universidad de Los Andes,https://uniandes.edu.co/
 Universidad de Los Andes,http://www.ula.ve/
 Universidad de Los Andes,http://www.uandes.cl/
 Universidad de Los Lagos,http://www.ulagos.cl/
@@ -5378,9 +5400,9 @@ Universidad del Zulia,http://www.luz.edu.ve/
 Universidad de Magallanes,http://www.umag.cl/
 Universidad de Málaga,http://www.uma.es/
 Universidad de Managua (U de M),http://www.udem.edu.ni/
-Universidad de Manizales,http://www.umanizales.edu.co/
+Universidad de Manizales,http://umanizales.edu.co/
 Universidad de Matanzas Camilo Cienfuegos,http://www.umcc.cu/
-Universidad de Medellín,http://www.udem.edu.co/
+Universidad de Medellín,https://www.udem.edu.co/
 Universidad de Mendoza,http://www.um.edu.ar/
 Universidad de Montemorelos,http://www.um.edu.mx/
 Universidad de Monterrey,http://www.udem.edu.mx/
@@ -5415,8 +5437,8 @@ Universidad de Puerto Rico, Rio Pedras,http://www.uprrp.edu/
 Universidad de Puerto Rico, Utuado,http://www.uprutuado.edu/
 Universidad de Quintana Roo,http://www.uqroo.mx/
 Universidad de Salamanca,http://www.usal.es/
-Universidad de San Andres,http://www.udesa.edu.ar/
 Universidad de San Andres,http://www.usanandres.cl/
+Universidad de San Andres,http://www.udesa.edu.ar/
 Universidad de San Buenaventura,http://www.usb.edu.co/
 Universidad de San Buenaventura Medellin,http://www.usbmed.edu.co/
 Universidad de San Carlos de Guatemala,http://www.usac.edu.gt/
@@ -5424,6 +5446,7 @@ Universidad de San José,http://www.universidadsanjosecr.com/
 Universidad de San Miguel,http://www.usm.edu.mx/
 Universidad de San Pablo CEU,http://www.ceu.es/
 Universidad de San Pedro Sula,http://www.usap.edu/
+Universidad de Santander,http://www.udes.edu.co/
 Universidad de Santiago de Chile,http://www.usach.cl/
 Universidad de Santiago de Compostela,http://www.usc.es/
 Universidad de Sevilla,http://www.us.es/
@@ -5440,7 +5463,7 @@ Universidad de Vigo,http://www.uvigo.es/
 Universidad de Viña del Mar,http://www.uvm.cl/
 Universidad de Zaragoza,http://www.unizar.es/
 Universidad Diego Portales,http://www.udp.cl/
-Universidad Distral "Francisco José de Caldas",http://www.udistrital.edu.co/
+Universidad Distral "Francisco José de Caldas",https://www.udistrital.edu.co/
 Universidad Domingo Savio,http://www.upds.edu.bo/
 Universidad Dominicana O&M,http://www.udoym.edu.do/
 Universidad Dominico-Americana,http://www.icda.edu.do/espanol/unicda/
@@ -5452,6 +5475,8 @@ Universidad Dr. Rafael Belloso Chacín,http://www.urbe.edu/
 Universidade 11 de Novembro,http://www.uon.ed.ao/
 Universidade Aberta Lisboa,http://www.univ-ab.pt/
 Universidad EAFIT,http://www.eafit.edu.co/
+Universidad EAN (Escuela de Administración de Negocios),https://universidadean.edu.co/
+Universidade Anhanguera de Anápolis,http://www.anhanguera.com/graduacao/localidades/anapolisgo.php
 Universidade Atlântica,http://www.uatla.pt/
 Universidade Autónoma de Lisboa Luís de Camoes,http://www.universidade-autonoma.pt/
 Universidade Bandeirante de São Paulo,http://www.uniban.br/
@@ -5680,7 +5705,7 @@ Universidad Iberoamericana de Ciencias y Tecnologia,http://www.unicit.cl/
 Universidad Iberoamericana de Ciencia y Tecnologia,http://www.unicit.edu.ni/
 Universidad Iberoamericana Puebla,http://www.iberopuebla.mx/
 Universidad ICESI,http://www.icesi.edu.co/
-Universidad INCCA de Colombia,http://www.unincca.edu.co/
+Universidad INCCA de Colombia,https://www.unincca.edu.co/
 Universidad Industrial de Santander,http://www.uis.edu.co/
 Universidad Insurgentes Plantel León,http://uinleon.mx/
 Universidad Interamericana,http://www.unica.edu.do/
@@ -5764,12 +5789,12 @@ Universidad Miguel Hernández de Elche,http://www.umh.es/
 Universidad Militar Nueva Granada,http://www.umng.edu.co/
 Universidad Modular Abierta,http://www.uma.edu.sv/
 Universidad Monsenor Oscar Arnulfo Romeo,http://umoar.edu.sv/
-Universidad Monteávila,http://www.universidad-monteavila.edu.ve/
+Universidad Monteávila,https://www.uma.edu.ve/
 Universidad Motolinía del Pedegral,http://www.universidadmotolinia.edu.mx/
 Universidad Motolinía del Pedregal,http://www.motolinia.com.mx/
 Universidad Nacional,http://www.una.ac.cr/
 Universidad Nacional Abierta,http://www.una.edu.ve/
-Universidad Nacional Abierta y a Distancia,http://www.unad.edu.co/
+Universidad Nacional Abierta y a Distancia,https://www.unad.edu.co/
 Universidad Nacional Agraria,http://www.una.edu.ni/
 Universidad Nacional Agraria de la Selva,http://www.unas.edu.pe/
 Universidad Nacional Agraria La Molina,http://www.lamolina.edu.pe/
@@ -5783,7 +5808,7 @@ Universidad Nacional de Asunción,http://www.una.py/
 Universidad Nacional de Cajamarca,http://www.unc.edu.pe/
 Universidad Nacional de Catamarca,http://www.unca.edu.ar/
 Universidad Nacional de Chimborazo,http://www.unach.edu.ec/
-Universidad Nacional de Colombia,http://www.unal.edu.co/
+Universidad Nacional de Colombia,http://unal.edu.co/
 Universidad Nacional de Córdoba,http://www.unc.edu.ar/
 Universidad Nacional de Cuyo,http://www.uncu.edu.ar/
 Universidad Nacional de Educación a Distancia,http://www.uned.es/
@@ -5902,7 +5927,7 @@ Universidad Politecnica de Nicaragua,http://www.upoli.edu.ni/
 Universidad Politecnica de Puerto Rico,http://www.pupr.edu/
 Universidad Politécnica de Valencia,http://www.upv.es/
 Universidad Politécnica Salesiana,http://www.ups.edu.ec/
-Universidad Pontificia Bolivariana,http://www.upb.edu.co/
+Universidad Pontificia Bolivariana,https://www.upb.edu.co/
 Universidad Pontificia Comillas,http://www.upco.es/
 Universidad Pontificia de Salamanca,http://www.upsa.es/
 Universidad Popular Autonóma del Estado de Puebla,http://www.upaep.mx/
@@ -5949,7 +5974,7 @@ Universidad Santa Fe,http://www.usf.com.mx/
 Universidad Santa María Campus Guayaquil,http://www.usm.edu.ec/
 Universidad Santa Maria Caracas,http://usm.trompo.com/
 Universidad Santa Paula,http://www.uspsantapaula.com/
-Universidad Santiago de Cali,http://www.usaca.edu.co/
+Universidad Santiago de Cali,http://www.usc.edu.co/
 Universidad Santo Tomás,http://www.usta.edu.co/
 Universidad Santo Tomás,http://www.ust.cl/
 Universidad Señor de Sipán,http://www.uss.edu.pe/
@@ -5971,11 +5996,12 @@ Universidad Técnica Latinoamericana,http://utla.edu.sv/
 Universidad Técnica Particular de Loja,http://www.utpl.edu.ec/
 Universidad Tecnológica América,http://www.unita.edu.ec/
 Universidad Tecnológica Centroamericana,http://www.unitec.edu/
+Universidad Tecnológica de Bolívar,http://www.unitecnologica.edu.co/
 Universidad Tecnológica de El Salvador,http://www.utec.edu.sv/
 Universidad Tecnológica de Honduras,http://www.uth.hn/
 Universidad Tecnologica de la Mixteca,http://www.utm.mx/
 Universidad Tecnológica del Centro,http://www.unitec.edu.ve/
-Universidad Tecnológica del Choco "Diego Luis Cordoba",http://www.utch.edu.co/
+Universidad Tecnológica del Choco "Diego Luis Cordoba",https://www.utch.edu.co/
 Universidad Tecnológica de los Andes de Apurímac,http://www.utea.edu.pe/
 Universidad Tecnológica del Peru,http://www.utp.edu.pe/
 Universidad Tecnológica del Sur,http://www.utesur.edu.do/
@@ -6000,11 +6026,69 @@ Universidad Veracruzana,http://www.uv.mx/
 Universidad Veritas,http://www.uveritas.ac.cr/
 Universidad Xicotepetl,http://www.uxac.edu.mx/
 Universidad Xochicalco,http://www.xochicalco.edu.mx/
-Universidad Yacambu,http://www.yacambu.edu.ve/
-Università Bocconi,http://www.uni-bocconi.it/
+Universidad Yacambú,http://www.uny.edu.ve/
+Università Bocconi,https://www.unibocconi.it/
+Università Ca' Foscari Venezia,http://www.unive.it/
+Università Cattolica del Sacro Cuore,http://www.unicatt.it/
+Università degli Studi della Basilicata,http://www.unibas.it/
+Università degli Studi dell'Aquila,http://www.univaq.it/
+Università degli Studi della Tuscia,http://www.unitus.it/
+Università degli Studi dell'Insubria,https://www.uninsubria.it/
+Università degli Studi del Molise,http://www.unimol.it/
+Università degli Studi del Sannio,http://www.unisannio.it/
+Università degli Studi di Bari,http://www.uniba.it/
+Università degli Studi di Bergamo,http://www.unibg.it/
+Università degli Studi di Brescia,http://www.unibs.it/
+Università degli Studi di Cagliari,http://www.unica.it/
+Università degli Studi di Cassino e del Lazio Meridionale,http://www.unicas.it/
+Università degli Studi di Catania,http://www.unict.it/
+Università degli Studi di Ferrara,http://www.unife.it/
+Università degli Studi di Firenze,http://www.unifi.it/
+Università degli Studi di Genova,https://unige.it/
+Università degli Studi di Messina,http://www.unime.it/
+Università degli Studi di Milano,http://www.unimi.it/
+Università degli Studi di Milano-Bicocca,https://www.unimib.it/
+Università degli Studi di Modena e Reggio Emilia,https://www.unimore.it/
+Università degli Studi di Napoli Federico II,http://www.unina.it/
+Università degli Studi di Palermo,http://www.unipa.it/
+Università degli Studi di Parma,http://www.unipr.it/
+Università degli studi di Pavia,http://www.unipv.eu/
+Università degli Studi di Perugia,http://www.unipg.it/
+Università degli Studi di Roma "Tor Vergata",http://www.uniroma2.it/
+Università degli Studi di Salerno,http://www.unisa.it/
+Università degli Studi di San Marino,http://www.unirsm.sm/
+Università degli Studi di Sassari,https://www.uniss.it/
+Università degli Studi di Scienze Gastronomiche,http://www.unisg.it/
+Università degli Studi di Siena,http://www.unisi.it/
+Universitá degli Studi di Teramo,http://www.unite.it/
+Università degli Studi di Trieste,http://www.units.it/
+Università degli Studi di Udine,https://www.uniud.it/
+Università degli Studi di Urbino Carlo Bo,https://www.uniurb.it/
+Università degli Studi "G. d'Annunzio" Chieti,http://www.unich.it/
+Università degli Studi Link Campus,http://www.unilink.it/
+Università degli Studi Mediterranea,http://www.unirc.it/
+Università degli Studi Suor Orsola Benincasa,http://www.unisob.na.it/
+Universitá della Calabria,http://www.unical.it/
 Università della Svizzera italiana,https://www.usi.ch/
-Università Pontifcia Salesiana,http://www.ups.urbe.it/
-Università Pontificia Salesiana,http://www.unisal.it/
+Università del Salento,https://www.unisalento.it/
+Università di Bologna,http://www.unibo.it/
+Università di Camerino,http://www.unicam.it/
+Università di comunicazione e lingue,http://www.iulm.it/
+Università di Foggia,http://www.unifg.it/
+Università di Macerata,http://www.unimc.it/
+Università di Padova,http://www.unipd.it/
+Università di Pisa,https://www.unipi.it/
+Università di Roma LUMSA,http://www.lumsa.it/
+Università di Torino,http://www.unito.it/
+Università di Trento,http://www.unitn.it/
+Universitá di Verona,http://www.univr.it/
+Università Iuav di Venezia,http://www.iuav.it/
+Università per Stranieri di Perugia,https://www.unistrapg.it/
+Università per Stranieri di Siena,http://www.unistrasi.it/
+Università Politecnica delle Marche,http://www.univpm.it/
+Università Pontifcia Salesiana,https://www.unisal.it/
+Università Pontificia Salesiana,https://www.unisal.it/
+Università Roma Tre,http://www.uniroma3.it/
 Universitas 17 Agustus 1945 Banyuwangi,http://www.untag-banyuwangi.ac.id/
 Universitas 17 Agustus 1945 Cirebon,http://www.untagcirebon.info/
 Universitas 17 Agustus 1945 Jakarta,http://www.untag-jkt.org/
@@ -6175,7 +6259,7 @@ Universitat de Vic,http://www.uvic.es/
 Universität Dortmund,http://www.uni-dortmund.de/
 Universität Duisburg-Essen,http://www.uni-duisburg-essen.de/
 Universitatea de Vest "Vasile Goldi&#351;" ,http://www.uvvg.ro/
-Università Telematica Pegaso,http://www.unipegaso.it/
+Università Telematica Pegaso,https://www.unipegaso.it/
 Universität Erfurt,http://www.uni-erfurt.de/
 Universität Flensburg,http://www.uni-flensburg.de/
 Universität Fridericana Karlsruhe (Technische Hochschule),http://www.uni-karlsruhe.de/
@@ -6197,7 +6281,7 @@ Universität Koblenz-Landau,http://www.uni-koblenz-landau.de/
 Universität Köln,http://www.uni-koeln.de/
 Universität Konstanz,http://www.uni-konstanz.de/
 Universität Leipzig,http://www.uni-leipzig.de/
-Universität Liechtenstein,http://www.uni.li/
+Universität Liechtenstein,https://www.uni.li/
 Universität Linz,http://www.jku.at/
 Universität Lüneburg,http://www.uni-lueneburg.de/
 Universität Mannheim,http://www.uni-mannheim.de/
@@ -6212,12 +6296,13 @@ Universitat Rámon Llull,http://www.url.es/
 Universität Regensburg,http://www.uni-regensburg.de/
 Universität Rostock,http://www.uni-rostock.de/
 Universitat Rovira I Virgili Tarragona,http://www.urv.es/
-Universität Salzburg,http://www.sbg.ac.at/
+Universität Salzburg,https://www.uni-salzburg.at/
 Universität Siegen,http://www.uni-siegen.de/
 Universität Stuttgart,http://www.uni-stuttgart.de/
 Universität Trier,https://www.uni-trier.de/
 Universität Ulm,http://www.uni-ulm.de/
-Universität Vienna,http://www.univie.ac.at/
+Universität Wien,https://www.univie.ac.at/
+Università Vanvitelli,http://www.unina2.it/
 Université Abdelmalek Essadi,https://www.uae.ma/
 Université Abdou Moumouni de Niamey,http://uam.refer.ne/
 Université Abou Bekr Belkaid, Tlemcen,https://www.univ-tlemcen.dz/
@@ -6230,7 +6315,7 @@ Université Amar Telidji,http://www.lagh-univ.dz/
 Université Badji Mokhtar,http://www.univ-annaba.dz/
 Université Blaise Pascal (Clermont-Ferrand II),http://www.univ-bpclermont.fr/
 Université Bordeaux I,http://www.cribx1.u-bordeaux.fr/
-Université Cadi Ayyad,http://www.ucam.ac.ma/
+Université Cadi Ayyad,https://www.uca.ma/
 Université Catholique de Bukavu,http://www.ucbukavu.ac.cd/
 Université Catholique de Kabgayi,http://www.uck.ac.rw/
 Université Catholique de l'Afrique de l'Ouest,http://www.ucaouua.com/
@@ -6392,10 +6477,9 @@ Université François Rabelais de Tours,http://www.univ-tours.fr/
 Université Gamal Abdel Nasser de Conakry,http://uganc.org/
 Université Gaston Berger Saint-Louis,http://www.ugb.sn/
 Université Hassan Ier - Settat,http://www.uh1.ac.ma/
-Université Hassan II - Aïn Chock,http://www.rectorat-uh2c.ac.ma/
-Université Hassan II - Mohammadia,http://www.uh2m.ac.ma/
+Université Hassan II de Casablanca,http://www.univh2c.ma/
 Université Henri Poincaré (Nancy I),http://www.uhp-nancy.fr/
-Université Ibn Toufail,http://www.univ-ibntofail.ac.ma/
+Université Ibn Tofaïl,http://www.uit.ac.ma/
 Université Ibn Zohr Agadir,http://www.esta.ac.ma/
 Universiteit Antwerpen,http://www.ua.ac.be/
 Universiteit Antwerpen Management School,http://www.uams.be/
@@ -6420,11 +6504,11 @@ Université Lumiére (Lyon II),http://www.univ-lyon2.fr/
 Université Mentouri Constantine,http://www.umc.edu.dz/
 Université M'hamed Bouguerra de Boumerdes,http://www.univ-boumerdes.dz/
 Université Michel de Montaigne (Bordeaux III ),http://www.montaigne.u-bordeaux.fr/
-Université Mohammed Ier,http://www.univ-oujda.ac.ma/
+Université Mohammed Premier Oujda,http://www.ump.ma/
 Université Mohammed V - Agdal,http://www.um5a.ac.ma/
 Université Mohammed V - Souissi,http://www.um5s.ac.ma/
 Université Montesquieu (Bordeaux IV),http://www.montesquieu.u-bordeaux.fr/
-Université Moulay Ismail Meknès,http://www.rumi.ac.ma/
+Université Moulay Ismaïl,http://www.umi.ac.ma/
 Université Mouloud Mammeri de Tizi Ouzou,http://www.ummto.dz/
 Université Multiculturelle Internationale,http://www.umi.edu/
 Université Nancy II,http://www.univ-nancy2.fr/
@@ -6514,11 +6598,8 @@ University for Information Science and Technology  "St. Paul The Apostle" ,http:
 University for Peace,http://www.upeace.org/
 University Goce Delcev,http://www.ugd.edu.mk/
 University "Haxhi Zeka",http://unhz.eu/
-University Institute of Architecture Venice,http://www.iuav.unive.it/
-University Institute of Modern Languages,http://www.iulm.it/
 University Institute of Naval Studies,http://www.uninav.it/
-University Institute of Oriental Studies,http://www.iuo.it/
-University Institute of Teacher Training "Suor Orsola Benincasa",http://www.unisob.na.it/
+University Institute of Oriental Studies,http://www.unior.it/
 University Konstantina Filozov in Nitra,http://www.ukf.sk/
 University Lucian Blaga of Sibiu,http://www.ulbsibiu.ro/
 University Malaysia Pahang,http://www.ump.edu.my/
@@ -6531,8 +6612,8 @@ University of Abertay Dundee,http://www.abertay.ac.uk/
 University of Abuja,https://www.uniabuja.edu.ng/
 University of Adelaide,http://www.adelaide.edu.au/
 University of Aden,http://www.aden-univ.net/
-University of Agricultural Sciences, Bangalore,http://uasbng.kar.nic.in/
-University of Agricultural Sciences, Dharwad,http://www.uasd.net/
+University of Agricultural Sciences, Bangalore,http://www.uasbangalore.edu.in/
+University of Agricultural Sciences, Dharwad,https://www.uasd.edu/
 University of Agriculture Abeokuta,http://www.unaab.edu.ng/
 University of Agriculture and Veterinary Medicine Bucharest,http://www.usab.ro/
 University of Agriculture and Veterinary Medicine Cluj-Napoca,http://www.usamvcluj.ro/
@@ -6547,16 +6628,13 @@ University of Aleppo,http://www.alepuniv.edu.sy/
 University of Al-Qadisiyah,http://www.qu.edu.iq/
 University of Amsterdam,http://www.uva.nl/
 University of Anbar,http://www.uoanbar.edu.iq/
-University of Ancona,http://www.unian.it/
 University of Andorra,http://www.uda.ad/
 University of Applied Science and Technology,http://www.uast.ac.ir/
 University of Applied Sciences,http://www.tktk.ee/
 University of Applied Sciences Basel (FHBB ),https://www.fhnw.ch/
 University of Applied Sciences Chur,http://www.htwchur.ch/
 University of Applied Sciences in Ferizaj,http://www.ushaf.net/
-University of Applied Sciences of Moldova,http://www.usam.md/
 University of Applied Sciences Rapperswil,https://www.hsr.ch/
-University of Aquila,http://www.univaq.it/
 University of Architecture, Civil Engineering and Geodesy,http://www.uacg.bg/
 University of Art and Design Cluj-Napoca,http://www.uartdcluj.ro/
 University of Art and Design Helsinki,http://www.uiah.fi/
@@ -6572,7 +6650,6 @@ University of Bahrain,http://www.uob.edu.bh/
 University of Ballarat,http://www.ballarat.edu.au/
 University of Balochistan,http://www.uob.edu.pk/
 University of Banja Luka,http://www.unibl.org/
-University of Bari,http://www.uniba.it/
 University of Basel,https://www.unibas.ch/
 University of Basrah,http://www.uobasrah.edu.iq/
 University of Batangas,http://www.ub.edu.ph/
@@ -6582,43 +6659,35 @@ University of Belgrade,http://www.bg.ac.rs/
 University of Belize,http://www.ub.edu.bz/
 University of Benghazi,http://www.uob.edu.ly/
 University of Benin,http://www.uniben.edu/
-University of Bergamo,http://www.unibg.it/
 University of Bergen,http://www.uib.no/
 University of Berne,http://www.unibe.ch/
 University of Bialystok,http://www.ub.edu.pl/
 University of Bihac,http://www.unbi.ba/
 University of Birmingham,http://www.bham.ac.uk/
 University of Bohol,http://www.universityofbohol.com/
-University of Bologna,http://www.unibo.it/
 University of Bolton,http://www.bolton.ac.uk/
 University of Botswana,http://www.ub.bw/
 University of Bradford,http://www.brad.ac.uk/
-University of Brescia,http://www.unibs.it/
 University of Brighton,http://www.bton.ac.uk/
 University of Bristol,http://www.bris.ac.uk/
 University of British Columbia,http://www.ubc.ca/
 University of Bucharest,http://www.unibuc.ro/
-University of Buckingham,http://www.buck.ac.uk/
+University of Buckingham,https://www.buckingham.ac.uk/
 University of Bunkyo,http://www.u-bunkyo.ac.jp/
 University of Burao,http://www.buraouniversity.com/
-University of Burdwan,http://www.burdwanuniversity.ac.in/
+University of Burdwan,http://www.buruniv.ac.in/
 University of Cagayan Valley,http://www.ucv.edu.ph/
-University of Cagliari,http://www.unica.it/
 University of Calabar,http://www.unical.edu.ng/
-University of Calabria,http://www.unical.it/
 University of Calcutta,http://www.caluniv.ac.in/
 University of Calgary,http://www.ucalgary.ca/
-University of Calicut,http://unical.ac.in/
+University of Calicut,http://www.universityofcalicut.info/
 University of Caloocan City,http://www.ucc-caloocan.edu.ph/
 University of Cambodia,http://www.uc.edu.kh/
 University of Cambridge,http://www.cam.ac.uk/
-University of Camerino,http://www.unicam.it/
 University of Canberra,http://www.canberra.edu.au/
 University of Canterbury,http://www.canterbury.ac.nz/
 University of Cape Coast,http://www.ucc.edu.gh/
 University of Cape Town,http://www.uct.ac.za/
-University of Cassino,http://www.unicas.it/
-University of Catania,http://www.unict.it/
 University of Cebu,http://www.universityofcebu.edu.ph/
 University of Central Europe in Skalica,http://www.sevs.sk/
 University of Central Greece,http://www.ucg.gr/
@@ -6626,10 +6695,8 @@ University of Central Lancashire,http://www.uclan.ac.uk/
 University of Central Punjab,http://www.ucp.edu.pk/
 University of Chemical Technology and Metallurgy,http://www.uctm.edu/
 University of Chester,http://www.chester.ac.uk/
-University of Chieti,http://www.unich.it/
 University of Chittagong,http://www.cu.ac.bd/
 University of Colombo,http://www.cmb.ac.lk/
-University of Commerce Luigi Bocconi,http://www.uni-bocconi.it/
 University of Computer Science, Mandalay,http://www.ucsm.edu.mm/
 University of Computer Studies, Yangon,http://www.ucsy.edu.mm/
 University of Constanta,http://www.univ-ovidius.ro/
@@ -6638,7 +6705,6 @@ University of Craiova,http://www.central.ucv.ro/
 University of Crete,http://www.uoc.gr/
 University of Cyprus,http://www.ucy.ac.cy/
 University of Da Lat,http://www.dlu.edu.vn/
-University of Dammam,http://www.ud.edu.sa/
 University of Da Nang,http://www.udn.vn/
 University of Dar Es Salaam,https://www.udsm.ac.tz/
 University of Debrecen ,http://www.unideb.hu/
@@ -6649,7 +6715,7 @@ University of Development Alternative,http://www.uoda.edu.bd/
 University of Dhaka,http://www.du.ac.bd/
 University of Divinity,https://www.divinity.edu.au/
 University of Dodoma,http://www.udom.ac.tz/
-University of Dohuk (Kurdistan Region),http://www.uod.ac/
+University of Dohuk (Kurdistan Region),http://web.uod.ac/
 University of Dongola,http://www.uofd.edu.sd/
 University Of Dubai,http://www.ud.ac.ae/
 University of Dublin, Trinity College,http://www.tcd.ie/
@@ -6681,26 +6747,20 @@ University of Engineering and Technology Taxila,http://www.uettaxila.edu.pk/
 University of Essex,http://www.essex.ac.uk/
 University of Exeter,http://www.ex.ac.uk/
 University of Faisalabad,http://www.tuf.edu.pk/
-University of Ferrara,http://www.unife.it/
 University of Fiji,https://www.unifiji.ac.fj/
 University of Finance and Management in Bialystok,http://www.wsfiz.edu.pl/
 University of Fine Arts Belgrade,http://www.arts.bg.ac.rs/
-University of Florence,http://www.unifi.it/
-University of Foggia,http://www.unifg.it/
 University of Food Technology,http://www.uft-plovdiv.bg/
 University of Forestry Sofia,http://www.ltu.bg/
 University of Fort Hare,http://www.ufh.ac.za/
 University of Fribourg,http://www.unifr.ch/
 University of Gadarif,http://www.gaduniv.edu.sd/
 University of Galatzi,http://www.ugal.ro/
-University of Gastronomic Sciences,http://www.unisg.it/
 University of Gdansk,http://www.univ.gda.pl/
 University of Geneva,http://www.unige.ch/
-University of Genoa,http://www.unige.it/
 University of Gezira,http://www.uofg.edu.sd/
 University of Ghana,https://www.ug.edu.gh/
 University of Gjirokstra "Eqerem Cabej",http://www.uogj.edu.al/
-University of Glamorgan,http://www.glam.ac.uk/
 University of Glasgow,http://www.gla.ac.uk/
 University of Gloucestershire,http://www.glos.ac.uk/
 University of Goroka,http://www.uog.ac.pg/
@@ -6727,8 +6787,8 @@ University of Hormozgan,http://www.hormozgan.ac.ir/
 University of Horticulture and Food Industry,http://www.kee.hu/
 University of Huddersfield,http://www.hud.ac.uk/
 University of Hull,http://www.hull.ac.uk/
-University of Human Development (Kurdistan Region),http://www.uhd.edu.iq/
-University of Hyderabad,http://www.uohyd.ernet.in/
+University of Human Development (Kurdistan Region),http://uhd.edu.iq/
+University of Hyderabad,https://www.uohyd.ac.in/
 University of Hydraulic Electric Engineering,http://www.uheeyc.edu.cn/
 University of Iasi,http://www.uaic.ro/
 University of Ibadan,http://www.ui.edu.ng/
@@ -6737,22 +6797,20 @@ University of Ilorin,http://www.unilorin.edu.ng/
 University of Indianapolis in Athens,http://www.uindy.edu.gr/
 University of Information Technology and Management in Rzeszow,http://www.wsiz.rzeszow.pl/
 University of Information Technology & Sciences,http://www.uits.edu.bd/
-University of Insubria,http://www.uninsubria.it/
 University of Insurance and Banking in Warsaw,http://www.wsub.waw.pl/
 University of International Business,http://www.uib.kz/
+University of International Business and Economics,http://www.uibe.cn/
 University of International Business and Economics,http://www.uibe.edu.cn/
 University of Ioannina,http://www.uoi.gr/
 University of Iringa,http://www.uoi.ac.tz/
 University of Islamic Studies,http://aldirasat.edu.pk/
-University of Italian Studies for Foreigners of Perugia,http://www.unistrapg.it/
-University of Italian Studies for Foreigners of Siena,http://www.unistrasi.it/
 University of Jaffna,http://www.jfn.ac.lk/
-University of Jammu,http://www.jammuvarsity.org/
+University of Jammu,http://www.jammuuniversity.in/
 University of Jan Evangelista Purkyne,http://www.ujep.cz/
 University of Jazeera,https://www.uoj.ac.ae/
 University of Jinan,http://www.ujn.edu.cn/
 University of Joensuu,http://www.joensuu.fi/
-University of Johannesburg,http://www.uj.ac.za/
+University of Johannesburg,https://www.uj.ac.za/
 University of Jordan,http://ju.edu.jo/
 University of Jos,http://www.unijos.edu.ng/
 University of Juba,http://www.juba.edu.sd/
@@ -6776,8 +6834,9 @@ University of Kragujevac,http://www.kg.ac.rs/
 University of Kufa,http://www.uokufa.edu.iq/
 University of Kuopio,http://www.uku.fi/
 University of Kurdistan,http://www.uok.ac.ir/
-University of Kurdistan - Hawler,http://www.ukh.ac/
+University of Kurdistan - Hawler,https://www.ukh.edu.krd/
 University of KwaZulu-Natal,http://www.ukzn.ac.za/
+University of Labour and Social Affairs,http://ulsa.edu.vn/
 University of Lagos,http://www.unilag.edu.ng/
 University of Lahore,http://www.uol.edu.pk/
 University of Lancaster,http://www.lancs.ac.uk/
@@ -6786,14 +6845,13 @@ University of Latvia,http://www.lu.lv/
 University of Lausanne,http://www.unil.ch/
 University of Lavasanat Pnu,http://www.lavasanpnu.ac.ir/
 University of LaVerne in Athens,http://www.laverne.edu.gr/
-University of Lecce,http://www.unile.it/
 University of Leeds,http://www.leeds.ac.uk/
 University of Leicester,http://www.le.ac.uk/
 University of Lethbridge,http://www.uleth.ca/
 University of Liberal Arts,http://www.ulab.edu.bd/
 University of Liberia,http://www.universityliberia.org/
 University of Limerick,http://www.ul.ie/
-University of Limpopo,http://www.ul.ac.za/
+University of Limpopo,https://www.ul.ac.za/
 University of Lincoln,http://www.lincoln.ac.uk/
 University of Liverpool,http://www.liv.ac.uk/
 University of Livingstonia,http://www.unilia.ac.mw/
@@ -6803,18 +6861,17 @@ University of Lodz,http://www.uni.lodz.pl/
 University of London,http://www.lon.ac.uk/
 University of Lower Silesia of the Association for the Advancement of Education in Wroclaw.,http://www.dswe.wroc.pl/
 University of Lucerne,http://www.unilu.ch/
-University of Lucknow,http://www.lucknowuniv.org/
+University of Lucknow,http://www.lkouniv.ac.in/
 University of Lusaka,http://www.unilus.ac.zm/
 University of Luxemburg,http://www.uni.lu/
 University of Maastricht,https://www.maastrichtuniversity.nl/
 University of Macau,http://www.umac.mo/
 University of Macedonia,http://www.uom.gr/
-University of Macerata,http://www.unimc.it/
 University of Madras,http://www.unom.ac.in/
 University of Maiduguri,http://www.unimaid.edu.ng/
 University of Malakand,http://www.uom.edu.pk/
 University of Malawi,http://www.unima.mw/
-University of Malta,http://www.um.edu.mt/
+University of Malta,https://www.um.edu.mt/
 University of Management and Marketing,http://www.wszim.edu.pl/
 University of Management and Technology,https://www.umt.edu.pk/
 University of Management and Technology ,http://www.umtech.edu.my/
@@ -6825,7 +6882,6 @@ University of Maribor,http://www.uni-mb.si/
 University of Marketing and Distribution Sciences,http://www.umds.ac.jp/
 University of Mashhad Pnu,http://www.pnum.ac.ir/
 University of Mauritius,http://www.uom.ac.mu/
-University of Media Arts,http://www.uma.ac.in/
 University Of Medical Sciences & Technology (UMST),http://www.umst-edu.com/
 University of Medical Technology, Yangon,http://www.umty.gov.mm/
 University of Medicine 1, Yangon,http://www.um1ygn.edu.mm/
@@ -6839,17 +6895,12 @@ University of Medicine and Pharmacy of Timisoara,http://www.umft.ro/
 University of Medicine Magway,http://www.ummg.gov.mm/
 University of Medicine, Mandalay,http://www.uopmdy.gov.mm/
 University of Melbourne,http://www.unimelb.edu.au/
-University of Messina,http://www.unime.it/
-University of Milan,http://www.unimi.it/
-University of Milan - Bicocca,http://www.unimib.it/
 University of Mindanao,http://www.umindanao.edu.ph/
 University of Mining and Geology "St. Ivan Rils",http://www.mgu.bg/
 University of Miskolc,http://www.uni-miskolc.hu/
 University of Mkar,http://www.unimkar.edu.ng/
-University of Modena,http://www.casa.unimo.it/
 University of Modern Sciences,http://www.ums-edu.com/
 University of Mohaghegh,http://www.uma.ac.ir/
-University of Molise,http://www.unimol.it/
 University of Moncton,http://www.umoncton.ca/
 University of Moncton, Edmundston,http://www.umoncton.ca/umce/
 University of Moncton, Shippagan,http://www.umoncton.ca/umcs/
@@ -6859,12 +6910,11 @@ University of Mostar,http://www.sve-mo.ba/
 University of Mosul,http://www.uomosul.edu.iq/
 University of Mumbai,http://www.mu.ac.in/
 University of Munawwar-ul-Islam,http://www.umi.edu.pk/
-University of Music and Fine Arts,http://www.iksvv.com/
-University of Mustansiriyah,http://www.uomustansiriyah.edu.iq/
+University of Music and Fine Arts,http://www.iksv.ac.in/
+University of Mustansiriyah,https://uomustansiriyah.edu.iq/
 University of Mysore,http://www.uni-mysore.ac.in/
 University of Nairobi,http://www.uonbi.ac.ke/
 University of Namibia,http://www.unam.edu.na/
-University of Naples Federico II,http://www.unina.it/
 University of National and World Economy,http://www.unwe.acad.bg/
 University of Negros Occidental-Recoletos,http://www.uno-r.edu.ph/
 University of Neuchatel,http://www.unine.ch/
@@ -6911,30 +6961,23 @@ University of Otago,http://www.otago.ac.nz/
 University of Ottawa,http://www.uottawa.ca/
 University of Oulu,http://www.oulu.fi/
 University of Oxford,http://www.ox.ac.uk/
-University of Padua,http://www.unipd.it/
-University of Paisley,http://www.paisley.ac.uk/
-University of Palermo,http://www.unipa.it/
 University of Palestine,http://www.up.edu.ps/
 University of Pangasinan,http://www.upang.edu.ph/
 University of Pannonia,http://www.uni-pannon.hu/
 University of Papua New Guinea,http://www.upng.ac.pg/
 University of Pardubice,http://www.upce.cz/
-University of Parma,http://www.unipr.it/
 University of Patras,http://www.upatras.gr/
-University of Pavia,http://www.unipv.it/
 University of Pecs,http://www.pte.hu/
 University of Peloponnese,http://www.uop.gr/
 University of Peradeniya,http://www.pdn.ac.lk/
 University of Performing Arts in Bratislava,http://www.vsmu.sk/
 University of Perpetual Help,http://www.uphr.edu.ph/
 University of Perpetual Help, System Dalta,http://www.perpetualdalta.edu.ph/
-University of Perugia,http://www.unipg.it/
 University of Peshawar,http://www.uop.edu.pk/
 University of Petra,https://www.uop.edu.jo/
 University of Petroleum (East China),http://www.hdpu.edu.cn/
 University of Petrosani,http://www.upet.ro/
 University of Piraeus,http://www.unipi.gr/
-University of Pisa,http://www.unipi.it/
 University of Pitesti,http://www.upit.ro/
 University of Plovdiv,http://www.uni-plovdiv.bg/
 University of Plymouth,http://www.plymouth.ac.uk/
@@ -6954,14 +6997,12 @@ University of Québec,http://www.uquebec.ca/
 University of Queensland,http://www.uq.edu.au/
 University of Rajasthan,http://www.uniraj.org/
 University of Rajshahi,http://www.ru.ac.bd/
+University of Raparin (Kurdistan Region),http://www.uor.edu.krd/
 University of Reading,http://www.rdg.ac.uk/
-University of Reggio Calabria,http://www.unirc.it/
 University of Regina,https://www.uregina.ca/
 University of Regina Carmeli,http://www.urc.edu.ph/
 University of Resita,http://www.uem.ro/
 University of Rijeka,http://www.uniri.hr/
-University of Roma "La Sapienza",http://www.uniroma1.it/
-University of Roma "Tor Vergata",http://www.uniroma2.it/
 University of Roorkee,http://www.uor.org/
 University of Rousse,http://www.ru.acad.bg/
 University of Ruhuna,http://www.ruh.ac.lk/
@@ -6969,24 +7010,20 @@ University of Sadat City,http://www.usc.edu.eg/
 University of Saint Joseph,http://www.usj.edu.mo/
 University of Saint La Salle,http://www.usls.edu/
 University of Saint Louis,http://www.usl.edu.ph/
-University of Salerno,http://www.unisa.it/
 University of Salford,http://www.salford.ac.uk/
 University of San Agustin,http://www.usa.edu.ph/
 University of San Carlos,http://www.usc.edu.ph/
 University of San Jose Recoletos,http://www.usjr.edu.ph/
-University of San Marino,http://www.unirsm.sm/
-University of Sannio,http://www.unisannio.it/
 University of Santo Tomas,http://www.ust.edu.ph/
 University of Sarajevo,http://www.unsa.ba/
 University of Sargodha,https://www.uos.edu.pk/
 University of Saskatchewan,http://www.usask.ca/
-University of Sassari,http://www.uniss.it/
 University of Science and Culture,http://www.usc.ac.ir/
 University of Science and Technology,http://www.ust.edu.sd/
 University of Science and Technology,http://www.ust.ac.kr/
 University of Science and Technology Beijing,http://www.ustb.edu.cn/
 University of Science and Technology of China,http://www.ustc.edu.cn/
-University of Science and Technology Sana'a,http://www.ust.edu/
+University of Science and Technology Sana'a,https://www.ust.edu/
 University of Science, Arts and Technology,http://www.usat.ms/
 University of Science & Technology Bannu,http://www.ustb.edu.pk/
 University of Science & Technology Chittagong,http://www.ustc.ac.bd/
@@ -6997,7 +7034,6 @@ University of Sheffield,http://www.shef.ac.uk/
 University of Shiga Prefecture,http://www.usp.ac.jp/
 University of Shkodra "Luigj Gurakuqi",http://www.unishk.edu.al/
 University of Sibiu,http://www.sibiu.ro/
-University of Siena,http://www.unisi.it/
 University of Sierra Leone,http://www.tusol.org/
 University of Silesia,http://www.us.edu.pl/
 University of Silvaner,http://www.unisilvaner.info/
@@ -7029,7 +7065,7 @@ University of St. Michael's College,https://stmikes.utoronto.ca/
 University of Strathclyde,http://www.strath.ac.uk/
 University of Suceava,http://www.usv.ro/
 University of Sudbury,http://www.usudbury.ca/
-University of Sulaimania (Kurdistan Region),http://www.univsul.edu.iq/
+University of Sulaimania (Kurdistan Region),http://univsul.edu.iq/
 University of Sunderland,http://www.sunderland.ac.uk/
 University of Surrey,http://www.surrey.ac.uk/
 University of Sussex,http://www.sussex.ac.uk/
@@ -7052,7 +7088,7 @@ University of Technology Jamaica,http://www.utech.edu.jm/
 University of Technology Sydney,http://www.uts.edu.au/
 University of Teesside,http://www.tees.ac.uk/
 University of Tehran,http://www.ut.ac.ir/
-University of Teramo,http://www.unite.it/
+University of the Academy of Sciences of Moldova,http://edu.asm.md/
 University of the Air,http://www.u-air.ac.jp/
 University of the Assumption,http://www.ua.edu.ph/
 University of the City of Manila,http://www.plm.edu.ph/
@@ -7062,7 +7098,7 @@ University of the East, Manila,http://www.ue.edu.ph/manila/
 University of the East, Ramon Magsaysay Memorial Medical Center,http://www.uerm.edu.ph/
 University of the Faroe Islands,http://www.setur.fo/
 University of the Fraser Valley,http://www.ufv.ca/
-University of the Free State,http://www.uovs.ac.za/
+University of the Free State,https://www.ufs.ac.za/
 University of the Gambia,http://www.utg.edu.gm/
 University of the Highlands and Islands,https://www.uhi.ac.uk/
 University of the Humanities,http://www.humanities.mn/
@@ -7091,36 +7127,30 @@ University of the Thai Chamber of Commerce,http://www.utcc.ac.th/
 University of the Virgin Islands,http://www.uvi.edu/
 University of the Visayas,http://www.uv.edu.ph/
 University of the Visual & Performing Arts,http://www.vpa.ac.lk/
-University of the Western Cape,http://www.uwc.ac.za/
+University of the Western Cape,https://www.uwc.ac.za/
 University of the West Indies, Cave Hill,http://www.uwichill.edu.bb/
 University of the West Indies, Mona,http://www.uwimona.edu.jm/
 University of the West Indies St. Augustine,http://www.uwi.tt/
 University of the West of England, Bristol,http://www.uwe.ac.uk/
+University of the West of Scotland,https://www.uws.ac.uk/
 University of Tirana,http://www.unitir.edu.al/
 University of Toronto,https://www.utoronto.ca/
 University of Toronto, Mississauga,http://www.utm.utoronto.ca/
 University of Toronto, Scarborough,http://www.utsc.utoronto.ca/
 University of Transport and Communications,http://www.utc.edu.vn/
-University of Trento,http://www.unitn.it/
-University of Trieste,http://www.univ.trieste.it/
 University of Trinidad and Tobago,http://www.utt.edu.tt/
 University of Trinity College,http://www.trinity.utoronto.ca/
 University of Tripoli,http://uot.edu.ly/
 University of Trnava,http://www.truni.sk/
 University of Tromsø,http://www.uit.no/
-University of Turin,http://www.unito.it/
 University of Turku,http://www.utu.fi/
 University of Tuzla,http://www.untz.ba/
 University of Twente,https://www.utwente.nl/
-University of Udine,http://www.uniud.it/
 University of Ulster,http://www.ulst.ac.uk/
 University of United Popular Nations,http://www.uupn-edu.net/
-University of Urbino,http://www.uniurb.it/
 University of Uyo,http://www.uniuyo.edu.ng/
 University of Vaasa,http://www.uwasa.fi/
 University of Venda,http://www.univen.ac.za/
-University of Venice,http://www.unive.it/
-University of Verona,http://www.univr.it/
 University of Veterinary and Pharmaceutical Science,http://www.vfu.cz/
 University of Veterinary & Animal Science,http://www.uvas.edu.pk/
 University of Veterinary Medicine in Kosice,http://www.uvm.sk/
@@ -7128,14 +7158,14 @@ University of Veterinary Science,http://www.univet.hu/
 University of Veterinary Science, Yezin,https://www.uvsyezin.edu.mm/
 University of Victoria,http://www.uvic.ca/
 University of Vlora "Ismail Qemali",http://www.univlora.edu.al/
+University of Vocational Technology ,http://univotec.ac.lk/
 University of Wah,http://uow.edu.pk/
 University of Waikato,http://www.waikato.ac.nz/
 University of Wales,http://www.wales.ac.uk/
 University of Wales, Aberystwyth,http://www.aber.ac.uk/
 University of Wales, Bangor,http://www.bangor.ac.uk/
-University of Wales College of Medicine,http://www.uwcm.ac.uk/
+University of Wales, Carmarthen Campus,http://www.uwtsd.ac.uk/carmarthen/
 University of Wales, Lampeter,http://www.uwtsd.ac.uk/lampeter/
-University of Wales, Newport,http://www.newport.ac.uk/
 University of Wales, Swansea,http://www.swan.ac.uk/
 University of Wamia and Masuria in Olsztyn,http://www.uwm.edu.pl/
 University of Warsaw,http://www.uw.edu.pl/
@@ -7166,7 +7196,7 @@ University of Zambia,https://www.unza.zm/
 University of Zenica,http://www.unze.ba/
 University of Zilinska,http://www.uniza.sk/
 University of Zimbabwe,http://www.uz.ac.zw/
-University of Zululand,http://www.uzulu.ac.za/
+University of Zululand,http://www.unizulu.ac.za/
 University of Zürich,http://www.uzh.ch/
 University Oil- Gas Ploiesti,http://www.upg-ploiesti.ro/
 University “Pavaresia” Vlore,http://www.unipavaresia.edu.al/
@@ -7197,15 +7227,15 @@ Urmia University of Medical Sciences,http://www.umsu.ac.ir/
 Urmia University of Technology,http://www.uut.ac.ir/
 Urumqi Vocational University,http://www.uvu.edu.cn/
 Usmanu Danfodiyo University Sokoto,http://www.udusok.edu.ng/
-Utkal University,http://www.utkaluniv.org/
+Utkal University,http://utkaluniversity.nic.in/
 Utrecht University,https://www.uu.nl/
 Utsunomiya University,http://www.utsunomiya-u.ac.jp/
 Uttarakhand Open University ,http://www.uou.ac.in/
-Uttarakhand Technical University,http://www.uktech.ac.in/
+Uttarakhand Technical University,http://uktech.ac.in/
 Uttara University,http://www.uttarauniversity.edu.bd/
 Uva Wellassa University,http://www.uwu.ac.lk/
 Uzbek State World Languages University,http://www.uzswlu.uz/
-Uzhgorod National University,http://www.univ.uzhgorod.ua/
+Uzhgorod National University,http://www.uzhnu.edu.ua/
 Uzima University College ,http://www.uzimauniversity.ac.ke/
 Vaal University of Technology,http://www.vut.ac.za/
 Vaasa University of Applied Sciences,http://www.puv.fi/
@@ -7219,7 +7249,7 @@ Van Lang University,http://www.dhdlvanlang.edu.vn/
 Vardhaman Mahaveer Open University,http://www.vmou.ac.in/
 Varna Free University,http://www.vfu.bg/
 Växjö University,http://www.vxu.se/
-VBS Purvanchal University,http://vbspu.ac.in/
+VBS Purvanchal University,http://www.vbspu.ac.in/
 Veer Kunwar Singh University,http://www.vksu.ac.in/
 Veer Surendra Sai University of Technology,http://www.vssut.ac.in/
 Veliko Turnovo University "Cyril and Methodius",http://www.uni-vt.bg/
@@ -7250,13 +7280,13 @@ Vinoba Bhave University,http://www.vbu.co.in/
 Virgen Milagrosa University Foundation,http://www.vmuf.edu.ph/
 Virtual University of Pakistan,http://www.vu.edu.pk/
 Visva-Bharati University,http://www.visva-bharati.ac.in/
-Visvesvaraya National Institute of Technology,http://www.vnitnagpur.ac.in/
-Visvesvaraya Technological University,http://www.vtu.ac.in/
+Visvesvaraya National Institute of Technology,http://www.vnit.ac.in/
+Visvesvaraya Technological University,http://vtu.ac.in/
 Vitebsk State Academy of Veterinary Medicine,http://www.vsavm.com/
 Vitebsk State Medical University,http://www.vgmu.vitebsk.by/
 Vitebsk State Technological University,http://vstu.by/
 Vitebsk State University,http://www.vsu.by/
-Viterbo State University,http://www.unitus.it/
+Vivek College of Commerce ,http://www.vivek-college.org/
 Vladimir State University,http://www.vlsu.ru/
 Vladivostock State University of Economics,http://www.vvsu.ru/
 Vlerick Leuven Gent Management School,http://www.vlerick.be/
@@ -7268,7 +7298,6 @@ Volgograd State Technical University,http://www.vstu.ru/
 Volgograd State University,http://www.volsu.ru/
 Volgograd State University of Architecture and Civil Engineering (VolgGASU),http://www.vgasa.ru/
 Vologda State Pedagogical University,http://www.uni-vologda.ac.ru/
-Volyn National University Lesja Ukrainka,http://www.vdu.edu.ua/
 Vongchavalitkul University,http://www.vu.ac.th/
 Voronezh State Academy of Technology,http://www.vgta.vrn.ru/
 Voronezh State Agricultural University,http://www.vsau.ru/
@@ -7311,7 +7340,7 @@ Wenzhou Medical College,http://www.wzmu.net/
 Wenzhou University,http://www.wzu.edu.cn/
 Wesleyan University Philippines,http://www.wesleyan.edu.ph/
 Wesley University of Science and Technology,http://wesleyuni.edu.ng/
-West Bengal University of Animal and Fishery Sciences,http://www.wbuafs.nic.in/
+West Bengal University of Animal and Fishery Sciences,https://wbuafscl.ac.in/
 West Bengal University of Technology,http://www.wbut.net/
 West China University of Medical Sciences,http://www.wcums.edu.cn/
 West Coast University (WCU),http://www.westcoastuniversity-edu.com/
@@ -7320,9 +7349,9 @@ Western Delta University,http://wdu.edu.ng/
 Western Galilee College,http://www.wgalil.ac.il/
 Western Kazakhstan Agricultural University,http://www.wkau.kz/
 Western Mindanao State University,http://www.wmsu.edu.ph/
-Western University,http://www.wu.edu.az/
 Western University,http://www.western.ac.th/
 Western University,http://www.western.edu.kh/
+Western University,http://www.wu.edu.az/
 Westfälische Wilhelms-Universität Münster,http://www.uni-muenster.de/
 Westhill University,http://www.westhill.edu.mx/
 West Minster International College,http://www.westminster.edu.my/
@@ -7332,7 +7361,7 @@ Westsächsische Hochschule Zwickau (FH),http://www.fh-zwickau.de/
 West University of Timisoara,http://www.uvt.ro/
 West Visayas State University,http://www.wvsu.edu.ph/
 Wilfrid Laurier University,https://www.wlu.ca/
-William Gilbert College,http://www.williamgilbert.co.uk/
+William Carey University,http://www.wcu.co.in/
 Wimbledon School of Art,http://www.wimbledon.ac.uk/
 Windsor University School of Medicine,http://www.windsor.edu/
 Wirtschaftsuniversität Wien,https://www.wu.ac.at/
@@ -7350,13 +7379,10 @@ World Maritime University,http://www.wmu.se/
 World University of Bangladesh,http://www.wub.edu/
 Wudanshan Taoist College ,http://www.wdsdjxy.com/
 Wuhan Automobile Polytechnical University,http://www.whapu.edu.cn/
-Wuhan Technical University of Surveying and Mapping,http://www.wtusm.edu.cn/
-Wuhan Transportation University,http://www.whtu.edu.cn/
 Wuhan University,http://www.whu.edu.cn/
-Wuhan University of Hydraulic and Electric Engineering,http://www.wuhee.edu.cn/
+Wuhan University of Technology,http://www.whut.edu.cn/
 Wuhan University of Technology,http://www.whut.edu.cn/
 Wuhan University School of Medicine,http://wsm.whu.edu.cn/
-Wuxi University of Light Industry,http://www.wxuli.edu.cn/
 Wuyi University,http://www.wyu.edu.cn/
 Xavier University,http://www.xu.edu.ph/
 Xiamen University,http://www.xmu.edu.cn/
@@ -7371,7 +7397,7 @@ Xi'an University of Architecture and Technology,http://www.xauat.edu.cn/
 Xi'an University of Electronic Science and Technology,http://www.xidian.edu.cn/
 Xi'an University of Technology,http://www.xaut.edu.cn/
 Xihua University,http://www.xhu.edu.cn/
-Xijiang University,http://www.xiju.edu.cn/
+Xijiang University,http://www.xju.edu.cn/
 Xinghai Conservatory of Music,http://www.xhcom.edu.cn/
 Xin Hua College of Sun Yat-Sen University,http://www.xhsysu.cn/
 Xinjiang Agriculture University,http://www.xjau.edu.cn/
@@ -7381,6 +7407,7 @@ Xinjiang University of Finance and Economics,http://www.xjufe.edu.cn/
 Xuzhou Normal University,http://www.xznu.edu.cn/
 Yaba College of Technology,http://www.yabatech.edu.ng/
 Yakutsk State University,http://www.ysu.ru/
+Yale-NUS College,https://www.yale-nus.edu.sg/
 Yalova University,http://www.yalova.edu.tr/
 Yamagata University,http://www.yamagata-u.ac.jp/
 Yamaguchi Prefectural University,http://www.yamaguchi-pu.ac.jp/
@@ -7390,10 +7417,9 @@ Yamanashi Medical University,http://www.yamanashi-med.ac.jp/
 Yamanashi University,http://www.yamanashi.ac.jp/
 Yan'an University,http://www.yau.edu.cn/
 Yanbian University,http://www.ybu.edu.cn/
-Yanbian University of Science and Technology,http://www.ybust.edu.cn/
+Yanbian University of Science and Technology,https://www.yust.edu/
 Yanbu Industrial College,http://www.yic.edu.sa/
 Yanbu Technical Institute,http://www.yti.edu.sa/
-Yanbu University College,http://www.yuc.edu.sa/
 Yangon University of Distance Education,http://www.yude.edu.mm/
 Yangon University of Economics,http://www.yueco.edu.mm/
 Yangon University of Foreign Languages,http://www.yufl.edu.mm/
@@ -7421,6 +7447,7 @@ Yazd University,http://www.yazduni.ac.ir/
 Yeditepe University,http://www.yeditepe.edu.tr/
 Yelets State University,http://www.elsu.ru/
 Yemenia University,http://www.yuniv.net/
+Yemen University,http://www.yemenuniversity.com/
 Yerevan Haibusak University,http://www.haybusak.org/
 Yerevan State Medical University,http://www.ysmu.am/
 Yerevan State University,http://www.ysu.am/
@@ -7435,7 +7462,6 @@ Yokohama College of Commerce,http://www.shodai.ac.jp/
 Yokohama National University,http://www.ynu.ac.jp/
 Yonsei University,http://www.yonsei.ac.kr/
 Yorker International University, Athens,http://www.nyuniversity.net/
-Yorker International University, Milano,http://www.nyuniversity.net/
 York University,http://www.yorku.ca/
 Yosu National University,http://www.yosu.ac.kr/
 YPC-iTWEB College,http://www.kolejypc.edu.my/
@@ -7457,34 +7483,11 @@ Zambian Open University,http://zaou.ac.zm/
 Zanjan Institute for Advanced Studies in Basic Sciences,http://www.iasbs.ac.ir/
 Zanjan University,http://www.znu.ac.ir/
 Zanjan University of Medical Sciences,http://www.zums.ac.ir/
-Zaporizhzhe National Technical University,http://www.zntu.edu.ua/
-Zaporizhzhe National University,http://www.znu.edu.ua/
+Zaporizhzhe National University,https://www.znu.edu.ua/
+Zaporozhye National Technical University,http://www.zntu.edu.ua/
+Zaporozhye State Medical University,http://zsmu.edu.ua/
 Zarka Private University,http://www.zu.edu.jo/
 Zawiya Academy,http://www.zawiya.edu.pk/
 Zawiya University,http://www.zu.edu.ly/
 Zayed University,http://www.zu.ac.ae/
 Zetech College,http://www.zetechcollege.com/
-Zhanjiang Ocean University,http://www.zjou.edu.cn/
-Zhejiang Forestry University,http://www.zjfc.edu.cn/
-Zhejiang Gongshang University,http://www.zjgsu.edu.cn/
-Zhejiang Normal University,http://www.zjnu.edu.cn/
-Zhejiang Sci-Tech University ,http://www.zstu.edu.cn/
-Zhejiang University,http://www.zju.edu.cn/
-Zhejiang University of Technology,http://www.zjut.edu.cn/
-Zhejiang Wanli University ,http://www.zwu.edu.cn/
-Zhengda Software College,http://www.zdsoft.com.cn/
-Zhengzhou Grain University,http://www.zzgc.edu.cn/
-Zhengzhou University of Technology,http://www.zzut.edu.cn/
-Zhetysu State University ,http://www.zhgu.kz/
-Zhezkazgan Baikonurov University,http://www.zhezu.kz/
-Zhongnan University of Economics and Law,http://www.znuel.net/
-Zhongnan University of Finance and Economics,http://www.znufe.edu.cn/
-Zhongnan University of Technology,http://www.zhnut.edu.cn/
-Zhongshan University,http://www.zsu.edu.cn/
-Ziauddin University,https://zu.edu.pk/
-Zimbabwe Ezekiel Guti University,http://www.zegu.ac.zw/
-Zimbabwe Open University,http://www.zou.ac.zw/
-Zürcher Hochschule der Künste,https://www.zhdk.ch/
-Zürcher Hochschule für Angewandte Wissenschaften,https://www.zhaw.ch/
-Zurich Institute of Business Education,http://www.ceibs.ch/
-Zuyd University,https://www.zuyd.nl/

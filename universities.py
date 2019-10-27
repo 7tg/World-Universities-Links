@@ -1,42 +1,37 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
-#page url
-url = "http://univ.cc/search.php?dom=world&key=&start="
+URL = "http://univ.cc/search.php?dom=world&key=&start="
 
-#last page count
-last = 7501
-
-#text file
-pt = open("universities.txt", "w")
-
+LAST_PAGE_NUMBER = 7551
 
 #function to read 
-def readpage(pageLink,pageCount):
- links = []
- try:
-     resp = urllib.request.urlopen(pageLink+str(pageCount))
-     soup = BeautifulSoup(resp, from_encoding=resp.info().get_param('charset'))
-     for link in soup.find("ol", {"start":pageCount}).find_all('a', href=True):
-         links.append(str(link.get_text())+','+link['href'])
- except:
- 	pass
- return links
+def read_page(pageLink,pageCount):
+  links = []
+  try:
+    resp = urllib.request.urlopen(pageLink+str(pageCount))
+    soup = BeautifulSoup(resp, from_encoding=resp.info().get_param('charset'))
+    for link in soup.find("ol", {"start":pageCount}).find_all('a', href=True):
+      links.append(str(link.get_text())+','+link['href'])
+  except:
+    pass
+  return links
 
+def main():
+  file_name="universities"
+  with open(file_name+".csv","w") as file:
+    for page_number in range(1,LAST_PAGE_NUMBER,50):
+      links = read_page(URL,page_number)
+      
+      percent = int((page_number/LAST_PAGE_NUMBER)*100)
+      percent_left = int(((LAST_PAGE_NUMBER-page_number)/LAST_PAGE_NUMBER)*100)
+      print(str(percent)+"% done "+str(percent_left)+"% left")
+      
+      for link in links:
+        try:
+          file.write(link+"\n")
+        except:
+          pass
 
-for i in range(1,last,50):
-	links = []
-	links = readpage(url,i)
-	percent = int((i/last)*100)
-	percent_left = int(((last-i)/last)*100)
-	print(str(percent)+"% done "+str(percent_left)+"% left")
-	for i in links:
-		try:
-			pt.write(i+"\n")
-		except:
-			pass
-
-pt.close
-
-
-
+if __name__ == "__main__":
+  main()
